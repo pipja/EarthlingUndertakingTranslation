@@ -408,10 +408,10 @@
 虞舜= Shun Yu
 剑修-男= Swordsman - Male
 剑修-女= Swordsman - Female
-大盗-男= Bandit - Male
-大盗-女= Bandit - Female
-善人-男= Good Man - Male
-善人-女= Good People - Female
+大盗-男= Rogue - Male
+大盗-女= Rogue - Female
+善人-男= Philanthropist - Male
+善人-女= Philanthropist - Female
 商人-男= Businessman - Male
 商人-女= Businessman - Female
 普通人= Ordinary people
@@ -11156,25 +11156,25 @@ buff_天雷之威= buff_The Might of Heavenly Thunder
 金灵护= Metal Soul Protection
 金属性伤害+11.25%= Metallic damage +11.25%
 金伤害提升=0.1125= Gold damage boost = 0.1125
-金行者= Gold Walkers
+金行者= Metal Practitioner
 金属性伤害+16.25%= Metallic damage +16.25%
 金伤害提升=0.1625= Gold damage boost = 0.1625
-金神体= Golden God Body
+金神体= Metal God Body
 金属性伤害+22.5%= Metallic damage +22.5%
 金伤害提升=0.225= Gold damage boost = 0.225
 木灵护= Wood Soul protection
 木属性伤害+11.25%= Wood property damage +11.25%
 木伤害提升=0.1125= Wood damage boost = 0.1125
-木行者= Woodwalker
+木行者= Wood Practitioner
 木属性伤害+16.25%= Wood property damage +16.25%
 木伤害提升=0.1625= Wood damage boost = 0.1625
-木神体= wood god body
+木神体= Wood God body
 木属性伤害+22.5%= Wood property damage +22.5%
 木伤害提升=0.225= Wood damage boost = 0.225
 水灵护= Water Soul Protection
 水属性伤害+11.25%= Water property damage +11.25%
 水伤害提升=0.1125= Water damage boost = 0.1125
-水行者= Waterwalker
+水行者= Water Practitioner
 水属性伤害+16.25%= Water property damage +16.25%
 水伤害提升=0.1625= Water damage boost = 0.1625
 水神体= Water God Body
@@ -11183,128 +11183,128 @@ buff_天雷之威= buff_The Might of Heavenly Thunder
 火灵护= Fire Soul Protection
 火属性伤害+11.25%= Fire damage +11.25%
 火伤害提升=0.1125= Fire damage boost = 0.1125
-火行者= Firewalker
+火行者= Fire Practitioner
 火属性伤害+16.25%= Fire property damage +16.25%
 火伤害提升=0.1625= Fire damage boost = 0.1625
-火神体= Vulcan body
+火神体= Fire God body
 火属性伤害+22.5%= Fire property damage +22.5%
 火伤害提升=0.225= Fire damage boost = 0.225
 土灵护= Earth Soul protection
 土属性伤害+11.25%= Earth property damage +11.25%
 土伤害提升=0.1125= Earth damage boost = 0.1125
-土行者= Earthwalker
+土行者= Earth Practitioner
 土属性伤害+16.25%= Earth property damage +16.25%
 土伤害提升=0.1625= Earth damage boost = 0.1625
 土神体= Earth God body
 土属性伤害+22.5%= Earth property damage +22.5%
 土伤害提升=0.225= Earth damage boost = 0.225
-金行亲和= Metal Trait Affinity
+金行亲和= Metal Affinity
 金抗性+14%= Metal resistance +14%
-金抗性提升=0.14= Gold resistance boost = 0.14
-金行加护= Metal Line Plus Protection
-金行庇护= Metal Trait Asylum
+金抗性提升=0.14= Metal resistance boost = 0.14
+金行加护= Metal Protection Plus
+金行庇护= Metal Protection
 金抗性提升=0.20= Metal resistance boost = 0.20
-金抗性+27%= Gold resistance +27%
+金抗性+27%= Metal resistance +27%
 金抗性提升=0.27= Metal resistance boost = 0.27
 木行亲和= Wood Affinity
 木抗性+14%= Wood resistance +14%
 木抗性提升=0.14= Wood resistance boost = 0.14
-木行加护= Woodworking Plus
-木行庇护= Wooden shelter
+木行加护= Wood Protection Plus
+木行庇护= Wood Protection
 木抗性提升=0.20= Wood resistance boost = 0.20
 木抗性+27%= Wood resistance +27%
-木抗性提升=0.27= Wood resistance improvement = 0.27
-水行亲和= Aquatic Affinity
+木抗性提升=0.27= Wood resistance boost = 0.27
+水行亲和= Water Affinity
 水抗性+14%= Water resistance +14%
-水行加护= Water line plus protection
-水行庇护= Aquatic Asylum
+水行加护= Water Protection Plus
+水行庇护= Water Protection
 水抗性提升=0.20= Water resistance boost = 0.20
 水抗性+27%= Water resistance +27%
 水抗性提升=0.27= Water resistance boost = 0.27
 火行亲和= Fire Affinity
 火抗性+14%= Fire resistance +14%
 火抗性提升=0.14= Fire resistance boost = 0.14
-火行加护= Firewalking Plus
-火行庇护= Fire Asylum
+火行加护= Fire Protection Plus
+火行庇护= Fire Protection
 火抗性提升=0.20= Fire resistance boost = 0.20
 火抗性+27%= Fire resistance +27%
 火抗性提升=0.27= Fire resistance boost = 0.27
-土行亲和= Earthbound Affinity
+土行亲和= Earth Affinity
 土抗性+14%= Earth resistance +14%
 土抗性提升=0.14= Earth resistance boost = 0.14
-土行加护= Earthbound Plus
-土行庇护= Earthbound Asylum
+土行加护= Earth Protection Plus
+土行庇护= Earth Protection Asylum
 土抗性提升=0.20= Earth resistance boost = 0.20
 土抗性+27%= Earth resistance +27%
 土抗性提升=0.27= Earth resistance boost = 0.27
-畏金体质= Gold fearing body
+畏金体质= Metal Weakness
 金抗性-10%= Gold resistance -10%
 金抗性提升=-0.1= Gold resistance boost = -0.1
-金殇体= Gotham Body
-金劫体= Golden Robber Body
+金殇体= Metal Fragility
+金劫体= Metal Vulnerability
 金抗性-14%= Gold resistance -14%
 金抗性提升=-0.14= Gold resistance boost = -0.14
 金抗性-20%= Gold resistance -20%
 金抗性提升=-0.2= Gold resistance boost = -0.2
-畏木体质= Wood fearing body
+畏木体质= Wood Weakness
 木抗性-10%= Wood resistance -10%
 木抗性提升=-0.1= Wood resistance improvement = -0.1
-木殇体= Wooden Gothic Body
-木劫体= Wooden robber body
+木殇体= Wood Fragility
+木劫体= Wood Vulnerability
 木抗性-14%= Wood resistance -14%
 木抗性提升=-0.14= Wood resistance improvement = -0.14
 木抗性-20%= Wood resistance -20%
 木抗性提升=-0.2= Wood resistance improvement = -0.2
-畏水体质= Hydrophobia
+畏水体质= Water Weakness
 水抗性-10%= Water resistance -10%
 水抗性提升=-0.1= Water resistance improvement = -0.1
-水殇体= Water Gothic Body
-水劫体= Waterjack body
+水殇体= Water Fragility
+水劫体= Water Vulnerability
 水抗性-14%= Water resistance -14%
 水抗性提升=-0.14= Water resistance improvement = -0.14
 水抗性-20%= Water resistance -20%
 水抗性提升=-0.2= Water resistance improvement = -0.2
-畏火体质= Fire-fearing body
+畏火体质= Fire Weakness
 火抗性提升=-0.1= Fire resistance boost = -0.1
-火殇体= Fire Gothic Body
-火劫体= fire-robbing body
+火殇体= Fire Fragility
+火劫体= Fire Vulnerability
 地火= Earth Fire
 火抗性-14%= Fire resistance -14%
 火抗性提升=-0.14= Fire resistance boost = -0.14
 火抗性-20%= Fire resistance -20%
 火抗性提升=-0.2= Fire resistance boost = -0.2
-畏土体质= earth-fearing body
+畏土体质= Earth Weakness
 土抗性-10%= Earth resistance -10%
 土抗性提升=-0.1= Earth resistance improvement = -0.1
-土殇体= Togetherness Body
-土劫体= earth robbing body
+土殇体= Earth Fragility
+土劫体= Earth Vulnerability
 土抗性-14%= Earth resistance -14%
 土抗性提升=-0.14= Earth resistance improvement = -0.14
 土抗性-20%= Earth resistance -20%
 土抗性提升=-0.2= Earth resistance improvement = -0.2
-战斗天才= Combat Genius
+战斗天才= Combat Apprentice
 战斗经验+5%= Combat experience +5%
 战斗角色经验提升=0.05= Combat character experience boost = 0.05
-战斗大师= Combat Master
+战斗大师= Combat Specialist
 战斗宗师= Combat Master
 战斗经验+10%= Combat experience +10%
 战斗角色经验提升=0.1= Combat character experience boost = 0.1
 战斗经验+15%= Combat experience +15%
 战斗角色经验提升=0.15= Combat character experience boost = 0.15
-术法天才= Artistic genius
+术法天才= Magic Apprentice
 术法精进+5%= Spell refinement +5%
 术法精进提升=0.05= Spell refinement improvement = 0.05
-术法大师= Master of Magic
+术法大师= Magic Specialist
 术法宗师= Magic Master
 术法精进+10%= Spell refinement +10%
 术法精进提升=0.1= Spell refinement improvement = 0.1
 术法精进+15%= Spell refinement +15%
 术法精进提升=0.15= Spell refinement improvement = 0.15
-心法天才= Psychic Genius
+心法天才= Psychic Apprentice
 心法经验+5%= Mind experience +5%
 心法经验提升=0.05= Mindfulness experience boost = 0.05
-心法大师= Master of Mindfulness
-心法宗师= Master of Mind
+心法大师= Psychic Specialist
+心法宗师= Psychic Master
 心法经验+10%= Mind experience +10%
 心法经验提升=0.1= Mindfulness experience boost = 0.1
 心法经验+15%= Mind experience +15%
@@ -33144,7 +33144,7 @@ X/回合= X/round
 请左键点击功法\n= Please left click on the feats \n
 战力：= Battle power.
 庇 护= Shelter
-冷漠(固执)= Indifference (stubbornness)
+冷漠(固执)= Indifferent (Stubborn)
 请左键点击阅书= Please left click to read the book
 执事= Deacon
 佩囊= Pouch
