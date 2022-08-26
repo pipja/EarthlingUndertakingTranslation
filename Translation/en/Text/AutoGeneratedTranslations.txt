@@ -1,4 +1,7 @@
-﻿木=Wood
+﻿男=Man
+女=Girl
+查看=Caution
+木=Wood
 铁=Iron
 青索=Blue Split
 紫郢=Violet Ying
@@ -592,7 +595,7 @@
 体魄提升= Body Enhancement
 悟性提升= Enlightenment Enhancement
 气血提升= Qi and blood boost
-福源提升= Fuyuan Elevation
+福源提升= Luck Elevation
 灵敏提升= Sensitivity enhancement
 魅力提升= Glamour Boost
 阅历提升= Experience Enhancement
@@ -600,7 +603,7 @@
 固定体魄= Fixed physique
 固定悟性= Fixed Gnosis
 固定气血= Fixed Qi and Blood
-固定福源= Fixed Fuyuan
+固定福源= Fixed Luck
 固定灵敏= Fixed sensitivity
 固定魅力= Fixed Charm
 金抗性提升= Gold resistance enhancement
@@ -878,7 +881,7 @@
 灵敏= Sensitive
 气血= qi and blood
 悟性= Perception
-福源= Fuyuan
+福源= Luck
 魅力= Charm
 攻强百分比= Attack Strength Percentage
 法强百分比= Mana Strength Percentage
@@ -8616,7 +8619,7 @@ luamanager.ShowInfomation(\"解锁涂山婉「收徒」！\")\r\nluamanager.Clos
 事件功法= Event Feats
 祖传功法= Ancestral Kung Fu
 普通掉宝= General Treasure Drop
-福源掉落集= Fuyuan drop set
+福源掉落集= Luck drop set
 捡到丹药= Picking up the elixir
 1档金钱= 1-step money
 {世界等级}-1档金钱= {World Level}-1st Money
@@ -9523,7 +9526,7 @@ buff_克敌先机= buff_Keep the enemy first
 buff_狂怒= buff_Rage
 啼叫= Crying
 啼叫2= Crying 2
-灵敏-6，福源-6= Sensitive-6, Fuyuan-6
+灵敏-6，福源-6= Sensitive-6, Luck-6
 buff_啼叫= buff_cry
 风神祝福= Wind God Blessing
 风神祝福2= Wind God Blessing 2
@@ -9715,7 +9718,7 @@ buff_力竭= buff_exhaustion
 返祖恶咒·催= Return to the evil spell-Rush
 身体潜力被催化爆发，灵敏+10；结束后受到力竭影响= Physical potential is catalyzed to explode with +10 agility; ends with force exhaustion
 人运灭咒= Manifest Destroy Curse
-福源-10= Fuyuan-10
+福源-10= Luck-10
 buff_人运灭咒= buff_People's luck extinguishing spell
 人运灭咒·衰= Manifest Destroy Spell - Decay
 人运灭咒2= People's Luck Extermination Curse 2
@@ -9804,7 +9807,7 @@ buff_吃人= buff_Eater
 buff_被吃= buff_Eaten
 护盾= Shield
 鬼之怨= The Ghost's Grudge
-“就算做鬼也不会放过你的，虽然我已经是鬼了。”每层使福源-3，持续整场战斗，最多叠加3层= "I won't let you go even if I'm a ghost, even though I'm already a ghost." Each layer makes Fuyuan -3, lasts for the whole battle, stacks up to 3 layers
+“就算做鬼也不会放过你的，虽然我已经是鬼了。”每层使福源-3，持续整场战斗，最多叠加3层= "I won't let you go even if I'm a ghost, even though I'm already a ghost." Each layer makes Luck -3, lasts for the whole battle, stacks up to 3 layers
 buff_鬼之怨= buff_Ghost's Grudge
 虚空领主= Lord of the Void
 虚空领主2= Lords of the Void 2
@@ -11063,25 +11066,25 @@ buff_天雷之威= buff_The Might of Heavenly Thunder
 悟性-7= Perception -7
 悟性提升=-7= Enlightenment boost = -7
 吉星官= Lucky Star Officer
-福源+3= Fuyuan +3
+福源+3= Luck +3
 福源提升=3= Fortunate source boost = 3
 福星官= Fortunate Officer
 欧星官= Eurostar Official
 星之运= Luck of the Stars
-福源+5= Fuyuan +5
+福源+5= Luck +5
 福源提升=5= Fortuna Boost = 5
-福源+7= Fuyuan +7
+福源+7= Luck +7
 福源提升=7= Fountain of Bliss Boost = 7
-福源+10= Fuyuan +10
+福源+10= Luck +10
 福源提升=10= Fortuna Boost = 10
 背星官= back astrologer
-福源-3= Fuyuan-3
+福源-3= Luck-3
 福源提升=-3= Fountainhead boost = -3
 霉星官= Moldy Star Officer
 扫星官= Star Sweeper
-福源-5= Fuyuan-5
+福源-5= Luck-5
 福源提升=-5= Fountainhead boost = -5
-福源-7= Fuyuan-7
+福源-7= Luck-7
 福源提升=-7= Fountainhead boost = -7
 锐眼= Sharp Eye
 暴击率+13.5%= Blast rate +13.5%
@@ -11644,7 +11647,7 @@ buff_天雷之威= buff_The Might of Heavenly Thunder
 体魄+15= Physical fitness +15
 体魄提升=15= Physical Enhancement = 15
 人之子= Son of Man
-福源+15= Fuyuan+15
+福源+15= Luck+15
 福源提升=15= Fortuna Boost = 15
 极魅之体= Body of Extreme Charm
 魅力+15= Charisma +15
@@ -11891,8 +11894,8 @@ buff_天雷之威= buff_The Might of Heavenly Thunder
 门派传道进度提升=-0.15= Sect preaching progress improvement = -0.15
 掉宝= Drop the treasure
 掉落集=普通掉宝= Drop set = ordinary drop treasure
-福源掉宝1= Fuyuan drop treasure 1
-掉落集=福源掉落集= Drop set = Fuyuan drop set
+福源掉宝1= Luck drop treasure 1
+掉落集=福源掉落集= Drop set = Luck drop set
 返程延长1= Return trip extended by 1
 返程时间增加1回合= Return time increased by 1 round
 返程回合提升=1= Return Round Boost = 1
@@ -12045,7 +12048,7 @@ buff_天雷之威= buff_The Might of Heavenly Thunder
 妖兽的诅咒= Curse of the Demon Beast
 生命值损失30%\n福源-5= Life value loss 30%\nFortune source-5
 气血提升=-0.3= Qi blood boost = -0.3
-福源=-5= Fuyuan = -5
+福源=-5= Luck = -5
 骨折= Fracture
 体魄=-5= Physical fitness = -5
 醉酒= Drunkenness
@@ -12070,9 +12073,9 @@ buff_天雷之威= buff_The Might of Heavenly Thunder
 土抗性-30%= Earth resistance -30%
 土抗性提升=-0.30= Earth resistance improvement = -0.30
 水逆= water adversity
-福源=-10= Fuyuan = -10
+福源=-10= Luck = -10
 鸿运= San Francisco, CA
-福源=10= Fuyuan = 10
+福源=10= Luck = 10
 脱胎换骨= shed one's body and change one's bones
 体魄=5= Physical fitness = 5
 聪慧= intelligent
@@ -12931,62 +12934,62 @@ buff_商品酒= buff_commodity_wine
 悟性57= Perception 57
 悟性58= Perception 58
 悟性59= Perception 59
-福源11= Fuyuan 11
-福源+2= Fuyuan +2
-福源=2= Fuyuan=2
-福源12= Fuyuan 12
-福源13= Fuyuan 13
-福源=3= Fuyuan = 3
-福源14= Fuyuan 14
-福源15= Fuyuan 15
-福源16= Fuyuan 16
-福源17= Fuyuan 17
-福源+4= Fuyuan +4
-福源=4= Fuyuan = 4
-福源18= Fuyuan 18
-福源19= Fuyuan 19
-福源=5= Fuyuan = 5
-福源21= Fuyuan 21
-福源22= Fuyuan 22
-福源23= Fuyuan 23
-福源24= Fuyuan 24
-福源25= Fuyuan 25
-福源26= Fuyuan 26
-福源27= Fuyuan 27
-福源28= Fuyuan 28
-福源29= Fuyuan 29
-福源+6= Fuyuan +6
-福源=6= Fuyuan = 6
-福源31= Fuyuan 31
-福源32= Fuyuan 32
-福源33= Fuyuan 33
-福源34= Fuyuan 34
-福源35= Fuyuan 35
-福源36= Fuyuan 36
-福源37= Fuyuan 37
-福源38= Fuyuan 38
-福源39= Fuyuan 39
-福源=7= Fuyuan = 7
-福源41= Fuyuan 41
-福源42= Fuyuan 42
-福源43= Fuyuan 43
-福源44= Fuyuan 44
-福源45= Fuyuan 45
-福源46= Fuyuan 46
-福源47= Fuyuan 47
-福源48= Fuyuan 48
-福源49= Fuyuan 49
-福源+8= Fuyuan +8
-福源=8= Fuyuan = 8
-福源51= Fuyuan 51
-福源52= Fuyuan 52
-福源53= Fuyuan 53
-福源54= Fuyuan 54
-福源55= Fuyuan 55
-福源56= Fuyuan 56
-福源57= Fuyuan 57
-福源58= Fuyuan 58
-福源59= Fuyuan 59
+福源11= Luck 11
+福源+2= Luck +2
+福源=2= Luck=2
+福源12= Luck 12
+福源13= Luck 13
+福源=3= Luck = 3
+福源14= Luck 14
+福源15= Luck 15
+福源16= Luck 16
+福源17= Luck 17
+福源+4= Luck +4
+福源=4= Luck = 4
+福源18= Luck 18
+福源19= Luck 19
+福源=5= Luck = 5
+福源21= Luck 21
+福源22= Luck 22
+福源23= Luck 23
+福源24= Luck 24
+福源25= Luck 25
+福源26= Luck 26
+福源27= Luck 27
+福源28= Luck 28
+福源29= Luck 29
+福源+6= Luck +6
+福源=6= Luck = 6
+福源31= Luck 31
+福源32= Luck 32
+福源33= Luck 33
+福源34= Luck 34
+福源35= Luck 35
+福源36= Luck 36
+福源37= Luck 37
+福源38= Luck 38
+福源39= Luck 39
+福源=7= Luck = 7
+福源41= Luck 41
+福源42= Luck 42
+福源43= Luck 43
+福源44= Luck 44
+福源45= Luck 45
+福源46= Luck 46
+福源47= Luck 47
+福源48= Luck 48
+福源49= Luck 49
+福源+8= Luck +8
+福源=8= Luck = 8
+福源51= Luck 51
+福源52= Luck 52
+福源53= Luck 53
+福源54= Luck 54
+福源55= Luck 55
+福源56= Luck 56
+福源57= Luck 57
+福源58= Luck 58
+福源59= Luck 59
 魅力11= Charm 11
 魅力+2= Charm +2
 魅力=2= Charisma = 2
@@ -16484,8 +16487,8 @@ buff_商品酒= buff_commodity_wine
 天枢·陆= Tianshu-Lu
 天枢·柒= Tenshu-G
 天璇·壹= Tianxuan-One
-福源+1= Fuyuan+1
-福源=1= Fuyuan = 1
+福源+1= Luck+1
+福源=1= Luck = 1
 天璇·贰= Tianxuan-II
 天璇·叁= Tianxuan-Three
 天璇·肆= Tianxuan - Wrecked
@@ -17839,7 +17842,7 @@ buff#骨折= buff#Fracture
 功法争夺-观察= Kung Fu Scramble-Observation
 不管是突入战局，还是去悄悄拿走功法，在混乱的战场中都不是明智的抉择，你决定隐藏在战场的边缘，观察待定，视情况而动= Whether it is to break into the battlefield, or to quietly take the gongfa, in the chaos of the battlefield is not a wise choice, you decided to hide at the edge of the battlefield, observe pending, depending on the situation and move
 属性判断#福源#25#功法争夺-观察成功#功法争夺-观察失败= Attribute Judgment#Fortune Source#25#Gongfu Scramble - Observe Success#Gongfu Scramble - Observe Failure
-继续观察（福源≥25）= Continue to observe (Fuyuan ≥ 25)
+继续观察（福源≥25）= Continue to observe (Luck ≥ 25)
 选项集#功法争夺-离去= Option Set#Gongfu Scramble-Departure
 功法争夺-观察成功= Kung Fu Scramble - Observe Success
 你的运气足够好，战场的余波没有波及你，在场的修士忽略了你，在战斗的白热化过去之后，保留了完整实力的你决定入场，伤痕累累的修士们明显不是你的对手，最终你获得了功法= Your luck was good enough that the aftermath of the battlefield did not affect you, the monks present ignored you, and after the white heat of the battle had passed, you who had retained your full strength decided to enter, and the wounded monks were clearly not your opponents, and you were eventually awarded the gongfu
@@ -18290,7 +18293,7 @@ buff#虚弱\n属性#功德#-50= buff#weakness\n attribute#merit#-50
 混元灵根通透= Mixed element spiritual root penetration
 混元灵根无暇= Mixed spiritual root flawless
 固执= Stubborn
-谦让= Modest
+谦让= Humble
 怠惰= Lazy
 仁义= Benevolent and righteous
 忠厚= Loyal and honest
@@ -32335,7 +32338,7 @@ X回合= Round X
 心 法= Heart Method
 赤铁岩= Hematite
 被动= Passive
-福缘= Fuyuan
+福缘= Luck
 药 引= Drug Citation
 丹药名称= Name of elixir
 职位= Position
@@ -33211,12 +33214,12 @@ X/回合= X/round
 第a回合\n 第b年= Round a \n Year b
 天道值：x\n天道值越高，世界越昌盛，上限为500。\n天道值越低，世界越混乱，下限为-500。= Heavenly Dao Value: The higher the x\n Heavenly Dao value, the more prosperous the world is, with a ceiling of 500. \n The lower the Heavenly Dao value, the more chaotic the world is, with a lower limit of -500.
 拜访门派/探查此地/进入城市= Visiting the sect/Exploring the place/ Entering the city
-每一点根骨提供基础法术强度+4%，速度+0.1\n\n当前：基础法术强度 a= Each point of root bone provides base spell strength +4% and speed +0.1\n\nCurrent: base spell strength a
-每一点体魄提供基础攻击强度+4%，速度+0.1\n\n当前：基础攻击强度 a= Each point of physique provides base attack strength +4% and speed +0.1\n\nCurrent: base attack strength a
-每一点气血提供基础生命值+4%，受到护盾效果+2%，受到治疗效果+2%\n\n当前：基础生命值 a= Each point of blood provides base life value +4%, subject to shield effect +2%, subject to healing effect +2% \n\n Current: base life value a
+sr:"每一点体魄提供基础攻击强度\+4%，速度\+0.1\\n\\n当前：基础攻击强度 ([\d\.]+)"=Each point of Physique provides +4% to base attack strength and +0.1 to speed\n\nCurrent: Base Attack Strength $1
+sr:"每一点根骨提供基础法术强度\+4%，速度\+0.1\\n\\n当前：基础法术强度 ([\d\.]+)"=Each point of root bone provides +4% base spell strength and +0.1 speed\n\nCurrent: Base Spell Strength $1
+sr:"每一点气血提供基础生命值\+4%，受到护盾效果\+2%，受到治疗效果\+2%\\n\\n当前：基础生命值 ([\d\.]+)"=Each point of blood provides +4% base life, +2% to shield effects, and +2% to healing effects\n\nCurrent: Base Life Value $1
 每一点灵敏提供速度+1，闪避率+0.5%= Each point of sensitivity provides +1 speed and +0.5% dodge rate
 每一点悟性使所有流派技能效果+2%，基础习悟速度+1%= Each point of enlightenment makes the effect of all school skills +2%, the basic speed of learning enlightenment +1%
-每一点福源提供暴击率+2%，命中率+1%= Each point of Fuyuan provides +2% to blast rate and +1% to hit rate
+每一点福源提供暴击率+2%，命中率+1%= Each point of Luck provides +2% to blast rate and +1% to hit rate
 魅力影响巫祝者获得众神回应的强度= Charisma affects the strength of a witch's response to the gods
 突破更高的境界，是每个修行者追求\n当前境界：a（b）= Breakthrough to a higher realm, is the pursuit of every practitioner \n the current realm: a (b)
 灵根分三种品质：浑浊，通透，无暇\n更好的灵根提供更多的属性抗性\n\n当前灵根：a b品质= Spiritual roots are divided into three qualities: turbid, transparent, and flawless\nBetter spiritual roots provide more attribute resistance\n\n\nCurrent spiritual roots: a b quality
