@@ -307,7 +307,7 @@ sr:"道术-火技能效果([\=\+\d\.\%]*)"=Fire Skill Effect $1
 
 sr:"道术-土技能效果([\=\+\d\.\%]*)"=Earth Skill Effect $1
 
-sr:"数术技能效果([\=\+\d\.\%]*)"=Mathematical Skill Effect $1
+sr:"数术技能效果([\=\+\d\.\%]*)"=Management Skill Effect $1
 
 sr:"符箓技能效果([\=\+\d\.\%]*)"=Talisman Skill Effect $1
 
@@ -858,3 +858,8 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 第6回合=6 Round
 第7回合=7 Round
 
+数术术法书=Management Skill Book
+sr:"数术术法精进概率([\+\=\d\.\%]*)"=Management Skill Chance $1
+sr:"数术术法精进提升([\+\=\d\.\%]*)"=Management Skill Improvement $1
+中阶数术=Management Intermediate
+高阶数术=Management Advanced
