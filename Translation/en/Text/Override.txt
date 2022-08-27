@@ -337,8 +337,8 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 根骨+15=Aptitude +15
 体魄天成=<size\=16>Heavenly Physique</size>
 体魄+15=Physique +15
-玄荒之体=Xuanhuang body?
-气血-5=Qi and blood-5
+玄荒之体=<size\=16>Mysterious Ancient</size>
+气血+15=Qi and blood +15
 极魅之体=<size\=12>Body of Extreme Charm</size>
 无踪=Disappear?
 灵敏+15=Sensitive +15
@@ -356,7 +356,7 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 符箓伤害+45%=Talisman Damage +45%
 大帝之姿=<size\=18>Great Emperor?</size>
 技能初始熟练度为圆满=Skills initial proficiency is perfect
-愚公=<size\=18>Foolish Man</size>
+愚公=<size\=18>Foolish</size>
 悟性固定1，不可改变\n其他基础属性+10=Perception is fixed at 1, cannot be changed\nOther Basic Attributes +10
 神魔之体=<size\=16>Divine Devil Body?</size>
 生命值+40%\n暴击率+20%=Health +40%\nCritical rate+20%
@@ -456,45 +456,91 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 地阶=<size\=16>Ground Rank</size>
 
 玉品道骨=Yupin Taoist Bone?
-无双=Unparalleled?
-兽血锻体=Beast blood forge?
-天人之姿=Heavenly man?
+根骨+10=Aptitude +10
+无双=<size\=18>Unparalleled</size>
+体魄+10=Physique +10
+兽血锻体=<size\=16>Beast Wrought</size>
+气血+10=Qi and blood +10
+天人之姿=<size\=18>Good Looks</size>
+魅力+10=Charm +10
 流风回雪=Liufeng Return to snow?
+灵敏+10=Sensitive +10
+星之运=<size\=18>Star of Luck</size>
+福源+10=Luck +10
+天眼=<size\=18>Heaven Eye?</size>
+暴击率+27%=Critical Rate +27%
+乾坤一掷=Lord
+暴击伤害+45%=Critical Damage+45%
 精准施法=Accurate casting?
+命中率+27%=Hit Rate +27%
 虚灵神隐=Virtual spiritual god?
+闪避率+22.5%=Evasion Rate +22.5%
 金神体=<size\=18>Metal Divine Body</size>
+金属性伤害+22.5%=Metal Attribute Damage+22.5%
 木神体=<size\=18>Wood Divine Body</size>
+木属性伤害+22.5%=Wood Attribute Damage+22.5%
 水神体=<size\=18>Water Divine Body</size>
+水属性伤害+22.5%=Water Attribute Damage+22.5%
 火神体=<size\=18>Fire Divine Body</size>
+火属性伤害+22.5%=Fire Attribute Damage+22.5%
 土神体=<size\=18>Earth Divine Body</size>
-金行庇护=Golden asylum?
-木行庇护=Wooden asylum?
-水行庇护=Water asylum?
-火行庇护=Fire asylum?
-土行庇护=Earth asylum?
-儒雅随和=Johnn Choi?
-摧花=Misogyny
-巾帼=Lady?
-高岭之花=Flower Flower?
-轩辕血脉=Xuanyuan Blood?
-九黎血脉=Jiuli blood?
-神农血脉=Shennong blood?
+土属性伤害+22.5%=Earth Attribute Damage+22.5%
+金行庇护=<size\=18>Metal Protected</size>
+金抗性+27%=Metal resistance+27%
+木行庇护=<size\=18>Wood Protected</size>
+木抗性+27%=Wood resistance+27%
+水行庇护=<size\=18>Water Protected</size>
+水抗性+27%=Water resistance+27%
+火行庇护=<size\=18>Fire Protected</size>
+火抗性+27%=Fire resistance+27%
+土行庇护=<size\=18>Earth Protected</size>
+土抗性+27%=Earth resistance+27%
+儒雅随和=<size\=16>Elegant & Amiable</size>
+初始好感+15=Initial favor +15
+摧花=<size\=18>Misogyny</size>
+对女性角色造成的伤害+14%=Damage to Female characters+14%
+巾帼=<size\=18>Misangyny</size>
+对男性角色造成的伤害+14%=Damage to Male characters+14%
+高岭之花=<size\=16>Unattaiable Standard</size>
+对魅力比自己低的角色造成的伤害+20%=The damage caused by the character that is lower than yourself is+20%
+轩辕血脉=<size\=14>Xuanyuan Blood Vessels</size>
+根骨+6\n悟性+6\n灵敏-3=Aptitude +6\nPerception +6\nSensitive-3
+九黎血脉=<size\=14>Jiuli Blood Vessels</size>
+体魄+6\n气血+6\n根骨-3=Physique +6\nQi and Blood +6\nAptitude-3
+神农血脉=<size\=14>Shennong Blood Vessels</size>
+灵敏+6\n福源+6\n体魄-3=Sensitive +6\nLuck +6\nPhysique-3
 符箓大师=Master Fu?
-修道奇才=Monk?
+符箓伤害+27%=Rune 2 damage+27%
+修道奇才=<size\=18>Taoist Genius</size>
+技能初始熟练度为中成=The initial proficiency of the skill is halfway
 龙之子=Sons of dragons?
+祖上曾流传下三件宝贝=Three babies have been circulated on the ancestors
 神行太保=Shenxing Tai Bao?
-太初守护=Chu Chu Guardian?
-七杀星=Seven Killing Stars?
-破军星=Troop star?
-贪狼星=Greedy wolf star?
-文曲星=Script?
-炼丹宗师=Alchemy master?
-控火宗师=Master of Fire?
-药理宗师=Pharmacological master?
-福星丹师=Fu Xingdan?
+大地图行动力+3=Large map action+3
+太初守护=<size\=16>Primordial Guardian</size>
+护盾效果+22.5%=Shield effect+22.5%
+七杀星=<size\=16>Seven Killing Star</size>
+根骨+13\n寿元-10\n体魄-5=Aptitude +13\nLifespan-10\nBody-5
+破军星=<size\=16>Splitting Arms Star</size>
+体魄+13\n寿元-10\n根骨-5=Physique +13\nLifespan-10\nRoot-5
+贪狼星=<size\=16>Greedy Wolf Star</size>
+灵敏+13\n魅力-5\n悟性-5=Sensitive +13\nCharm-5\nPerception-5
+文曲星=<size\=16>Wisdomly Star?</size>
+悟性+13\n命中率-5%\n灵敏-3=Perception +13\nHit Rate-5%\nSensitive-3
+炼丹宗师=<size\=14>Master of Alchemy</size>
+炼丹成丹值+14=Alchemy Cheng Dan? value +14
+控火宗师=<size\=14>Master of Flame</size>
+炼丹火力值+18=Alchemy fire value +18
+药理宗师=<size\=14>Master of Fusion</size>
+炼丹融合度+5.5%=Alchemy fusion+5.5%
+福星丹师=<size\=14>Resourceful Alchemist</size>
+炼丹时30%返还一个随机材料=30% chance to return a material during alchemy
 六彻丹魂=Six Ten Dan Soul?
+火力值+6\n成丹值+3%\n融合度+1.8%=Fire value+60%red+3%fusion+1.8%
 化玄器魂=Huaxuan Soul?
-道心通明=Confident?
+五行值提高10%\n炼制速度+30%=Five -element value increases 10%\nRefining speed+30%
+道心通明=<size\=18>Confident?</size>
+悟性+10=Perception +10
 
 
 玄阶=<size\=14>Mysterious Rank</size>
@@ -737,21 +783,21 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 
 风物志=Insights
 角色=Characters
-当前阅历=<size%3D12>Current\nExperience</size>
-特殊角色=<size%3D16>Special Characters</size>
-随机角色=<size%3D16>Random Characters</size>
+当前阅历=<size\=12>Current\nExperience</size>
+特殊角色=<size\=16>Special Characters</size>
+随机角色=<size\=16>Random Characters</size>
 材料=Materials
 怪物=Bestiary
-首领=<size%3D18>Boss</size>
-精英=<size%3D18>Elite</size>
-普通=<size%3D18>Common</size>
+首领=<size\=18>Boss</size>
+精英=<size\=18>Elite</size>
+普通=<size\=18>Common</size>
 书籍=Books
-
+心法=Mentality?
 术法=Law?
-标准丹方=<size%3D18>Standard Recipes</size>
-自创丹方=<size%3D18>Created Recipes</size>
-器方=<size%3D18>Blueprint</size>
-阵势图=<size%3D18>Array?</size>
+标准丹方=<size\=18>Standard Recipes</size>
+自创丹方=<size\=18>Created Recipes</size>
+器方=<size\=18>Blueprint</size>
+阵势图=<size\=18>Array?</size>
 
 场景=Scenes
 
