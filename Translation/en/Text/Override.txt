@@ -331,14 +331,14 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 互斥特性=Mutual
 性别冲突=<size\=15>Gender Conflict</size>
 
-
-天阶=Heaven?
+天阶=<size%3D16>Heaven Rank</size>
 
 根骨天成=<size%3D16>Heavenly Aptitude</size>
 根骨+15=Aptitude +15
 体魄天成=<size%3D16>Heavenly Physique</size>
 体魄+15=Physique +15
 玄荒之体=Xuanhuang body?
+气血-5=Qi and blood-5
 极魅之体=<size%3D12>Body of Extreme Charm</size>
 无踪=Disappear?
 灵敏+15=Sensitive +15
@@ -390,42 +390,70 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 吸血+15%\n暴击率+22.5%=Leech +15%\nCritical attack rate +22.5%
 狂战士=<size%3D18>Berserker</size>
 攻击力+20%\n暴击伤害+25%=Attack power+20%\nCritical damage+25%
-
 祝融之体=<size%3D18>Fire God Body</size>
+火伤害+25%\n暴击率+10%=Fire Damage +25%\nCritical Rate+10%
 炎魔之体=<size%3D18>Fire Mystic Body</size>
+火伤害+25%\n暴击伤害+20%=Fire Damage +25%\nCritical Damage+20%
 共工之体=<size%3D18>Water God Body</size>
+水伤害+25%\n暴击率+10%=Water Damage +25%\nCritical Rate+10%
 水魔之体=<size%3D18>Water Mystic Body</size>
+水伤害+25%\n暴击伤害+20%=Water Damage +25%\nCritical Damage+20%
 蓐收之体=<size%3D18>Metal God Body</size>
+金伤害+25%\n暴击率+10%=Metal Damage +25%\nCritical Rate+10%
 金魔之体=<size%3D18>Metal Mystic Body</size>
+金伤害+25%\n暴击伤害+20%=Metal Damage +25%\nCritical Damage+20%
 句芒之体=<size%3D18>Wood God Body</size>
+木伤害+25%\n暴击率+10%=Wood Damage +25%\nCritical Rate+10%
 林魔之体=<size%3D18>Wood Mystic Body</size>
+木伤害+25%\n暴击伤害+20%=Wood Damage +25%\nCritical Damage+20%
 后土之体=<size%3D18>Earth God Body</size>
+土伤害+25%\n暴击率+10%=Earth Damage +25%\nCritical Rate+10%
 土魔之体=<size%3D18>Earth Mystic Body</size>
-
-
+土伤害+25%\n暴击伤害+20%=Earth Damage+ 25%\nCritical Damage+20%
 天尊之姿=Tianzunzi?
+攻击力+15%\n法术强度+15%=Attack power+15%\nSpell strength+15%
 道法天成=Taoist Tiancheng?
-言出法随=Fafu Suisuo?
+冷却时间-20%\n吟唱时间-10%=Cooling time -20%\nChanting time-10%
+言出法随=<size%3D18>Abiding Words</size>
+吟唱时间-30%=Chanting time-30%
 三清之眼=Eye of Sanqing?
-残杀=Kill?
-太初道士=Taoist priest?
-太初战士=Taichu soldiers?
-混元之体=Mixed body?
-高速循环=High -speed cycle?
-五行根骨=Five -element root bone?
-武器宗师=Weapon master?
-道术宗师=Taoist master?
-神炎入体=Divine inflammation into the body?
-自然之体=Natural body?
-金坚之体=Jin Jian's body?
-大地之体=Earth?
-水行之体=Watery body?
-矛盾体=Contradictions?
-贤者=Sage?
-菩提心=Bodhicitta?
+暴击率+45%=Critical Rate +45%
+残杀=<size%3D18>Slaughterer</size>
+暴击伤害+75%=Critical Damage+75%
+太初道士=<size%3D16>Primordial Taoist</size>
+法术强度+30%\n攻击强度-100%=Spell strength+30%\nAttack intensity -100%
+太初战士=<size%3D16>Primordial Warrior</size>
+攻击强度+30%\n法术强度-100%=Attack intensity+30%\nSpell strength-100%
+混元之体=<size%3D14>Hybrid Mixed Body</size>
+混元属性伤害+35%=Mixed element attribute damage+35%
+高速循环=<size%3D18>Quick cycle</size>
+冷却时间-30%=Cooling time-30%
+五行根骨=<size%3D14>Five Element Aptitude</size>
+根骨+9\n五行属性效果+20%=Aptitude +9\nFive element attribute effect+20%
+武器宗师=<size%3D18>Weapon Master</size>
+使用剑，刀，枪系法宝时，全伤害+35%=When using swords, knives, guns, all damage+35%
+道术宗师=<size%3D18>Taoism Master</size>
+道术技能伤害提升+45%=Taoist skills damage increase+45%
+神炎入体=<size%3D14>Soul Fire Body</size>
+火属性伤害+37.5%=Fire attribute damage+37.5%
+自然之体=<size%3D14>Nature Wood Body</size>
+木属性伤害+37.5%=Wood attribute damage+37.5%
+金坚之体=<size%3D14>Resolute Metal Body</size>
+金属性伤害+37.5%=Metal attribute damage+37.5%
+大地之体=<size%3D14>Mother Earth Body</size>
+土属性伤害+37.5%=Earth attribute damage+37.5%
+水行之体=<size%3D14>Current Water Body</size>
+水属性伤害+37.5%=Water attribute damage+37.5%
+矛盾体=<size%3D18>Paradoxaical</size>
+暴击率-30%\n暴击伤害+100%=Critical attack rate -30%\nCritical damage+100%
+贤者=<size%3D18>Sage</size>
+悟性+15=Perception +15
+菩提心=<size%3D18>Bodhi Mind</size>
+根骨，体魄，灵敏，福源，魅力，气血，降低8点\n悟性+40=Aptitude, Physique, Sensitive, Luck, Charm, Qi and Blood, Reduce Attributes by 8; Perception +40
 
 
-地阶=Ground Step?
+
+地阶=<size%3D16>Ground Rank</size>
 
 玉品道骨=Yupin Taoist Bone?
 无双=Unparalleled?
@@ -434,20 +462,20 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 流风回雪=Liufeng Return to snow?
 精准施法=Accurate casting?
 虚灵神隐=Virtual spiritual god?
-金神体=<size\=18>Metal Divine Body</size>
-木神体=<size\=18>Wood Divine Body</size>
-水神体=<size\=18>Water Divine Body</size>
-火神体=<size\=18>Fire Divine Body</size>
-土神体=<size\=18>Earth Divine Body</size>
+金神体=<size%3D18>Metal Divine Body</size>
+木神体=<size%3D18>Wood Divine Body</size>
+水神体=<size%3D18>Water Divine Body</size>
+火神体=<size%3D18>Fire Divine Body</size>
+土神体=<size%3D18>Earth Divine Body</size>
 金行庇护=Golden asylum?
 木行庇护=Wooden asylum?
 水行庇护=Water asylum?
 火行庇护=Fire asylum?
 土行庇护=Earth asylum?
 儒雅随和=Johnn Choi?
-摧花=Blew?
+摧花=Misogyny
 巾帼=Lady?
-高岭之花=Unattainable Beauty?
+高岭之花=Flower Flower?
 轩辕血脉=Xuanyuan Blood?
 九黎血脉=Jiuli blood?
 神农血脉=Shennong blood?
@@ -469,7 +497,7 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 道心通明=Confident?
 
 
-玄阶=Mysterious?
+玄阶=<size%3D14>Mysterious Rank</size>
 
 上品道骨=Taoist bone?
 经脉毁损=Merdian destruction?
@@ -502,11 +530,11 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 水行加护=Hydraulic care Wa?
 火行加护=Fire Fi?
 土行加护=Earthenc Ea?
-金劫体=Goldn1 robbery?
-木劫体=Wooden robbery?
-水劫体=Water robbery
-火劫体=Fire robbery?
-土劫体=Calamity robbery?
+金劫体=<size%3D16>Metal Vulnerbility</size>
+木劫体=<size%3D16>Wood Vulnerbility</size>
+水劫体=<size%3D16>Water Vulnerbility</size>
+火劫体=<size%3D16>Fire Vulnerbility</size>
+土劫体=<size%3D16>Earth Vulnerbility</size>
 战斗宗师=Combat master
 术法宗师=Master?
 心法宗师=Master of mind?
@@ -533,17 +561,17 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 悟道者=Enlighten?
 
 
-黄阶=Yellow step?
+黄阶=<size%3D16>Yellow Rank</size>
 
 中品道骨=Zhongpin Taoist bone?
 经脉闭塞=Meridian occlusion?
-勇猛=<size\=18>Brave</size>
+勇猛=<size%3D18>Brave</size>
 筋骨不足=Lack of bones and bones?
 血气如殷=Bloody?
 血气衰败=Blood gas decay?
 眉清目秀=Empty Show?
-歪嘴歪鼻=<size\=18>Crooked Face</size>
-矫健=<size\=18>Vigorous</size>
+歪嘴歪鼻=<size%3D18>Crooked Face</size>
+矫健=<size%3D18>Vigorous</size>
 脚底生疮=Sore?
 大聪明=Clever?
 福星官=Fu Xingguan?
@@ -554,22 +582,22 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 临阵退缩=Retreat?
 集中=concentrated?
 模糊施法=Blur?
-跛足=<size\=18>Lame</size>
-金灵护=<size\=12>Metal Spirit Protection</size>
-木灵护=<size\=12>Wood Spirit Protection</size>
-水灵护=<size\=12>Water Spirit Protection</size>
-火灵护=<size\=12>Fire Spirit Protection</size>
-土灵护=<size\=12>Earth Spirit Protection</size>
-金行亲和=<size\=18>Metal Affinity</size>
-木行亲和=<size\=18>Wood Affinity</size>
-水行亲和=<size\=18>Water Affinity</size>
-火行亲和=<size\=18>Fire Affinity</size>
-土行亲和=<size\=18>Earth Affinity</size>
-金殇体=<size\=18>Metal Body</size>
-木殇体=<size\=18>Wood Body</size>
-水殇体=<size\=18>Water Body</size>
-火殇体=<size\=18>Fire Body</size>
-土殇体=<size\=18>Earth Body</size>
+跛足=<size%3D18>Lame</size>
+金灵护=<size%3D12>Metal Spirit Protection</size>
+木灵护=<size%3D12>Wood Spirit Protection</size>
+水灵护=<size%3D12>Water Spirit Protection</size>
+火灵护=<size%3D12>Fire Spirit Protection</size>
+土灵护=<size%3D12>Earth Spirit Protection</size>
+金行亲和=<size%3D18>Metal Affinity</size>
+木行亲和=<size%3D18>Wood Affinity</size>
+水行亲和=<size%3D18>Water Affinity</size>
+火行亲和=<size%3D18>Fire Affinity</size>
+土行亲和=<size%3D18>Earth Affinity</size>
+金殇体=<size%3D18>Metal Body</size>
+木殇体=<size%3D18>Wood Body</size>
+水殇体=<size%3D18>Water Body</size>
+火殇体=<size%3D18>Fire Body</size>
+土殇体=<size%3D18>Earth Body</size>
 术法大师=Masterpiece?
 心法大师=Master?
 短命鬼=Short -lived ghost?
@@ -578,56 +606,57 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 辣手=Spicy?
 英眉=Eyebrow?
 小周天=Xiaoyou Tian?
-炼丹师=<size\=18>Alchemist</size>
-仇恨炼丹=<size\=14>Hate for Alchemy?</size>
+炼丹师=<size%3D18>Alchemist</size>
+仇恨炼丹=<size%3D14>Hate for Alchemy?</size>
 控火师=Fire controlist?
-仇恨火焰=<size\=14>Hate for Flame?</size>
+仇恨火焰=<size%3D14>Hate for Flame?</size>
 药理初学者=Pricer?
 随机投放=Randomly put?
-大机灵=<size\=18>Great Wit</size>
+大机灵=<size%3D18>Great Wit</size>
 
 
-凡阶=Ordinary
+凡阶=<size%3D14>Ordinary Rank</size>
 
 凡品道骨=品 品 品 品?
-经脉不畅=<size\=18>Poor Meridians</size>
-强壮=<size\=18>Strong</size>
-胆小如鼠=<size\=18>Timid</size>
-血气充足=<size\=18>Sufficient Blood</size>
-血气虚弱=<size\=18>Weak Blood Qi</size>
+经脉不畅=<size%3D18>Poor Meridians</size>
+强壮=<size%3D18>Strong</size>
+胆小如鼠=<size%3D18>Timid</size>
+血气充足=<size%3D18>Sufficient Blood</size>
+血气虚弱=<size%3D18>Weak Blood Qi</size>
 丹凤眼=<size%3D16>Slanted Eyes</size>
-皮肤黯淡=<size\=18>Dull Skin</size>
-轻盈=<size\=18>Underweight</size>
-肥胖=<size\=18>Overweight</size>
-健忘=<size\=18>Forgetful</size>
+皮肤黯淡=<size%3D18>Dull Skin</size>
+轻盈=<size%3D18>Underweight</size>
+肥胖=<size%3D18>Overweight</size>
+健忘=<size%3D18>Forgetful</size>
 吉星官=Ji Xingguan?
 背星官=Back -star official?
 独眼=One -eyed?
 浅伤口=Shallow wound?
 分心=Distract?
-行动不便=<size\=18>Handicapped</size>
-畏金体质=<size\=16>Metal Adverse Body</size>
-畏木体质=<size\=16>Wood Adverse Body</size>
-畏水体质=<size\=16>Water Adverse Body</size>
-畏火体质=<size\=16>Fire Adverse Body</size>
-畏土体质=<size\=16>Earth Adverse Body</size>
-战斗天才=<size\=18>Combat Genius</size>
-术法天才=<size\=18>Magic Genius</size>
-心法天才=<size\=18>Mind Genius</size>
-气血过盛=<size\=12>Excessive Qi and Blood</size>
-精力过盛=<size\=18>Excessive Energy</size>
+行动不便=<size%3D18>Handicapped</size>
+畏金体质=<size%3D16>Metal Adverse Body</size>
+畏木体质=<size%3D16>Wood Adverse Body</size>
+畏水体质=<size%3D16>Water Adverse Body</size>
+畏火体质=<size%3D16>Fire Adverse Body</size>
+畏土体质=<size%3D16>Earth Adverse Body</size>
+战斗天才=<size%3D18>Combat Genius</size>
+术法天才=<size%3D18>Magic Genius</size>
+心法天才=<size%3D18>Mind Genius</size>
+气血过盛=<size%3D12>Excessive Qi and Blood</size>
+精力过盛=<size%3D18>Excessive Energy</size>
 脉轮沉淤=Chakra?
 肺痨鬼=Ghost?
 看客=Spectators?
-平易近人=<size\=18>Approachable</size>
-勤修不缀=<size\=18>Diligent</size>
-剑修=<size\=18>Swordsman</size>
+平易近人=<size%3D18>Approachable</size>
+勤修不缀=<size%3D18>Diligent</size>
+剑修=<size%3D18>Swordsman</size>
 刀修=Sword repair?
 枪修=Gun repair?
-抗拒炼丹=<size\=18>Alchemy Adverse</size>
-抗拒火焰=<size\=18>Flame Adverse</size>
+抗拒炼丹=<size%3D18>Alchemy Adverse</size>
+抗拒火焰=<size%3D18>Flame Adverse</size>
 不通药理=Unpopular pharmacology?
-小机灵=<size\=18>Little Wit</size>
+小机灵=<size%3D18>Little Wit</size>
+
 
 开 始 游 戏=Start Game
 
