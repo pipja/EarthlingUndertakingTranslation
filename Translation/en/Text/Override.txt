@@ -771,37 +771,37 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 
 凡人=<size\=12>Mortal</size>
 炼气境=<size\=12>Qi Refinement</size>
-炼气境初期=<size\=14>Early-Qi Refining</size>
-炼气境中期=<size\=14>Middle-Qi Refinement</size>
-炼气境后期=<size\=14>Late-Qi Refinement</size>
+炼气境初期=<size\=12>Early-Qi Refining</size>
+炼气境中期=<size\=12>Middle-Qi Refinement</size>
+炼气境后期=<size\=12>Late-Qi Refinement</size>
 筑基境=<size\=12>Foundation</size>
-筑基境初期=<size\=14>Early-Foundation</size>
-筑基境中期=<size\=14>Middle-Foundation</size>
-筑基境后期=<size\=14>Late-Foundation</size>
+筑基境初期=<size\=12>Early-Foundation</size>
+筑基境中期=<size\=12>Middle-Foundation</size>
+筑基境后期=<size\=12>Late-Foundation</size>
 金丹境=<size\=12>Golden Core</size>
-金丹境初期=<size\=14>Early-Gold Core</size>
-金丹境中期=<size\=14>Middle-Gold Core</size> 
-金丹境后期=<size\=14>Late-Gold Core</size>
-元婴境=<size\=12>Nascant Soul</size>
-元婴境前期=<size\=14>Early-Nascant Soul</size>
-元婴境中期=<size\=14>Middle-Nascant Soul</size>
-元婴境后期=<size\=14>Late-Nascant Soul</size>
+金丹境初期=<size\=12>Early-Gold Core</size>
+金丹境中期=<size\=12>Middle-Gold Core</size> 
+金丹境后期=<size\=12>Late-Gold Core</size>
+元婴境=<size\=12>Nascent Soul</size>
+元婴境前期=<size\=12>Early-Nascant Soul</size>
+元婴境中期=<size\=12>Middle-Nascant Soul</size>
+元婴境后期=<size\=12>Late-Nascant Soul</size>
 化神境=<size\=12>Soul Formation</size>
-化神境前期=<size\=14>Early-Soul Formation</size>
-化神境中期=<size\=14>Middle-Soul Formation</size>
-化神境后期=<size\=14>Late-Soul Formation</size>
+化神境前期=<size\=12>Early-Soul Formation</size>
+化神境中期=<size\=12>Middle-Soul Formation</size>
+化神境后期=<size\=12>Late-Soul Formation</size>
 渡劫境=<size\=12>Ascension</size>
-渡劫境初期=<size\=14>Early-Ascension</size>
-渡劫境中期=<size\=14>Middle-Ascension</size>
-渡劫境后期=<size\=14>Late-Ascension</size>
+渡劫境初期=<size\=12>Early-Ascension</size>
+渡劫境中期=<size\=12>Middle-Ascension</size>
+渡劫境后期=<size\=12>Late-Ascension</size>
 大罗天仙=<size\=12>Immortal</size>
-大罗天仙初期=<size\=14>Early-Immortal</size>
-大罗天仙中期=<size\=14>Middle-Immortal</size>
-大罗天仙后期=<size\=14>Late-Immortal</size>
+大罗天仙初期=<size\=12>Early-Immortal</size>
+大罗天仙中期=<size\=12>Middle-Immortal</size>
+大罗天仙后期=<size\=12>Late-Immortal</size>
 大罗金仙=<size\=12>Gold Immortal</size>
-大罗金仙初期=<size\=14>Early-Gold Immortal</size>
-大罗金仙中期=<size\=14>Middle-Gold Immortal</size>
-大罗金仙后期=<size\=14>Late- Gold Immortal</size>
+大罗金仙初期=<size\=12>Early-Gold Immortal</size>
+大罗金仙中期=<size\=12>Middle-Gold Immortal</size>
+大罗金仙后期=<size\=12>Late- Gold Immortal</size>
 混元圣人=<size\=12>Origin Saint</size>
 
 
