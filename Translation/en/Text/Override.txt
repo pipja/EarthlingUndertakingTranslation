@@ -39,8 +39,7 @@ UI字体=UI size
 
 战斗场景=Combat Scene
 
-sr:"技能快捷键([\d]*)"=Skill Shortcuts $1
-
+sr:"技能快捷键([\d]*)(\n?)"=Skill Shortcuts $1$2
 
 通用=Universal
 
