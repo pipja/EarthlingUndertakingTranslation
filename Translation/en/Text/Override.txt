@@ -1,4 +1,4 @@
-﻿设置=Settings
+设置=Settings
 
 显示设置=<size\=20>Display Settings</size>
 分辨率=Resolution
@@ -182,7 +182,7 @@ EA开放=EA Open
 
 
 
-术法=Manual
+术法=Techniques
 
 煞光秘法=Killing Light Secret Technique
 金光经=Radiant Scripture
@@ -350,7 +350,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 气血+15=Qi and blood +15
 极魅之体=<size\=12>Body of Extreme Charm</size>
 无踪=Disappear?
-灵敏+15=Sensitive +15
+灵敏+15=Sense +15
 人之子=<size\=16>Chosen One</size>
 福源+15=Luck +15
 七窍玲珑=Qiqiao Linglong?
@@ -458,7 +458,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 贤者=<size\=18>Sage</size>
 悟性+15=Perception +15
 菩提心=<size\=18>Bodhi Mind</size>
-根骨，体魄，灵敏，福源，魅力，气血，降低8点\n悟性+40=Aptitude, Physique, Sensitive, Luck, Charm, Qi and Blood, Reduce Attributes by 8; Perception +40
+根骨，体魄，灵敏，福源，魅力，气血，降低8点\n悟性+40=Aptitude, Physique, Sense, Luck, Charm, Qi and Blood, Reduce Attributes by 8; Perception +40
 
 
 
@@ -473,7 +473,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 天人之姿=<size\=18>Good Looks</size>
 魅力+10=Charm +10
 流风回雪=Liufeng Return to snow?
-灵敏+10=Sensitive +10
+灵敏+10=Sense +10
 星之运=<size\=18>Star of Luck</size>
 福源+10=Luck +10
 天眼=<size\=18>Heaven Eye?</size>
@@ -513,11 +513,11 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 高岭之花=<size\=16>Unattaiable Standard</size>
 对魅力比自己低的角色造成的伤害+20%=The damage caused by the character that is lower than yourself is+20%
 轩辕血脉=<size\=14>Xuanyuan Blood Vessels</size>
-根骨+6\n悟性+6\n灵敏-3=Aptitude +6\nPerception +6\nSensitive-3
+根骨+6\n悟性+6\n灵敏-3=Aptitude +6\nPerception +6\nSense-3
 九黎血脉=<size\=14>Jiuli Blood Vessels</size>
 体魄+6\n气血+6\n根骨-3=Physique +6\nQi and Blood +6\nAptitude-3
 神农血脉=<size\=14>Shennong Blood Vessels</size>
-灵敏+6\n福源+6\n体魄-3=Sensitive +6\nLuck +6\nPhysique-3
+灵敏+6\n福源+6\n体魄-3=Sense +6\nLuck +6\nPhysique-3
 符箓大师=Master Fu?
 符箓伤害+27%=Rune 2 damage+27%
 修道奇才=<size\=18>Taoist Genius</size>
@@ -533,9 +533,9 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 破军星=<size\=16>Splitting Arms Star</size>
 体魄+13\n寿元-10\n根骨-5=Physique +13\nLifespan-10\nRoot-5
 贪狼星=<size\=16>Greedy Wolf Star</size>
-灵敏+13\n魅力-5\n悟性-5=Sensitive +13\nCharm-5\nPerception-5
+灵敏+13\n魅力-5\n悟性-5=Sense +13\nCharm-5\nPerception-5
 文曲星=<size\=16>Wisdomly Star?</size>
-悟性+13\n命中率-5%\n灵敏-3=Perception +13\nHit Rate-5%\nSensitive-3
+悟性+13\n命中率-5%\n灵敏-3=Perception +13\nHit Rate-5%\nSense-3
 炼丹宗师=<size\=14>Master of Alchemy</size>
 炼丹成丹值+14=Alchemy Cheng Dan? value +14
 控火宗师=<size\=14>Master of Flame</size>
@@ -657,7 +657,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 心法大师=Master?
 短命鬼=Short -lived ghost?
 误食太岁=Eat too old?
-魔怔人=Magic?
+魔怔人=M4gic?
 辣手=Spicy?
 英眉=Eyebrow?
 小周天=Xiaoyou Tian?
@@ -750,7 +750,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 
 
 人=Human
-云梦=<size\=12>Cloud Dream</size>
+云梦=<size\=12>Yun\nmeng</size>
 术法位\n=<size\=14>Manual Slots\n</size>
  人 物 特 性 =Characteristics
 需要材料=<size\=12>Required materials</size>
@@ -764,6 +764,14 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 属 性 抗 性=Elemental Resistance
 法宝=<size\=14>Artifacts</size>
 佩囊=<size\=14>Pocket</size>
+
+属 性 抗 性=Attribute Resistance
+
+功  法=<size\=16>Techniques</size>
+
+筑基解锁=<size\=12>Unlocked in Foundation</size>
+化神解锁=<size\=12>Unlocked in Soul Formation</size>
+暂未开放=<size\=12>Not open</size>
 
 
 
@@ -806,15 +814,26 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 
 
 
+技能一览=<size\=16>Skills List</size>
+
+
+
+关 系=<size\=16>Relationships</size>
+
+
+
+
 基础攻击力=<size\=14>Base Atk Power</size>
 基础生命值=<size\=14>Base Healh</size>
+天阶特性=<size\=14>Heaven Rank Trait</size>
+移动力=<size\=14>Mobility</size>
+术法位=<size\=14>Technique</size>
+长生=<size\=14>Eternal Life</size>
 命中率=Hit Chance
 闪避率=Dodge
 攻击强度=Attack Strength
 法术强度=Spell Power
 
-
-筑基解锁=Foundation Unlock?
 
 
 风物志=Insights
@@ -828,8 +847,6 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 精英=<size\=18>Elite</size>
 普通=<size\=18>Common</size>
 书籍=Books
-心法=Mentality?
-术法=Law?
 标准丹方=<size\=18>Standard Recipes</size>
 自创丹方=<size\=18>Created Recipes</size>
 器方=<size\=18>Blueprint</size>
@@ -905,6 +922,9 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 消耗100声望，立即刷新一批求道者=<size\=14>Consume 100 reputation, immediately refresh a group of Taoists</size>
 清空名册=<size\=18>Clear</size>
 划掉名册上所有人的名字=Drive away everyone on roster
+
+
+
 
 
 
