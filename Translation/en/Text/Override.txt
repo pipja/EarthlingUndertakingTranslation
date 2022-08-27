@@ -106,8 +106,10 @@ EA开放=EA Open
 固执=Stubborn
 忠  厚=Loyal
 忠厚=Loyal
+自  傲=<size\=14>Prideful</size>
 固定特性=Fixed characteristics
-
+果决(自傲)=<size\=14>Decisive \nPrideful</size>
+金灵根(通透)=<size\=14>Metal Spirit Root (transparent)</size>
 
 男=Male
 女=Female
@@ -208,7 +210,7 @@ EA开放=EA Open
 血液秘法=Blood secret
 
 
-灵根=<size\=20>Spirit\nRoots</size>
+灵根=<size\=12>Spirit\nRoot</size>
 
 金灵根=<size\=17>Metal\nSpirit Root</size>
 木灵根=<size\=17>Wood\nSpirit Root</size>
@@ -216,13 +218,13 @@ EA开放=EA Open
 火灵根=<size\=17>Fire\nSpirit Root</size>
 土灵根=<size\=17>Earth\nSpirit Root</size>
 属性抗性=<size\=17>Attribute\nResistance</size>
-金属性抗性=Metal Resistance
-木属性抗性=Wood Resistance
-水属性抗性=Water Resistance
-火属性抗性=Fire Resistance
-土属性抗性=Earth Resistance
-阴属性抗性=Yin Resistance
-阳属性抗性=Yang Resistance 
+金属性抗性=Metal Res
+木属性抗性=Wood Res
+水属性抗性=Water Res
+火属性抗性=Fire Res
+土属性抗性=Earth Res
+阴属性抗性=Yin Res
+阳属性抗性=Yang Res 
 混元属性抗性=Mixed-Element Res
 属性效果=<size\=17>Attribute\nEffect?</size>
 金属性增幅=Metal Increase
@@ -240,8 +242,16 @@ EA开放=EA Open
 修改=Modify
 受治疗效果=Healing Effect
 受护盾效果=Shield Effect
+土属性效果=Earth
+阴属性效果=Yin
+阳属性效果=Yang
+混元属性效果=Mixed-Element
+火属性效果=Fire
+水属性效果=Water
+木属性效果=Wood
+金属性效果=Metal
 
-属性=<size\=18>Attri-\nbutes</size>
+属性=<size\=18>Stats</size>
 sr:"剩余点数：([\d]*)"=<size\=15>Remaining pts: $1</size>
 根骨=<size\=12>Apt</size>
 体魄=<size\=12>Phy</size>
@@ -281,8 +291,8 @@ sr:"剩余点数：([\d]*)"=<size\=15>Remaining pts: $1</size>
 吟唱缩减=Chant Reduction
 吸血=Lifesteal
 移动距离=Movement Spd
-护盾免伤=Shield Dmg Reistance
-生命免伤=Damage Res(?)
+护盾免伤=Shield Dmg Res
+生命免伤=Damage Res
  
 
 
@@ -311,15 +321,15 @@ sr:"炼体技能效果([\=\+\d\.\%]*)"=Physique Skill Effect $1
 
 sr:"治疗增幅率([\=\+\d\.\%]*)"=Healing Rate $1
 
-sr:"闪避率([\=\+\d\.\%]*)"=Evasion Rate $1
+sr:"闪避率([\=\+\d\.\%]*)"=Dodge $1
 
 sr:"护盾增幅率([\=\+\d\.\%]*)"=Shield Rate $1
 
-sr:"命中率([\=\+\d\.\%]*)"=Hit Rate $1
+sr:"命中率([\=\+\d\.\%]*)"=Hit Chance $1
 
-sr:"暴击率([\=\+\d\.\%]*)"=Crit Rate $1
+sr:"暴击率([\=\+\d\.\%]*)"=Crit Chance $1
 
-sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
+sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 
 人物设定=<size\=18>Character\nInfo</size>
 人物特性=<size\=18>Character\nTraits</size>
@@ -722,59 +732,86 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 
 境界=<size\=12>Realm</size>
 
+
+人物相关=People Related
 性格=<size\=12>Nature</size>
 种族=<size\=12>Race</size>
 性别=<size\=12>Gender</size>
 籍贯=<size\=12>Home-\ntown</size>
-喜好=<size\=12>Love</size>
-厌恶=<size\=12>Hate</size>
-身份=<size\=12>Identity</size>
+喜好=<size\=12>Likes</size>
+厌恶=<size\=12>Dislikes</size>
+身份=<size\=12>Status</size>
 阅历=<size\=12>Exper-\nience</size>
-好感=<size\=12>Good-\nwill</size>
+好感=<size\=12>Favor</size>
 忠诚=<size\=12>Loyalty</size>
 年龄=<size\=12>Age</size>
 寿元=<size\=10>Lifespan</size>
+善恶=<size\=11>Morality</size>
 
+
+人=Human
+云梦=<size\=12>Cloud Dream</size>
+术法位\n=<size\=14>Manual Slots\n</size>
+ 人 物 特 性 =Characteristics
+需要材料=<size\=12>Required materials</size>
+必备材料=<size\=12>Required Materials</size>
+可选材料=<size\=12>Optional Materials</size>
+人物相关=Character
+ 人 物 相 关 =Character
+基础属性=Attributes
+ 基 础 属 性 =Attributes
+属 性 效 果=Elemental Effects
+属 性 抗 性=Elemental Resistance
+法宝=<size\=14>Artifacts</size>
+佩囊=<size\=14>Pocket</size>
 
 
 
 突  破=<size\=16>Breakthrough</size>
 
-凡人=<size\=14>Mortal</size>
-炼气境=<size\=14>Qi Refinement</size>
+凡人=<size\=12>Mortal</size>
+炼气境=<size\=12>Qi Refinement</size>
 炼气境初期=<size\=14>Early-Qi Refining</size>
 炼气境中期=<size\=14>Middle-Qi Refinement</size>
 炼气境后期=<size\=14>Late-Qi Refinement</size>
-筑基境=<size\=14>Foundation</size>
+筑基境=<size\=12>Foundation</size>
 筑基境初期=<size\=14>Early-Foundation</size>
 筑基境中期=<size\=14>Middle-Foundation</size>
 筑基境后期=<size\=14>Late-Foundation</size>
-金丹境=<size\=14>Golden Core</size>
+金丹境=<size\=12>Golden Core</size>
 金丹境初期=<size\=14>Early-Gold Core</size>
-金丹境中期=<size\=14>Middle-Gold Core</size>
+金丹境中期=<size\=14>Middle-Gold Core</size> 
 金丹境后期=<size\=14>Late-Gold Core</size>
-元婴境=<size\=14>Nascant Soul</size>
+元婴境=<size\=12>Nascant Soul</size>
 元婴境前期=<size\=14>Early-Nascant Soul</size>
 元婴境中期=<size\=14>Middle-Nascant Soul</size>
 元婴境后期=<size\=14>Late-Nascant Soul</size>
-化神境=<size\=14>Soul Formation</size>
+化神境=<size\=12>Soul Formation</size>
 化神境前期=<size\=14>Early-Soul Formation</size>
 化神境中期=<size\=14>Middle-Soul Formation</size>
 化神境后期=<size\=14>Late-Soul Formation</size>
-渡劫境=<size\=14>Ascension</size>
+渡劫境=<size\=12>Ascension</size>
 渡劫境初期=<size\=14>Early-Ascension</size>
 渡劫境中期=<size\=14>Middle-Ascension</size>
 渡劫境后期=<size\=14>Late-Ascension</size>
-大罗天仙=<size\=14>Immortal</size>
+大罗天仙=<size\=12>Immortal</size>
 大罗天仙初期=<size\=14>Early-Immortal</size>
 大罗天仙中期=<size\=14>Middle-Immortal</size>
 大罗天仙后期=<size\=14>Late-Immortal</size>
-大罗金仙=<size\=14>Gold Immortal</size>
+大罗金仙=<size\=12>Gold Immortal</size>
 大罗金仙初期=<size\=14>Early-Gold Immortal</size>
 大罗金仙中期=<size\=14>Middle-Gold Immortal</size>
 大罗金仙后期=<size\=14>Late- Gold Immortal</size>
-混元圣人=<size\=14>Origin Saint</size>
+混元圣人=<size\=12>Origin Saint</size>
 
+
+
+基础攻击力=<size\=14>Base Atk Power</size>
+基础生命值=<size\=14>Base Healh</size>
+命中率=Hit Chance
+闪避率=Dodge
+攻击强度=Attack Strength
+法术强度=Spell Power
 
 
 筑基解锁=Foundation Unlock?
