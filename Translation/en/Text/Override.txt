@@ -858,3 +858,54 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 第6回合=6 Round
 第7回合=7 Round
 
+
+
+
+等级=<size\=12>Grade</size>
+人数=<size\=10># of people</size>
+功德=<size\=12>Merit</size>
+声望=<size\=10>Prestige</size>
+气运=<size\=12>Luck</size>
+善恶=<size\=8>Good vs.\n Evil</size>
+
+
+炼器室=Forge
+
+铸造=Cast
+铸 造=Cast
+弟子=Disciple
+该槽位未解锁=The slot is not unlocked
+武 器 铸 造=Casting
+炼制弟子=<size\=18>Forging Disciple</size>
+法宝配方=<size\=14>Artifact Blueprint</size>
+武 器 淬 炼=Quenching
+派生弟子=<size\=18>Quenching Disciple</size>
+法宝=<size\=16>Artifact</size>
+
+
+
+长老管理=Elder Management
+任命管理门派长老职位=Appoint management of the elderly position
+候选弟子(筑基期以上)(0)=Candidate disciples (above the foundation period or above (0)
+掌门=Master
+炼器室长老=Forge Elder
+道场长老=Dojo Elder
+炼丹长老=Alchemy Elder
+藏经阁长老=Scripture Elder
+百草园长老=Garden Elder
+请神台长老=Shrine Elder
+
+
+求道名册=Sect Register
+可将外来求道者收为门派弟子=Foreign seekers can be accepted as disciples of the sect
+
+刷 新 人 数=<size\=14># per Refresh</size>
+刷 新 间 隔=<size\=16>Refresh Interval</size>
+刷新弟子=<size\=14>Refresh disciple</size>
+消耗100声望，立即刷新一批求道者=<size\=14>Consume 100 reputation, immediately refresh a group of Taoists</size>
+清空名册=<size\=18>Clear</size>
+划掉名册上所有人的名字=Drive away everyone on roster
+
+
+
+
