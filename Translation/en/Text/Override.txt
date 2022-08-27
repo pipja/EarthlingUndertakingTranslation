@@ -39,28 +39,7 @@ UI字体=UI size
 
 战斗场景=Combat Scene
 
-技能快捷键1=Skill Shortcuts 1
-技能快捷键2=Skill Shortcuts 2
-技能快捷键3=Skill Shortcuts 3
-技能快捷键4=Skill Shortcuts 4
-技能快捷键5=Skill Shortcuts 5
-技能快捷键6\n=Skill Shortcuts 6
-技能快捷键7=Skill Shortcuts 7
-技能快捷键8=Skill Shortcuts 8
-技能快捷键9=Skill Shortcuts 9
-技能快捷键10=Skill Shortcuts 10
-技能快捷键11=Skill Shortcuts 11
-技能快捷键12=Skill Shortcuts 12
-技能快捷键13=Skill Shortcuts 13
-技能快捷键14=Skill Shortcuts 14
-技能快捷键15=Skill Shortcuts 15
-技能快捷键16=Skill Shortcuts 16
-技能快捷键17=Skill Shortcuts 17
-技能快捷键18=Skill Shortcuts 18
-技能快捷键19=Skill Shortcuts 19
-技能快捷键20\n=Skill Shortcuts 20
-技能快捷键21=Skill Shortcuts 21
-技能快捷键22=Skill Shortcuts 22
+sr:"技能快捷键([\d]*)"=Skill Shortcuts $1
 
 
 通用=Universal
@@ -599,7 +578,7 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 胆小如鼠=<size\=18>Timid</size>
 血气充足=<size\=18>Sufficient Blood</size>
 血气虚弱=<size\=18>Weak Blood Qi</size>
-丹凤眼=Danfengyan?
+丹凤眼=<size%3D16>Slanted Eyes</size>
 皮肤黯淡=<size\=18>Dull Skin</size>
 轻盈=<size\=18>Underweight</size>
 肥胖=<size\=18>Overweight</size>
@@ -648,8 +627,8 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 确 定=Confirm
 
 基  础=<size\=16>Basic Info</size>
- 基 础 属 性 =<size\=24>Basic Attributes </size>
- 人 物 相 关 = Correlation 
+基 础 属 性 =<size\=24>Basic Attributes </size>
+人 物 相 关 = Correlation 
 
 境界=<size\=12>Realm</size>
 
@@ -658,7 +637,7 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 性别=<size\=12>Gender</size>
 籍贯=<size\=12>Home-\ntown</size>
 喜好=<size\=12>Love</size>
-厌恶=<size\=12>Loathe</size>
+厌恶=<size\=12>Hate</size>
 身份=<size\=12>Identity</size>
 阅历=<size\=12>Exper-\nience</size>
 好感=<size\=12>Good-\nwill</size>
@@ -709,6 +688,30 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 
 
 筑基解锁=Foundation Unlock?
+
+
+风物志=Insights
+角色=Characters
+当前阅历=<size%3D12>Current\nExperience</size>
+特殊角色=<size%3D16>Special Characters</size>
+随机角色=<size%3D16>Random Characters</size>
+材料=Materials
+怪物=Bestiary
+首领=<size%3D18>Boss</size>
+精英=<size%3D18>Elite</size>
+普通=<size%3D18>Common</size>
+书籍=Books
+
+术法=Law?
+标准丹方=<size%3D18>Standard Recipes</size>
+自创丹方=<size%3D18>Created Recipes</size>
+器方=<size%3D18>Blueprint</size>
+阵势图=<size%3D18>Array?</size>
+
+场景=Scenes
+
+
+
 
 存档名称=<size\=16>Save name</size>
 回合数=<size\=10>Number of Rounds</size>
