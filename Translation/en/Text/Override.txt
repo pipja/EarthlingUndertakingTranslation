@@ -32,7 +32,7 @@ UI字体=UI size
 任务=Task
 指派/外交=Assignment/Diplomacy
 地图=Map
-建筑交互=Architectural Interaction
+建筑交互=Building Interaction
 快速存档=Quick Save
 快速读档=Quick Load
 
@@ -645,7 +645,7 @@ sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
 天 道=Heavenly Path
 “天地不仁，以万物为刍狗。”\n尽情体会天道的残酷吧。="Heaven and earth are unkind and take all things as ruminants." \nExperience the cruelty of the heavenly path to the fullest.
 
-确 定=Determine
+确 定=Confirm
 
 基  础=<size\=16>Basic Info</size>
  基 础 属 性 =<size\=24>Basic Attributes </size>
