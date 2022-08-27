@@ -1,23 +1,23 @@
 ﻿设置=Settings
 
-显示设置=<size%3D20>Display Settings</size>
+显示设置=<size\=20>Display Settings</size>
 分辨率=Resolution
 默认=Defaults
 帧数=Framerate
 垂直同步=V-Sync
 全屏=Full Screen
 
-系统设置=<size%3D20>System Settings</size>
-全局音量=<size%3D15>Master Volume</size>
-音效音量=<size%3D16>Sound Volume</size>
-音乐音量=<size%3D16>Music Volume</size>
+系统设置=<size\=20>System Settings</size>
+全局音量=<size\=15>Master Volume</size>
+音效音量=<size\=16>Sound Volume</size>
+音乐音量=<size\=16>Music Volume</size>
 UI字体=UI size
-收获面板=<size%3D16>Harvest Panel</size>
+收获面板=<size\=16>Harvest Panel</size>
 自动保存=Auto-save
 
-战斗设置=<size%3D20>Combat Settings</size>
-时间轴速度=<size%3D16>Timeline Speed</size>
-移动速度=<size%3D16>Movement Speed</size>
+战斗设置=<size\=20>Combat Settings</size>
+时间轴速度=<size\=16>Timeline Speed</size>
+移动速度=<size\=16>Movement Speed</size>
 
 
 快捷键=Hotkeys
@@ -74,32 +74,33 @@ UI字体=UI size
 
 重置=Reset
 
-ESC:打开菜单选项/关闭当前界面=<size%3D16>ESC: Open the menu option/close the current interface</size>
-鼠标中键=<size%3D16>Middle Mouse</size>
-固定悬浮窗=<size%3D16>Fixed Floating Window</size>
-鼠标中键:固定部分悬浮信息=<size%3D16>Middle Mouse: Fix some Floating Information</size>
+ESC:打开菜单选项/关闭当前界面=<size\=16>ESC: Open the menu option/close the current interface</size>
+鼠标中键=<size\=16>Middle Mouse</size>
+固定悬浮窗=<size\=16>Fixed Floating Window</size>
+鼠标中键:固定部分悬浮信息=<size\=16>Middle Mouse: Fix some Floating Information</size>
 请输入姓名=Your Name
 请输入门派名称=Sect Name
 
-预设=<size%3D16>Presets</size>
+预设=<size\=16>Presets</size>
 确认=Confirm
 自定义=Custom
-自圣人开坛传道以来，凡是拥有灵根者皆可踏入修行之道。所谓修炼之法，内修金丹，外炼肉体，破碎虚空，白日飞升。修士们因力量得到了至高无上的地位，可与凡人们的裂痕也日渐加深……\n也许根本没有修士，又或者说人人都是修士。\n你作为其中一员又该何去何从呢？=<size%3D12>Since the saint opened the altar and preached, anyone with spiritual roots can step into the path of cultivation. The so-called method of cultivation is to cultivate the golden elixir inside, refine the body outside, shatter the void, and soar during the day. The monks gained supremacy because of their power, but the rift with the mortals is also deepening...\nMaybe there are no monks at all, or everyone is a monk. \nWhat should you do as one of them?</size>
+自圣人开坛传道以来，凡是拥有灵根者皆可踏入修行之道。所谓修炼之法，内修金丹，外炼肉体，破碎虚空，白日飞升。修士们因力量得到了至高无上的地位，可与凡人们的裂痕也日渐加深……\n也许根本没有修士，又或者说人人都是修士。\n你作为其中一员又该何去何从呢？=<size\=12>Since the saint opened the altar and preached, anyone with spiritual roots can step into the path of cultivation. The so-called method of cultivation is to cultivate the golden elixir inside, refine the body outside, shatter the void, and soar during the day. The monks gained supremacy because of their power, but the rift with the mortals is also deepening...\nMaybe there are no monks at all, or everyone is a monk. \nWhat should you do as one of them?</size>
 大盗=Thief
-你从小就开始思考天地万物间的关系，但越是深入，常世的观念和道义越是无法将你约束。当你第一次尝试冲破内心的枷锁，一股快感油然而生。表面上你是受人尊敬的上仙，可到了无人注意到你时，便极尽鸡鸣狗盗之事。圣人不死，大盗不止。既然人人都有可能成为大盗，那为什么不能是自己呢？于是你愈发沉溺其中，直至在一次偷盗中你被某人发现……=<size%3D12>You have been thinking about the relationship between heaven, earth and all things since you were a child, but the deeper you go, the less you will be bound by the concepts and morals of the eternal world. When you try to break the shackles of your heart for the first time, a sense of pleasure arises spontaneously. On the surface, you are a respected immortal, but when no one notices you, you will do everything you can to rob. Saints don't die, but thieves don't stop. Since everyone can become a thief, why can't it be himself? So you indulge more and more, until in a theft you are discovered by someone...</size>
+你从小就开始思考天地万物间的关系，但越是深入，常世的观念和道义越是无法将你约束。当你第一次尝试冲破内心的枷锁，一股快感油然而生。表面上你是受人尊敬的上仙，可到了无人注意到你时，便极尽鸡鸣狗盗之事。圣人不死，大盗不止。既然人人都有可能成为大盗，那为什么不能是自己呢？于是你愈发沉溺其中，直至在一次偷盗中你被某人发现……=<size\=12>You have been thinking about the relationship between heaven, earth and all things since you were a child, but the deeper you go, the less you will be bound by the concepts and morals of the eternal world. When you try to break the shackles of your heart for the first time, a sense of pleasure arises spontaneously. On the surface, you are a respected immortal, but when no one notices you, you will do everything you can to rob. Saints don't die, but thieves don't stop. Since everyone can become a thief, why can't it be himself? So you indulge more and more, until in a theft you are discovered by someone...</size>
 妙手空空=Wonderful Hand
+预设一号=Preset 1
 
 EA开放=EA Open
 剑修=Swordman
-你诞生在一个铸剑世家，年幼时被过路的上仙收入门中，得以修炼道法。凭借手中锋利的飞剑，你逐渐在云梦获得了一些名声。慕名而来的挑战者也随之增多，然而天外有天，人外有人，在诸多玄奥法术的手段面前，你开始败多胜少……\n于是渐渐地你对剑修之路产生了动摇，这时，祖上流传下来的一柄断剑突然口吐人言……=<size%3D12>You were born in a sword-making family. When you were young, you were admitted to the door of Shangxian who passed by, and you were able to practice Taoism. With the sharp flying sword in your hand, you gradually gained some fame in Yunmeng. The number of challengers who come here for fame has also increased. However, there are heavens outside the sky, and there are people outside people. In the face of many mysterious magic methods, you start to lose more and win less...\nSo gradually you have been shaken on the path of swordsmanship. At this time , a broken sword handed down from the ancestors suddenly spit out people's words...</size>
+你诞生在一个铸剑世家，年幼时被过路的上仙收入门中，得以修炼道法。凭借手中锋利的飞剑，你逐渐在云梦获得了一些名声。慕名而来的挑战者也随之增多，然而天外有天，人外有人，在诸多玄奥法术的手段面前，你开始败多胜少……\n于是渐渐地你对剑修之路产生了动摇，这时，祖上流传下来的一柄断剑突然口吐人言……=<size\=12>You were born in a sword-making family. When you were young, you were admitted to the door of Shangxian who passed by, and you were able to practice Taoism. With the sharp flying sword in your hand, you gradually gained some fame in Yunmeng. The number of challengers who come here for fame has also increased. However, there are heavens outside the sky, and there are people outside people. In the face of many mysterious magic methods, you start to lose more and win less...\nSo gradually you have been shaken on the path of swordsmanship. At this time , a broken sword handed down from the ancestors suddenly spit out people's words...</size>
 青莲剑体=Green Lotus Sword
 商贾=Merchant
-生在商贾之家的你，天生就有着对钱财的渴望。年幼时的一场大病使得家中长辈将你送入云梦寻仙问道，此后你便再也没能见到过父母。寒来暑往，皓首穷经。随着年龄的增长，你不禁思考：苦修？炼丹？画符？三千大道，有几条可以修得真仙？既然大道飘渺，为何不从心而行？于是你决心证一条红尘「商道」，抱着这样的决心，你遇到了一位老人……=<size%3D12>Born into a family of merchants, you are born with a desire for money. A serious illness when you were young caused the elders in your family to send you to Yunmeng Xunxian to ask, and you never saw your parents again. Cold to summer to go, Hao Shou poor. As you get older, you can't help but think: penance? Alchemy? Painter? How many of the three thousand avenues can be cultivated to become a true immortal? Since the road is vague, why not follow your heart? So you are determined to prove a mortal "business Tao", and with such determination, you meet an old man...</size>
+生在商贾之家的你，天生就有着对钱财的渴望。年幼时的一场大病使得家中长辈将你送入云梦寻仙问道，此后你便再也没能见到过父母。寒来暑往，皓首穷经。随着年龄的增长，你不禁思考：苦修？炼丹？画符？三千大道，有几条可以修得真仙？既然大道飘渺，为何不从心而行？于是你决心证一条红尘「商道」，抱着这样的决心，你遇到了一位老人……=<size\=12>Born into a family of merchants, you are born with a desire for money. A serious illness when you were young caused the elders in your family to send you to Yunmeng Xunxian to ask, and you never saw your parents again. Cold to summer to go, Hao Shou poor. As you get older, you can't help but think: penance? Alchemy? Painter? How many of the three thousand avenues can be cultivated to become a true immortal? Since the road is vague, why not follow your heart? So you are determined to prove a mortal "business Tao", and with such determination, you meet an old man...</size>
 自  傲=Prideful
 固  执=Stubborn
 经商之道=Business
 善人=Good Person
-你诞生在一个善人之家，祖上世代行善在云梦积累了大量的声望。你在年幼时便被上仙看中，收入门下修习长生大道。尽管修炼多年，对你影响最大的还是家中长辈的教诲：福祸无门唯人自召，善恶之报如影随形。但令你痛苦的是，天下仍有诸多不平之事，你所坚持的一切真的有意义吗？为了寻找答案，你开始游历四方，直至有一天……=<size%3D12>You were born in a family of good people, and your ancestors have accumulated a lot of prestige in Yunmeng for generations of good deeds. When you were young, you were favored by the immortals, and you were admitted to your sect to practice the avenue of longevity. Although you have practiced for many years, the teachings of your elders are the ones that have the greatest influence on you: there is no way for good or bad, only people call for them, and the rewards of good and evil go hand in hand. But what makes you miserable is that there are still many injustices in the world. Is everything you insist on really meaningful? In order to find the answer, you start to travel all over the place, until one day...</size>
+你诞生在一个善人之家，祖上世代行善在云梦积累了大量的声望。你在年幼时便被上仙看中，收入门下修习长生大道。尽管修炼多年，对你影响最大的还是家中长辈的教诲：福祸无门唯人自召，善恶之报如影随形。但令你痛苦的是，天下仍有诸多不平之事，你所坚持的一切真的有意义吗？为了寻找答案，你开始游历四方，直至有一天……=<size\=12>You were born in a family of good people, and your ancestors have accumulated a lot of prestige in Yunmeng for generations of good deeds. When you were young, you were favored by the immortals, and you were admitted to your sect to practice the avenue of longevity. Although you have practiced for many years, the teachings of your elders are the ones that have the greatest influence on you: there is no way for good or bad, only people call for them, and the rewards of good and evil go hand in hand. But what makes you miserable is that there are still many injustices in the world. Is everything you insist on really meaningful? In order to find the answer, you start to travel all over the place, until one day...</size>
 忠  厚=Loyal
 柔  和=Soft
 大善人=Good Man
@@ -133,35 +134,35 @@ EA开放=EA Open
 男=Male
 女=Female
 
-人物形象=<size%3D12>Characteristics</size>
+人物形象=<size\=12>Characteristics</size>
 头 发=Hair
 脸 型=Face
-眉 毛=<size%3D18>Eyebrow</size>
+眉 毛=<size\=18>Eyebrow</size>
 眼 睛=Eye
 胡 子=Beard
 鼻 子=Nose
 嘴 巴=Mouth
-面部特征=<size%3D18>Markings</size>
+面部特征=<size\=18>Markings</size>
 衣 服=Clothes
 
 
-修炼流派=<size%3D17>Cultivation</size>
+修炼流派=<size\=17>Cultivation</size>
 
-道术-金=Dao Art-Metal
-道术-木=Dao Art-Wood
-道术-水=Dao Art-Water
-道术-火=Dao Art-Fire
-道术-土=Dao Art-Earth
-炼体-技=<size%3D11>Body Refinement-Technique</size>
-炼体-势=<size%3D11>Body Refinement-Potential</size>
-巫祝-血神=WuZhu-Blood God
+道术-金=Daoism-Metal
+道术-木=Daoism-Wood
+道术-水=Daoism-Water
+道术-火=Daoism-Fire
+道术-土=Daoism-Earth
+炼体-技=<size\=11>Body Refinement-Tech</size>
+炼体-势=<size\=11>Body Refinement-Pot</size>
+巫祝-血神=Demonic Arts-Blood God
 
 
 
-初始功法=<size%3D20>Initial\nArt</size>
+初始功法=<size\=20>Initial\nArt</size>
 
-可选心法=<size%3D20>Optional\nmind?</size>
-可选术法=<size%3D20>Optional\nmethod?</size>
+可选心法=<size\=20>Optional\nmind?</size>
+可选术法=<size\=20>Optional\nmethod?</size>
 
 名称\n=Name\n
 流派=School
@@ -170,42 +171,42 @@ EA开放=EA Open
 
 道术=Dao Art
 炼体=Body Refining
-巫祝=Witch? wishes?
+巫祝=Demonic Art
 
-心法=Mentality?
+心法=Inner Art
 
-控金总纲=<size%3D14>General Outline-Metal</size>
-炼金总纲=<size%3D14>Refining-Metal</size>
-化金总纲=<size%3D14>Alchemy-Metal</size>
-控木总纲=<size%3D14>General Outline-Wood</size>
-炼木总纲=<size%3D14>Refine-Wood</size>
-化木总纲=<size%3D14>Alchemy-Wood</size>
-控水总纲=<size%3D14>General Outline-Water</size>
-炼水总纲=<size%3D14>Refining-Water</size>
-化水总纲=<size%3D14>Alchemy-Water</size>
-控火总纲=<size%3D14>General Outline-Fire</size>
-炼火总纲=<size%3D14>Refining-Fire</size>
-化火总纲=<size%3D14>Alchemy-Fire</size>
-控土总纲=<size%3D14>General Outline-Earth</size>
-炼土总纲=<size%3D14>Refining-Earth</size>
-化土总纲=<size%3D14>Alchemy-Earth</size>
-通脉功=<size%3D14>Miracle?</size>
-洗髓功=<size%3D14>Marrow washing?</size>
-玄脏功=<size%3D14>Xuanxiang?</size>
-乘云势=<size%3D14>Take the clouds?</size>
-踱海势=<size%3D14>Seal?</size>
-惊雷势=<size%3D14>Shocking?</size>
-祝由总纲=<size%3D14>General Outline-Blessing</size>
-灵舞总纲=<size%3D14>General Outline-Spirit</size>
-血神总纲=<size%3D14>General Outline-Blood</size>
+控金总纲=<size\=14>General Outline-Metal</size>
+炼金总纲=<size\=14>Refining-Metal</size>
+化金总纲=<size\=14>Alchemy-Metal</size>
+控木总纲=<size\=14>General Outline-Wood</size>
+炼木总纲=<size\=14>Refine-Wood</size>
+化木总纲=<size\=14>Alchemy-Wood</size>
+控水总纲=<size\=14>General Outline-Water</size>
+炼水总纲=<size\=14>Refining-Water</size>
+化水总纲=<size\=14>Alchemy-Water</size>
+控火总纲=<size\=14>General Outline-Fire</size>
+炼火总纲=<size\=14>Refining-Fire</size>
+化火总纲=<size\=14>Alchemy-Fire</size>
+控土总纲=<size\=14>General Outline-Earth</size>
+炼土总纲=<size\=14>Refining-Earth</size>
+化土总纲=<size\=14>Alchemy-Earth</size>
+通脉功=<size\=14>Miracle?</size>
+洗髓功=<size\=14>Marrow washing?</size>
+玄脏功=<size\=14>Xuanxiang?</size>
+乘云势=<size\=14>Take the clouds?</size>
+踱海势=<size\=14>Seal?</size>
+惊雷势=<size\=14>Shocking?</size>
+祝由总纲=<size\=14>General Outline-Blessing</size>
+灵舞总纲=<size\=14>General Outline-Spirit</size>
+血神总纲=<size\=14>General Outline-Blood</size>
 
 
 
-术法=Law?
+术法=Manual
 
-煞光秘法=Emulu Secret Method?
-金光经=Golden Classic?
-金煞诀=Jin Sha Jue?
+煞光秘法=Killing Light Secret Technique
+金光经=Radiant Scripture
+金煞诀=Golden Fury Technique
 花灵经=Flower Classic?
 飞叶经=Fly leaf meridian?
 桃木秘法=Peach Music Method?
@@ -229,23 +230,23 @@ EA开放=EA Open
 血液秘法=Blood secret
 
 
-灵根=<size%3D20>Spirit\nRoots</size>
+灵根=<size\=20>Spirit\nRoots</size>
 
-金灵根=<size%3D17>Metal\nSpirit Root</size>
-木灵根=<size%3D17>Wood\nSpirit Root</size>
-水灵根=<size%3D17>Water\nSpirit Root</size>
-火灵根=<size%3D17>Fire\nSpirit Root</size>
-土灵根=<size%3D17>Earth\nSpirit Root</size>
-属性抗性=<size%3D17>Attribute\nResistance</size>
+金灵根=<size\=17>Metal\nSpirit Root</size>
+木灵根=<size\=17>Wood\nSpirit Root</size>
+水灵根=<size\=17>Water\nSpirit Root</size>
+火灵根=<size\=17>Fire\nSpirit Root</size>
+土灵根=<size\=17>Earth\nSpirit Root</size>
+属性抗性=<size\=17>Attribute\nResistance</size>
 金属性抗性=Metal Resistance
 木属性抗性=Wood Resistance
 水属性抗性=Water Resistance
 火属性抗性=Fire Resistance
 土属性抗性=Earth Resistance
 阴属性抗性=Yin Resistance
-阳属性抗性=Yang Resistance
-混元属性抗性=Mixed-Element Resistance
-属性效果=<size%3D17>Attribute\nEffect?</size>
+阳属性抗性=Yang Resistance 
+混元属性抗性=Mixed-Element Res
+属性效果=<size\=17>Attribute\nEffect?</size>
 金属性增幅=Metal Increase
 木属性增幅=Wood Increase
 水属性增幅=Water Increase
@@ -254,61 +255,102 @@ EA开放=EA Open
 阴属性增幅=Yin Increase
 阳属性增幅=Yang Increase
 混元属性增幅=Mixed-Element Increase
-选择灵根=<size%3D17>Select\nSpirit Root</size>
+选择灵根=<size\=17>Select\nSpirit Root</size>
 五行灵根=Five Elements-Spirit Roots
-“当时者旺，生我者休，我生者相，克我者囚，我克者死。”\n不同灵根的个体对各属性的发挥效果与抗性各不相同；顺应环境，利用生克制定的战术将帮助你取胜。=<size%3D11>"At that time, those who were prosperous, those who gave birth to me were rested, those who were born were born, those who restrained me were prisoners, and those who restrained me died."\nIndividuals with different spiritual roots have different effects and resistances to each attribute; adapt to the environment, use Tactics developed by Sheng Ke will help you win.</size>
+“当时者旺，生我者休，我生者相，克我者囚，我克者死。”\n不同灵根的个体对各属性的发挥效果与抗性各不相同；顺应环境，利用生克制定的战术将帮助你取胜。=<size\=11>"At that time, those who were prosperous, those who gave birth to me were rested, those who were born were born, those who restrained me were prisoners, and those who restrained me died."\nIndividuals with different spiritual roots have different effects and resistances to each attribute; adapt to the environment, use Tactics developed by Sheng Ke will help you win.</size>
 查看=Check
 修改=Modify
+受治疗效果=Healing Effect
+受护盾效果=Shield Effect
 
-属性=<size%3D18>Attri-\nbutes</size>
-剩余点数：=<size%3D15>Remaining pts:</size>
-剩余点数:0=<size%3D15>Remaining pts: 0</size>
-剩余点数:1=<size%3D15>Remaining pts: 1</size>
-剩余点数:2=<size%3D15>Remaining pts: 2</size>
-剩余点数:3=<size%3D15>Remaining pts: 3</size>
-剩余点数:4=<size%3D15>Remaining pts: 4</size>
-剩余点数:5=<size%3D15>Remaining pts: 5</size>
-剩余点数:6=<size%3D15>Remaining pts: 6</size>
-剩余点数:7=<size%3D15>Remaining pts: 7</size>
-剩余点数:8=<size%3D15>Remaining pts: 8</size>
-剩余点数:9=<size%3D15>Remaining pts: 9</size>
-剩余点数:10=<size%3D15>Remaining pts: 10</size>
-剩余点数:11=<size%3D15>Remaining pts: 11</size>
-剩余点数:12=<size%3D15>Remaining pts: 12</size>
-剩余点数:13=<size%3D15>Remaining pts: 13</size>
-剩余点数:14=<size%3D15>Remaining pts: 14</size>
-剩余点数:15=<size%3D15>Remaining pts: 15</size>
-剩余点数:16=<size%3D15>Remaining pts: 16</size>
-剩余点数:17=<size%3D15>Remaining pts: 17</size>
-剩余点数:18=<size%3D15>Remaining pts: 18</size>
-剩余点数:19=<size%3D15>Remaining pts: 19</size>
-剩余点数:20=<size%3D15>Remaining pts: 20</size>
-剩余点数:21=<size%3D15>Remaining pts: 21</size>
-剩余点数:22=<size%3D15>Remaining pts: 22</size>
-剩余点数:23=<size%3D15>Remaining pts: 23</size>
-剩余点数:24=<size%3D15>Remaining pts: 24</size>
-剩余点数:25=<size%3D15>Remaining pts: 25</size>
-剩余点数:26=<size%3D15>Remaining pts: 26</size>
-剩余点数:27=<size%3D15>Remaining pts: 27</size>
-剩余点数:28=<size%3D15>Remaining pts: 28</size>
-剩余点数:29=<size%3D15>Remaining pts: 29</size>
-剩余点数:30=<size%3D15>Remaining pts: 30</size>
-根骨=<size%3D12>Aptitude</size>
-体魄=<size%3D12>Physique</size>
-气血=<size%3D12>Qi and Blood</size>
-灵敏=<size%3D12>Sensitive</size>
-悟性=<size%3D12>Perception</size>
-福源=<size%3D12>Luck</size>
-魅力=<size%3D12>Charm</size>
+属性=<size\=18>Attri-\nbutes</size>
+sr:"剩余点数：([\d]*)"=<size\=15>Remaining pts: $1</size>
+根骨=<size\=12>Apt</size>
+体魄=<size\=12>Phy</size>
+气血=<size\=12>Bld</size>
+灵敏=<size\=12>Sen</size>
+悟性=<size\=12>Per</size>
+福源=<size\=12>Luk</size>
+魅力=<size\=12>Cha</size>
 
-人物设定=<size%3D18>Character\nInfo</size>
-人物特性=<size%3D18>Character\nTraits</size>
+道术技能效果=Dao Skill Effects
+巫祝技能效果=Spell Effect
+符箓技能效果=Talisman Skill Effect
+数术技能效果=Math Skill Effect
+
+道术-金技能效果=Metal Skill Effect
+道术金=Metal Path
+道术-木技能效果=Wood Skill Effect
+道术木=Wood path
+道术-水技能效果=Water Skill Effect
+道术水=Water Path
+道术-火技能效果=Fire Skill Effect
+道术火=Fire path
+道术-土技能效果=Earth Skill Effect
+道术土=Earth Path
+
+巫祝-血神技能效果=Spell-Blood Skill Eff
+巫祝技能效果=Spell-Magic Skill Eff
+炼体技能效果=Physique Skill Effect
+炼体-势技能效果=Body-Pot Skill Eff
+炼体-技技能效果=Body-Tech Skill Eff
+
+冷却缩减=Cooldown
+暴击率提升=Crit Chance Increase
+暴击伤害提升=Crit Dmg Increase
+暴击率=Crit Chance
+暴击伤害=Crit Damage
+吟唱缩减=Chant Reduction
+吸血=Lifesteal
+移动距离=Movement Spd
+护盾免伤=Shield Dmg Reistance
+生命免伤=Damage Res(?)
+ 
+
+
+
+sr:"道术-金技能效果([\=\+\d\.\%]*)"=Metal Skill Effect $1
+
+sr:"道术-木技能效果([\=\+\d\.\%]*)"=Wood Skill Effect $1
+
+sr:"道术-水技能效果([\=\+\d\.\%]*)"=Water Skill Effect $1
+
+sr:"道术-火技能效果([\=\+\d\.\%]*)"=Fire Skill Effect $1
+
+sr:"道术-土技能效果([\=\+\d\.\%]*)"=Earth Skill Effect $1
+
+sr:"数术技能效果([\=\+\d\.\%]*)"=Mathematical Skill Effect $1
+
+sr:"符箓技能效果([\=\+\d\.\%]*)"=Talisman Skill Effect $1
+
+sr:"巫祝-血神技能效果([\=\+\d\.\%]*)"=Shamanism - Blood Art Skill Effect $1
+
+sr:"巫祝技能效果([\=\+\d\.\%]*)"=Shamanism - Witchcraft Skill Effect $1
+
+sr:"道术技能效果([\=\+\d\.\%]*)"=Dao Skill Effect $1
+
+sr:"炼体技能效果([\=\+\d\.\%]*)"=Physique Skill Effect $1
+
+sr:"治疗增幅率([\=\+\d\.\%]*)"=Healing Rate $1
+
+sr:"闪避率([\=\+\d\.\%]*)"=Evasion Rate $1
+
+sr:"护盾增幅率([\=\+\d\.\%]*)"=Shield Rate $1
+
+sr:"命中率([\=\+\d\.\%]*)"=Hit Rate $1
+
+sr:"暴击率([\=\+\d\.\%]*)"=Crit Rate $1
+
+sr:"速度([\=\+\d\.\%]*)"=Speed Rate $1
+
+人物设定=<size\=18>Character\nInfo</size>
+人物特性=<size\=18>Character\nTraits</size>
 
 自选=Choose
-可选特性=<size%3D14>Optional\nTraits</size>
+可选特性=<size\=14>Optional\nTraits</size>
 已选择=Selected
 互斥特性=Mutual
-性别冲突=<size%3D15>Gender Conflict</size>
+性别冲突=<size\=15>Gender Conflict</size>
 
 
 天阶=Heaven?
@@ -347,7 +389,7 @@ EA开放=EA Open
 根骨天成=Root?
 体魄天成=Body?
 人之子=Son of man?
-极魅之体=<size%3D16>Body of Extreme Charm</size>
+极魅之体=<size\=16>Body of Extreme Charm</size>
 无踪=Disappear?
 玄荒之体=Xuanhuang body?
 混沌之眼=Eye of Chaos?
@@ -396,11 +438,11 @@ EA开放=EA Open
 流风回雪=Liufeng Return to snow?
 精准施法=Accurate casting?
 虚灵神隐=Virtual spiritual god?
-金神体=<size%3D18>Metal Divine Body</size>
-木神体=<size%3D18>Wood Divine Body</size>
-水神体=<size%3D18>Water Divine Body</size>
-火神体=<size%3D18>Fire Divine Body</size>
-土神体=<size%3D18>Earth Divine Body</size>
+金神体=<size\=18>Metal Divine Body</size>
+木神体=<size\=18>Wood Divine Body</size>
+水神体=<size\=18>Water Divine Body</size>
+火神体=<size\=18>Fire Divine Body</size>
+土神体=<size\=18>Earth Divine Body</size>
 金行庇护=Golden asylum?
 木行庇护=Wooden asylum?
 水行庇护=Water asylum?
@@ -409,7 +451,7 @@ EA开放=EA Open
 儒雅随和=Johnn Choi?
 摧花=Blew?
 巾帼=Lady?
-高岭之花=Flower Flower?
+高岭之花=Unattainable Beauty?
 轩辕血脉=Xuanyuan Blood?
 九黎血脉=Jiuli blood?
 神农血脉=Shennong blood?
@@ -499,13 +541,13 @@ EA开放=EA Open
 
 中品道骨=Zhongpin Taoist bone?
 经脉闭塞=Meridian occlusion?
-勇猛=<size%3D18>Brave</size>
+勇猛=<size\=18>Brave</size>
 筋骨不足=Lack of bones and bones?
 血气如殷=Bloody?
 血气衰败=Blood gas decay?
 眉清目秀=Empty Show?
-歪嘴歪鼻=<size%3D18>Crooked Face</size>
-矫健=<size%3D18>Vigorous</size>
+歪嘴歪鼻=<size\=18>Crooked Face</size>
+矫健=<size\=18>Vigorous</size>
 脚底生疮=Sore?
 大聪明=Clever?
 福星官=Fu Xingguan?
@@ -516,22 +558,22 @@ EA开放=EA Open
 临阵退缩=Retreat?
 集中=concentrated?
 模糊施法=Blur?
-跛足=<size%3D18>Lame</size>
-金灵护=<size%3D12>Metal Spirit Protection</size>
-木灵护=<size%3D12>Wood Spirit Protection</size>
-水灵护=<size%3D12>Water Spirit Protection</size>
-火灵护=<size%3D12>Fire Spirit Protection</size>
-土灵护=<size%3D12>Earth Spirit Protection</size>
-金行亲和=<size%3D18>Metal Affinity</size>
-木行亲和=<size%3D18>Wood Affinity</size>
-水行亲和=<size%3D18>Water Affinity</size>
-火行亲和=<size%3D18>Fire Affinity</size>
-土行亲和=<size%3D18>Earth Affinity</size>
-金殇体=<size%3D18>Metal Body</size>
-木殇体=<size%3D18>Wood Body</size>
-水殇体=<size%3D18>Water Body</size>
-火殇体=<size%3D18>Fire Body</size>
-土殇体=<size%3D18>Earth Body</size>
+跛足=<size\=18>Lame</size>
+金灵护=<size\=12>Metal Spirit Protection</size>
+木灵护=<size\=12>Wood Spirit Protection</size>
+水灵护=<size\=12>Water Spirit Protection</size>
+火灵护=<size\=12>Fire Spirit Protection</size>
+土灵护=<size\=12>Earth Spirit Protection</size>
+金行亲和=<size\=18>Metal Affinity</size>
+木行亲和=<size\=18>Wood Affinity</size>
+水行亲和=<size\=18>Water Affinity</size>
+火行亲和=<size\=18>Fire Affinity</size>
+土行亲和=<size\=18>Earth Affinity</size>
+金殇体=<size\=18>Metal Body</size>
+木殇体=<size\=18>Wood Body</size>
+水殇体=<size\=18>Water Body</size>
+火殇体=<size\=18>Fire Body</size>
+土殇体=<size\=18>Earth Body</size>
 术法大师=Masterpiece?
 心法大师=Master?
 短命鬼=Short -lived ghost?
@@ -540,56 +582,56 @@ EA开放=EA Open
 辣手=Spicy?
 英眉=Eyebrow?
 小周天=Xiaoyou Tian?
-炼丹师=<size%3D18>Alchemist</size>
-仇恨炼丹=<size%3D14>Hate for Alchemy?</size>
+炼丹师=<size\=18>Alchemist</size>
+仇恨炼丹=<size\=14>Hate for Alchemy?</size>
 控火师=Fire controlist?
-仇恨火焰=<size%3D14>Hate for Flame?</size>
+仇恨火焰=<size\=14>Hate for Flame?</size>
 药理初学者=Pricer?
 随机投放=Randomly put?
-大机灵=<size%3D18>Great Wit</size>
+大机灵=<size\=18>Great Wit</size>
 
 
 凡阶=Ordinary
 
 凡品道骨=品 品 品 品?
-经脉不畅=<size%3D18>Poor Meridians</size>
-强壮=<size%3D18>Strong</size>
-胆小如鼠=<size%3D18>Timid</size>
-血气充足=<size%3D18>Sufficient Blood</size>
-血气虚弱=<size%3D18>Weak Blood Qi</size>
+经脉不畅=<size\=18>Poor Meridians</size>
+强壮=<size\=18>Strong</size>
+胆小如鼠=<size\=18>Timid</size>
+血气充足=<size\=18>Sufficient Blood</size>
+血气虚弱=<size\=18>Weak Blood Qi</size>
 丹凤眼=Danfengyan?
-皮肤黯淡=<size%3D18>Dull Skin</size>
-轻盈=<size%3D18>Underweight</size>
-肥胖=<size%3D18>Overweight</size>
-健忘=<size%3D18>Forgetful</size>
+皮肤黯淡=<size\=18>Dull Skin</size>
+轻盈=<size\=18>Underweight</size>
+肥胖=<size\=18>Overweight</size>
+健忘=<size\=18>Forgetful</size>
 吉星官=Ji Xingguan?
 背星官=Back -star official?
 独眼=One -eyed?
 浅伤口=Shallow wound?
 分心=Distract?
-行动不便=<size%3D18>Handicapped</size>
-畏金体质=<size%3D16>Metal Adverse Body</size>
-畏木体质=<size%3D16>Wood Adverse Body</size>
-畏水体质=<size%3D16>Water Adverse Body</size>
-畏火体质=<size%3D16>Fire Adverse Body</size>
-畏土体质=<size%3D16>Earth Adverse Body</size>
-战斗天才=<size%3D18>Combat Genius</size>
-术法天才=<size%3D18>Magic Genius</size>
-心法天才=<size%3D18>Mind Genius</size>
-气血过盛=<size%3D12>Excessive Qi and Blood</size>
-精力过盛=<size%3D18>Excessive Energy</size>
+行动不便=<size\=18>Handicapped</size>
+畏金体质=<size\=16>Metal Adverse Body</size>
+畏木体质=<size\=16>Wood Adverse Body</size>
+畏水体质=<size\=16>Water Adverse Body</size>
+畏火体质=<size\=16>Fire Adverse Body</size>
+畏土体质=<size\=16>Earth Adverse Body</size>
+战斗天才=<size\=18>Combat Genius</size>
+术法天才=<size\=18>Magic Genius</size>
+心法天才=<size\=18>Mind Genius</size>
+气血过盛=<size\=12>Excessive Qi and Blood</size>
+精力过盛=<size\=18>Excessive Energy</size>
 脉轮沉淤=Chakra?
 肺痨鬼=Ghost?
 看客=Spectators?
-平易近人=<size%3D18>Approachable</size>
-勤修不缀=<size%3D18>Diligent</size>
-剑修=<size%3D18>Swordsman</size>
+平易近人=<size\=18>Approachable</size>
+勤修不缀=<size\=18>Diligent</size>
+剑修=<size\=18>Swordsman</size>
 刀修=Sword repair?
 枪修=Gun repair?
-抗拒炼丹=<size%3D18>Alchemy Adverse</size>
-抗拒火焰=<size%3D18>Flame Adverse</size>
+抗拒炼丹=<size\=18>Alchemy Adverse</size>
+抗拒火焰=<size\=18>Flame Adverse</size>
 不通药理=Unpopular pharmacology?
-小机灵=<size%3D18>Little Wit</size>
+小机灵=<size\=18>Little Wit</size>
 
 开 始 游 戏=Start Game
 
@@ -605,29 +647,29 @@ EA开放=EA Open
 
 确 定=Determine
 
-基  础=<size%3D16>Basic Info</size>
- 基 础 属 性 =<size%3D24>Basic Attributes </size>
+基  础=<size\=16>Basic Info</size>
+ 基 础 属 性 =<size\=24>Basic Attributes </size>
  人 物 相 关 = Correlation 
 
-境界=<size%3D12>Realm</size>
+境界=<size\=12>Realm</size>
 
-性格=<size%3D12>Nature</size>
-种族=<size%3D12>Race</size>
-性别=<size%3D12>Gender</size>
-籍贯=<size%3D12>Home-\ntown</size>
-喜好=<size%3D12>Love</size>
-厌恶=<size%3D12>Loathe</size>
-身份=<size%3D12>Identity</size>
-阅历=<size%3D12>Exper-\nience</size>
-好感=<size%3D12>Good-\nwill</size>
-忠诚=<size%3D12>Loyalty</size>
-年龄=<size%3D12>Age</size>
-寿元=<size%3D12>Life-\nspan</size>
-
-
+性格=<size\=12>Nature</size>
+种族=<size\=12>Race</size>
+性别=<size\=12>Gender</size>
+籍贯=<size\=12>Home-\ntown</size>
+喜好=<size\=12>Love</size>
+厌恶=<size\=12>Loathe</size>
+身份=<size\=12>Identity</size>
+阅历=<size\=12>Exper-\nience</size>
+好感=<size\=12>Good-\nwill</size>
+忠诚=<size\=12>Loyalty</size>
+年龄=<size\=12>Age</size>
+寿元=<size\=12>Life-\nspan</size>
 
 
-突  破=<size%3D16>Breakthrough</size>
+
+
+突  破=<size\=16>Breakthrough</size>
 
 凡人=Mortal
 炼气境=Qi Refinement
@@ -666,16 +708,16 @@ EA开放=EA Open
 
 
 
-筑基解锁=Foundation???
+筑基解锁=Foundation Unlock?
 
-存档名称=<size%3D16>Save name</size>
-回合数=<size%3D10>Number of Rounds</size>
-储存时间=<size%3D16>Save Date</size>
+存档名称=<size\=16>Save name</size>
+回合数=<size\=10>Number of Rounds</size>
+储存时间=<size\=16>Save Date</size>
 该存档已不可用=The Save is not available
 读 取=Load
-删除=<size%3D16>Delete</size>
-姓名=<size%3D16>Player Name</size>
-门派=<size%3D16>Sect Name</size>
+删除=<size\=16>Delete</size>
+姓名=<size\=16>Player Name</size>
+门派=<size\=16>Sect Name</size>
 
 温室=Easy
 第1回合=1 Round
