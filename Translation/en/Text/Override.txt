@@ -921,6 +921,22 @@ sr:"数术术法精进提升([\+\=\d\.\%]*)"=Management Skill Improvement $1
 清空名册=<size\=18>Clear</size>
 划掉名册上所有人的名字=Drive away everyone on roster
 
+#Random Stuff(Laron):
 
-
-
+藏经阁=Scripture Pavillon
+百草园=Herb Field
+读档=Load 
+存档=Save
+<color\=red>身陨道消</color>=<color\=red>High Risk of Death(?)</color>
+大风国=Great Wind Country
+古商国=Ancient Merchant State
+荒神堂=Desolate Hall of the abandoned Gods
+生死派=Life and death faction(?)
+花啸派=Flower Tsunami School(?)
+雨旁国=Rainy Side Country
+无情门=Ruthless Gate
+宵顺城=Night Shuncheng
+盘苍帮=Pancang Gang (ancient Chinese people's gang)
+赤霄教=Red Sky Church
+碧劫派=Bijou Faction
+观感:=Relationship:
