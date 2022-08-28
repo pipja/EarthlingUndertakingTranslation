@@ -387,15 +387,15 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 先天道体=<size\=18>Innate Dao Body</size>
 修炼速度+30%\n福源+5=Cultivation speed+30%\nLuck +5
 丹道大能=<size\=14>Alchemist of Alchemy</size>
-炼丹成丹值+25=Alchemy Cheng Dan? Value +25
+炼丹成丹值+25=Alchemy Success Rate +25
 火焰掌控者=<size\=16>Alchemist of Flame</size>
 炼丹火力值+30=Alchemy Fire Value +30
-丹心凝练=<size\=16>Alchemist of Fusion</size>
-炼丹融合度+9%=Alchemy Fusion +9%
+丹心凝练=<size\=16>Alchemist of Quality</size>
+炼丹融合度+9%=Alchemy Quality +9%
 九转丹心=<size\=14>Alchemist of Formation</size>
-成丹值+10\n炼丹融合度+5%=Cheng Dan? value +10\nAlchemy Fusion +5%
+成丹值+10\n炼丹融合度+5%=Alchemy Success Rate +10\nAlchemy Quality +5%
 过度浓缩=<size\=18>Excess Focus</size>
-成丹值-30%\n炼丹融合度+30%=Cheng Dan? value -30%\nAlchemy fusion +30%
+成丹值-30%\n炼丹融合度+30%=Alchemy Success Rate -30%\nAlchemy Quality +30%
 邪天眼=<size\=18>Demonic Eye</size>
 暴击率+10%\n暴击伤害+60%=Critical Rate+10%\nCritical Damage+60%
 混沌之眼=<size\=16>Primal Chaos Eye</size>
@@ -545,7 +545,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 文曲星=<size\=16>Wisdom Star</size>
 悟性+13\n命中率-5%\n灵敏-3=Perception +13\nHit Rate -5%\nSense -3
 炼丹宗师=<size\=14>Alchemy Master</size>
-炼丹成丹值+14=Alchemy Cheng Dan? value +14
+炼丹成丹值+14=Alchemy Success Rate +14
 控火宗师=<size\=14>Flame Master</size>
 炼丹火力值+18=Alchemy fire value +18
 药理宗师=<size\=14>Fusion Master</size>
@@ -553,7 +553,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 福星丹师=<size\=14>Resource Master</size>
 炼丹时30%返还一个随机材料=30% chance to return a material during alchemy
 六彻丹魂=<size\=14>Six Pervading Pill Spirit</size>
-火力值+6\n成丹值+3%\n融合度+1.8%=Fire value +60%Dan cheng value +3% fusion +1.8%
+火力值+6\n成丹值+3%\n融合度+1.8%=Fire value +60% Success Rate +3% Quality +1.8%
 化玄器魂=<size\=14>Harmonious Tool Spirit</size>
 五行值提高10%\n炼制速度+30%=Five-element value increases 10%\nRefining speed +30%
 道心通明=<size\=18>Wise</size>
@@ -671,7 +671,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 大周天=<size\=16>Strong Guardian</size>
 护盾效果+16.25%=Shield effect +16.25%
 炼丹大师=<size\=16>Alchemy Genius</size>
-炼丹成丹值+10=Alchemy Cheng Dan? value +10
+炼丹成丹值+10=Alchemy Success Rate +10
 控火大师=<size\=16>Flame Genius</size>
 炼丹火力值+13=Alchemy fire value +13
 药理大师=<size\=16>Fusion Genius</size>
@@ -777,9 +777,9 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 小周天=<size\=16>Normal Guardian</size>
 护盾效果+11.25%=Shield effect +11.25%
 炼丹师=<size\=14>Alchemist Beginner</size>
-炼丹成丹值+8=Alchemy Cheng Dan value +8
+炼丹成丹值+8=Alchemy Success Rate +8
 仇恨炼丹=<size\=14>Hate for Alchemy</size>
-炼丹成丹值-15=Alchemy Cheng Dan value -15
+炼丹成丹值-15=Alchemy Success Rate -15
 控火师=<size\=14>Flame Beginner</size>
 炼丹火力值+9=Alchemy fire value +9
 仇恨火焰=<size\=14>Hate for Flame</size>
@@ -865,7 +865,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 枪修=<size\=16>Gun Beginner</size>
 暴击率+2%\n装备枪系法宝时，全伤害+6%=Critical attack rate+2%equipped with magic weapon, full damage+6%
 抗拒炼丹=<size\=18>Alchemy Adverse</size>
-炼丹成丹值-5=Alchemy Cheng Dan value -5
+炼丹成丹值-5=Alchemy Success Rate -5
 抗拒火焰=<size\=18>Flame Adverse</size>
 炼丹火力值-15=Alchemy fire value -15
 不通药理=<size\=18>Fusion Adverse</size>
