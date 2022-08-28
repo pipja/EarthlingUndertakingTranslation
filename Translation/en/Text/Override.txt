@@ -155,6 +155,9 @@ EA开放=EA Open
 巫祝=Demonic Art
 
 心法=Inner Art
+功  法=<size\=16>Manuals</size>
+技能一览=<size\=16>Skills</size>
+关 系=<size\=16>Relations</size>
 
 控金总纲=<size\=14>General Outline-Metal</size>
 炼金总纲=<size\=14>Refining-Metal</size>
@@ -295,7 +298,7 @@ sr:"剩余点数：([\d]*)"=<size\=15>Remaining pts: $1</size>
 移动距离=Movement Spd
 护盾免伤=Shield Dmg Res
 生命免伤=Damage Res
- 
+神通=Ultimate
 
 
 
@@ -309,7 +312,7 @@ sr:"道术-火技能效果([\=\+\d\.\%]*)"=Fire Skill Effect $1
 
 sr:"道术-土技能效果([\=\+\d\.\%]*)"=Earth Skill Effect $1
 
-sr:"数术技能效果([\=\+\d\.\%]*)"=Management Skill Effect $1
+sr:"数术技能效果([\=\+\d\.\%]*)"=Mathematical Skill Effect $1
 
 sr:"符箓技能效果([\=\+\d\.\%]*)"=Talisman Skill Effect $1
 
@@ -384,15 +387,15 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 先天道体=<size\=18>Innate Dao Body</size>
 修炼速度+30%\n福源+5=Cultivation speed+30%\nLuck +5
 丹道大能=<size\=14>Alchemist of Alchemy</size>
-炼丹成丹值+25=Alchemy Cheng Dan? Value +25
+炼丹成丹值+25=Alchemy Success Rate +25
 火焰掌控者=<size\=16>Alchemist of Flame</size>
 炼丹火力值+30=Alchemy Fire Value +30
-丹心凝练=<size\=16>Alchemist of Fusion</size>
-炼丹融合度+9%=Alchemy Fusion +9%
+丹心凝练=<size\=16>Alchemist of Quality</size>
+炼丹融合度+9%=Alchemy Quality +9%
 九转丹心=<size\=14>Alchemist of Formation</size>
-成丹值+10\n炼丹融合度+5%=Cheng Dan? value +10\nAlchemy Fusion +5%
+成丹值+10\n炼丹融合度+5%=Alchemy Success Rate +10\nAlchemy Quality +5%
 过度浓缩=<size\=18>Excess Focus</size>
-成丹值-30%\n炼丹融合度+30%=Cheng Dan? value -30%\nAlchemy fusion +30%
+成丹值-30%\n炼丹融合度+30%=Alchemy Success Rate -30%\nAlchemy Quality +30%
 邪天眼=<size\=18>Demonic Eye</size>
 暴击率+10%\n暴击伤害+60%=Critical Rate+10%\nCritical Damage+60%
 混沌之眼=<size\=16>Primal Chaos Eye</size>
@@ -428,7 +431,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 天尊之姿=<size\=16>Deified Posture</size>
 攻击力+15%\n法术强度+15%=Attack power +15%\nSpell strength +15%
 道法天成=<size\=16>Challenging Words</size>
-冷却时间-20%\n吟唱时间-10%=Cooling time -20%\nChanting time-10%
+冷却时间-20%\n吟唱时间-10%=Cooldown -20%\nChanting time-10%
 言出法随=<size\=18>Abiding Words</size>
 吟唱时间-30%=Chanting time-30%
 三清之眼=<size\=16>Three Clarities Eye</size>
@@ -442,7 +445,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 混元之体=<size\=14>Hybrid Mixed Body</size>
 混元属性伤害+35%=Mixed element attribute damage+35%
 高速循环=<size\=18>Quick cycle</size>
-冷却时间-30%=Cooling time-30%
+冷却时间-30%=Cooldown -30%
 五行根骨=<size\=14>Five Element Aptitude</size>
 根骨+9\n五行属性效果+20%=Aptitude +9\nFive element attribute effect+20%
 武器宗师=<size\=18>Weapon Master</size>
@@ -464,7 +467,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 贤者=<size\=18>Sage</size>
 悟性+15=Perception +15
 菩提心=<size\=18>Bodhi Mind</size>
-根骨，体魄，灵敏，福源，魅力，气血，降低8点\n悟性+40=Aptitude, Physique, Sense, Luck, Charm, Qi and Blood, Reduce Attributes by 8; Perception +40
+根骨，体魄，灵敏，福源，魅力，气血，降低8点\n悟性+40=All Attributes -8, except Perception +40
 
 
 地阶=<size\=16>Ground Rank</size>
@@ -542,7 +545,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 文曲星=<size\=16>Wisdom Star</size>
 悟性+13\n命中率-5%\n灵敏-3=Perception +13\nHit Rate -5%\nSense -3
 炼丹宗师=<size\=14>Alchemy Master</size>
-炼丹成丹值+14=Alchemy Cheng Dan? value +14
+炼丹成丹值+14=Alchemy Success Rate +14
 控火宗师=<size\=14>Flame Master</size>
 炼丹火力值+18=Alchemy fire value +18
 药理宗师=<size\=14>Fusion Master</size>
@@ -550,7 +553,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 福星丹师=<size\=14>Resource Master</size>
 炼丹时30%返还一个随机材料=30% chance to return a material during alchemy
 六彻丹魂=<size\=14>Six Pervading Pill Spirit</size>
-火力值+6\n成丹值+3%\n融合度+1.8%=Fire value +60%Dan cheng value +3% fusion +1.8%
+火力值+6\n成丹值+3%\n融合度+1.8%=Fire value +60% Success Rate +3% Quality +1.8%
 化玄器魂=<size\=14>Harmonious Tool Spirit</size>
 五行值提高10%\n炼制速度+30%=Five-element value increases 10%\nRefining speed +30%
 道心通明=<size\=18>Wise</size>
@@ -654,7 +657,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 御剑师=<size\=16>Double Edged Sword</size>
 暴击伤害+10%\n命中率-5%\n装备剑系法宝时，全伤害+13%=Critical Damage+10% Hit rate -5%When equipped with a artifact for swords, full damage+13%
 刀狼=<size\=18>Sword Wolf</size>
-装备刀系法宝时，全伤害+13%\n冷却时间-5%\n闪避率+3%=When equipped with a Sword Artifact, Full Damage +13%, Cooling time -5% Dodge Rate+3%
+装备刀系法宝时，全伤害+13%\n冷却时间-5%\n闪避率+3%=When equipped with a Sword Artifact, Full Damage +13%, Cooldown time -5% Dodge Rate+3%
 枪豪客=<size\=18>Gun Bandit?</size>
 暴击率+5%\n装备枪系法宝时，全伤害+13%=Critical attack rate+5%equipped with magic weapon, full damage+13%
 符箓小师=<size\=16>Incantation Genius</size>
@@ -668,7 +671,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 大周天=<size\=16>Strong Guardian</size>
 护盾效果+16.25%=Shield effect +16.25%
 炼丹大师=<size\=16>Alchemy Genius</size>
-炼丹成丹值+10=Alchemy Cheng Dan? value +10
+炼丹成丹值+10=Alchemy Success Rate +10
 控火大师=<size\=16>Flame Genius</size>
 炼丹火力值+13=Alchemy fire value +13
 药理大师=<size\=16>Fusion Genius</size>
@@ -774,9 +777,9 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 小周天=<size\=16>Normal Guardian</size>
 护盾效果+11.25%=Shield effect +11.25%
 炼丹师=<size\=14>Alchemist Beginner</size>
-炼丹成丹值+8=Alchemy Cheng Dan value +8
+炼丹成丹值+8=Alchemy Success Rate +8
 仇恨炼丹=<size\=14>Hate for Alchemy</size>
-炼丹成丹值-15=Alchemy Cheng Dan value -15
+炼丹成丹值-15=Alchemy Success Rate -15
 控火师=<size\=14>Flame Beginner</size>
 炼丹火力值+9=Alchemy fire value +9
 仇恨火焰=<size\=14>Hate for Flame</size>
@@ -858,11 +861,11 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 剑修=<size\=18>Swordsman</size>
 暴击伤害+5%\n命中率-2%\n装备剑系法宝时，全伤害+6%=Critical damage+5%hit rate -2%When equipped with a magic weapon of swords, full damage+6%
 刀修=<size\=16>Sword Beginner</size>
-冷却时间-2%\n闪避率+1%\n装备刀系法宝时，全伤害+6%=Cooling time -2%Dodge rate+1%Equipment of the knife system magic weapon, full damage+6%
+冷却时间-2%\n闪避率+1%\n装备刀系法宝时，全伤害+6%=Cooldown -2% Dodge rate+1%Equipment of the knife system magic weapon, full damage+6%
 枪修=<size\=16>Gun Beginner</size>
 暴击率+2%\n装备枪系法宝时，全伤害+6%=Critical attack rate+2%equipped with magic weapon, full damage+6%
 抗拒炼丹=<size\=18>Alchemy Adverse</size>
-炼丹成丹值-5=Alchemy Cheng Dan value -5
+炼丹成丹值-5=Alchemy Success Rate -5
 抗拒火焰=<size\=18>Flame Adverse</size>
 炼丹火力值-15=Alchemy fire value -15
 不通药理=<size\=18>Fusion Adverse</size>
@@ -888,6 +891,10 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 基  础=<size\=16>Basic Info</size>
 基 础 属 性 =<size\=24>Basic Attributes </size>
 人 物 相 关 = Correlation 
+练气解锁=<size\=14>Qi Refining Unlock</size>
+筑基解锁=<size\=14>Foundation Unlock</size>
+化神解锁=<size\=14>Soul Formation Unlock</size>
+暂未开放=<size\=14>Not Available</size>
 
 境界=<size\=12>Realm</size>
 
@@ -923,7 +930,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 属 性 抗 性=Elemental Resistance
 法宝=<size\=14>Artifacts</size>
 佩囊=<size\=14>Pocket</size>
-
+血量=Health
 
 
 突  破=<size\=16>Breakthrough</size>
@@ -977,8 +984,6 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 法术强度=Spell Power
 
 
-筑基解锁=Foundation Unlock?
-
 
 风物志=Insights
 角色=Characters
@@ -991,17 +996,16 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 精英=<size\=18>Elite</size>
 普通=<size\=18>Common</size>
 书籍=Books
-心法=Mentality?
-术法=Law?
+心法=Inner Art
+术法=Techniques
 标准丹方=<size\=18>Standard Recipes</size>
 自创丹方=<size\=18>Created Recipes</size>
 器方=<size\=18>Blueprint</size>
 阵势图=<size\=18>Array?</size>
 
 场景=Scenes
-
-
-
+存档=Save
+载=Load
 
 存档名称=<size\=16>Save name</size>
 回合数=<size\=10>Number of Rounds</size>
@@ -1081,5 +1085,39 @@ sr:"数术术法精进提升([\+\=\d\.\%]*)"=Management Skill Improvement $1
 划掉名册上所有人的名字=Drive away everyone on roster
 
 
+###Random Stuff(Laron):
 
+藏经阁=Scripture Pavillon
+百草园=Herb Field
+读档=Load  
+存档=Save
+<color\=red>身陨道消</color>=<color\=red>High Risk of Death(?)</color>
+大风国=Great Wind Country
+古商国=Ancient Merchant Country
+荒神堂=Temple of the famine god
+生死派=Life and death Faction(?)
+花啸派=Rustling Flower(s) Sect
+雨旁国=Rain Country
+无情门=Ruthless Gate
+宵顺城=Smooth Night City?
+盘苍帮=Pancang Gang (ancient Chinese people's gang)
+赤霄教=Red Sky Church
+碧劫派=Bijou Faction
+观感:=Reputation	:
+焚焚宫长老=Burning Palace Elder
+甘鸥=Sweet Bird
+邪阳门长老=Evil Yang Gate Elder
+术法(61)=Technique(61)
+标准丹方(50/97)= Standard Pill Formula (50/97)
+急躁(愚钝)=Impatience (stupidity)
+筋骨不足=Frail
+元婴境前期=Early Nascent Soul
+将自身境界提升至「金丹境初期」=Raise your realm to "Early Golden Core
+提升至「金丹境初期」=Upgrade to "Early Golden Core
+提升至「金丹境中期」=Upgraded to "Middle Golden Core
+将境界提升至「金丹境中期」=Raising the realm to "Middle Golden Core
+「金丹境中期」="Middle Golden Core"
+击杀怪物后将会在风物志处解锁灵宠图鉴。（只有金丹期以上才能使用）=After killing the monster, you will unlock the Spiritual Pet icon at the Windy World. (Only available at Golden Core stage or above)
+弟子${角色}在门派内经过寒来暑往的苦修，在宗门资源的帮助下，晋升至金丹期。=The disciple ${role} is promoted to the Golden Core stage after a cold and hard training within the sect with the help of the sect's resources.
+弟子在门派中突破到金丹期=Disciples break through to the Golden Core stage in the sect
 
