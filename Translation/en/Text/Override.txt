@@ -13,7 +13,8 @@
 音乐音量=<size\=16>Music Volume</size>
 UI字体=UI size
 收获面板=<size\=16>Harvest Panel</size>
-自动保存=Auto-save
+自动保存=Auto-Save
+自动存档=Auto-Save
 
 战斗设置=<size\=20>Combat Settings</size>
 时间轴速度=<size\=16>Timeline Speed</size>
@@ -65,7 +66,7 @@ ESC:打开菜单选项/关闭当前界面=<size\=16>ESC: Open the menu option/cl
 自圣人开坛传道以来，凡是拥有灵根者皆可踏入修行之道。所谓修炼之法，内修金丹，外炼肉体，破碎虚空，白日飞升。修士们因力量得到了至高无上的地位，可与凡人们的裂痕也日渐加深……\n也许根本没有修士，又或者说人人都是修士。\n你作为其中一员又该何去何从呢？=<size\=12>Since the saint opened the altar and preached, anyone with spiritual roots can step into the path of cultivation. The so-called method of cultivation is to cultivate the golden elixir inside, refine the body outside, shatter the void, and soar during the day. The monks gained supremacy because of their power, but the rift with the mortals is also deepening...\nMaybe there are no monks at all, or everyone is a monk. \nWhat should you do as one of them?</size>
 大盗=Thief
 你从小就开始思考天地万物间的关系，但越是深入，常世的观念和道义越是无法将你约束。当你第一次尝试冲破内心的枷锁，一股快感油然而生。表面上你是受人尊敬的上仙，可到了无人注意到你时，便极尽鸡鸣狗盗之事。圣人不死，大盗不止。既然人人都有可能成为大盗，那为什么不能是自己呢？于是你愈发沉溺其中，直至在一次偷盗中你被某人发现……=<size\=12>You have been thinking about the relationship between heaven, earth and all things since you were a child, but the deeper you go, the less you will be bound by the concepts and morals of the eternal world. When you try to break the shackles of your heart for the first time, a sense of pleasure arises spontaneously. On the surface, you are a respected immortal, but when no one notices you, you will do everything you can to rob. Saints don't die, but thieves don't stop. Since everyone can become a thief, why can't it be himself? So you indulge more and more, until in a theft you are discovered by someone...</size>
-妙手空空=Wonderful Hand
+妙手空空=Mythical Hands
 预设一号=Preset 1
 
 EA开放=EA Open
@@ -81,7 +82,7 @@ EA开放=EA Open
 你诞生在一个善人之家，祖上世代行善在云梦积累了大量的声望。你在年幼时便被上仙看中，收入门下修习长生大道。尽管修炼多年，对你影响最大的还是家中长辈的教诲：福祸无门唯人自召，善恶之报如影随形。但令你痛苦的是，天下仍有诸多不平之事，你所坚持的一切真的有意义吗？为了寻找答案，你开始游历四方，直至有一天……=<size\=12>You were born in a family of good people, and your ancestors have accumulated a lot of prestige in Yunmeng for generations of good deeds. When you were young, you were favored by the immortals, and you were admitted to your sect to practice the avenue of longevity. Although you have practiced for many years, the teachings of your elders are the ones that have the greatest influence on you: there is no way for good or bad, only people call for them, and the rewards of good and evil go hand in hand. But what makes you miserable is that there are still many injustices in the world. Is everything you insist on really meaningful? In order to find the answer, you start to travel all over the place, until one day...</size>
 忠  厚=Loyal
 柔  和=Soft
-大善人=Good Man
+大善人=Virtuous 
 
 主性格=Main Nature
 副性格=Sub Nature
@@ -107,7 +108,7 @@ EA开放=EA Open
 忠  厚=Loyal
 忠厚=Loyal
 自  傲=<size\=14>Prideful</size>
-固定特性=Fixed characteristics
+固定特性=Fixed Traits
 果决(自傲)=<size\=14>Decisive \nPrideful</size>
 金灵根(通透)=<size\=14>Metal Spirit Root (transparent)</size>
 
@@ -252,6 +253,8 @@ EA开放=EA Open
 金属性效果=Metal
 
 属性=<size\=18>Stats</size>
+剩余点数:0=<size\=15>Remaining pts: 0</size>
+sr:"剩余点数:([\d]*)"=<size\=15>Remaining pts: $1</size>
 sr:"剩余点数：([\d]*)"=<size\=15>Remaining pts: $1</size>
 根骨=<size\=12>Apt</size>
 体魄=<size\=12>Phy</size>
@@ -332,6 +335,9 @@ sr:"暴击率([\=\+\d\.\%]*)"=Crit Chance $1
 sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 
 人物设定=<size\=18>Character\nInfo</size>
+
+###Traits - Managed by Zosrin
+
 人物特性=<size\=18>Character\nTraits</size>
 
 自选=Choose
@@ -339,6 +345,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 已选择=Selected
 互斥特性=Mutual
 性别冲突=<size\=15>Gender Conflict</size>
+
 
 天阶=<size\=16>Heaven Rank</size>
 
@@ -349,25 +356,25 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 玄荒之体=<size\=16>Mysterious Ancient</size>
 气血+15=Qi and blood +15
 极魅之体=<size\=12>Body of Extreme Charm</size>
-无踪=Disappear?
-灵敏+15=Sensitive +15
-人之子=<size\=16>Chosen One</size>
+无踪=<size\=18>Traceless</size>
+灵敏+15=Sense +15
+人之子=<size\=18>Chosen One</size>
 福源+15=Luck +15
-七窍玲珑=Qiqiao Linglong?
+七窍玲珑=<size\=14>Exquisite Seven Apertures</size>
 悟性+18\n气血-3=Perception +18\nQi and Blood -3
-黑天眼=Dark Eye?
+黑天眼=<size\=16>Dark Heaven Eye</size>
 暴击率+20%\n暴击伤害+40%=Critical rate +20%\nCritical damage +40%
 刀皇气运=<size\=12>Destined Sword Emperor</size>
 冷却时间-10%\n闪避率+5%\n装备刀系法宝时，全伤害+30%=Cooldown -10%, Dodge rate+5% when equipped with Sword-type magic weapon, All Damage +30%
 枪尊气运=<size\=12>Destined Gun Emperor</size>
 暴击率+10%\n装备枪系法宝时，全伤害+30%=Critical rate +10% when equipped with Gun-type magic weapon, All damage +30%
-符道之体=Talisman body?
+符道之体=<size\=14>Mark of Incantation</size>
 符箓伤害+45%=Talisman Damage +45%
 大帝之姿=<size\=18>Great Emperor?</size>
 技能初始熟练度为圆满=Skills initial proficiency is perfect
 愚公=<size\=18>Foolish</size>
 悟性固定1，不可改变\n其他基础属性+10=Perception is fixed at 1, cannot be changed\nOther Basic Attributes +10
-神魔之体=<size\=16>Divine Devil Body?</size>
+神魔之体=<size\=16>Divine Devil Body</size>
 生命值+40%\n暴击率+20%=Health +40%\nCritical rate+20%
 纯阴之体=<size\=18>Pure Yin Body</size>
 法术强度+18%\n根骨+7=Spell Power +18%\nAptitude +7
@@ -385,11 +392,11 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 炼丹融合度+9%=Alchemy Fusion +9%
 九转丹心=<size\=14>Alchemist of Formation</size>
 成丹值+10\n炼丹融合度+5%=Cheng Dan? value +10\nAlchemy Fusion +5%
-过度浓缩=<size\=18>Excessive Focus</size>
+过度浓缩=<size\=18>Excess Focus</size>
 成丹值-30%\n炼丹融合度+30%=Cheng Dan? value -30%\nAlchemy fusion +30%
-邪天眼=Evil Eye?
+邪天眼=<size\=18>Demonic Eye</size>
 暴击率+10%\n暴击伤害+60%=Critical Rate+10%\nCritical Damage+60%
-混沌之眼=Eye of Chaos?
+混沌之眼=<size\=16>Primal Chaos Eye</size>
 暴击率+15%\n命中率+10%\n暴击伤害+33%=Critical attack Rate+15% Hit Rate+10% Crit Damage +33%
 仙体=<size\=18>Immortal Body</size>
 生命值+40%\n五行抗性+15%=Health+40%\nFive Elements Resistance+15%
@@ -419,13 +426,13 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 土伤害+25%\n暴击率+10%=Earth Damage +25%\nCritical Rate+10%
 土魔之体=<size\=18>Earth Mystic Body</size>
 土伤害+25%\n暴击伤害+20%=Earth Damage+ 25%\nCritical Damage+20%
-天尊之姿=Tianzunzi?
-攻击力+15%\n法术强度+15%=Attack power+15%\nSpell strength+15%
-道法天成=Taoist Tiancheng?
+天尊之姿=<size\=16>Deified Posture</size>
+攻击力+15%\n法术强度+15%=Attack power +15%\nSpell strength +15%
+道法天成=<size\=16>Challenging Words</size>
 冷却时间-20%\n吟唱时间-10%=Cooling time -20%\nChanting time-10%
 言出法随=<size\=18>Abiding Words</size>
 吟唱时间-30%=Chanting time-30%
-三清之眼=Eye of Sanqing?
+三清之眼=<size\=16>Three Clarities Eye</size>
 暴击率+45%=Critical Rate +45%
 残杀=<size\=18>Slaughterer</size>
 暴击伤害+75%=Critical Damage+75%
@@ -453,18 +460,17 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 土属性伤害+37.5%=Earth attribute damage+37.5%
 水行之体=<size\=14>Current Water Body</size>
 水属性伤害+37.5%=Water attribute damage+37.5%
-矛盾体=<size\=18>Paradoxaical</size>
+矛盾体=<size\=18>Paradoxical</size>
 暴击率-30%\n暴击伤害+100%=Critical attack rate -30%\nCritical damage+100%
 贤者=<size\=18>Sage</size>
 悟性+15=Perception +15
 菩提心=<size\=18>Bodhi Mind</size>
-根骨，体魄，灵敏，福源，魅力，气血，降低8点\n悟性+40=Aptitude, Physique, Sensitive, Luck, Charm, Qi and Blood, Reduce Attributes by 8; Perception +40
-
+根骨，体魄，灵敏，福源，魅力，气血，降低8点\n悟性+40=Aptitude, Physique, Sense, Luck, Charm, Qi and Blood, Reduce Attributes by 8; Perception +40
 
 
 地阶=<size\=16>Ground Rank</size>
 
-玉品道骨=Yupin Taoist Bone?
+玉品道骨=<size\=14>Rare Quality Aptitude</size>
 根骨+10=Aptitude +10
 无双=<size\=18>Unparalleled</size>
 体魄+10=Physique +10
@@ -472,18 +478,18 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 气血+10=Qi and blood +10
 天人之姿=<size\=18>Good Looks</size>
 魅力+10=Charm +10
-流风回雪=Liufeng Return to snow?
-灵敏+10=Sensitive +10
+流风回雪=<size\=14>Clean Flowing Reason</size>
+灵敏+10=Sense +10
 星之运=<size\=18>Star of Luck</size>
 福源+10=Luck +10
-天眼=<size\=18>Heaven Eye?</size>
+天眼=<size\=18>Heaven Eye</size>
 暴击率+27%=Critical Rate +27%
-乾坤一掷=Lord
+乾坤一掷=<size\=18>Risk All</size>
 暴击伤害+45%=Critical Damage+45%
-精准施法=Accurate casting?
+精准施法=<size\=16>Precise Excution</size>
 命中率+27%=Hit Rate +27%
-虚灵神隐=Virtual spiritual god?
-闪避率+22.5%=Evasion Rate +22.5%
+虚灵神隐=<size\=16>Concealed Movement</size>
+闪避率+22.5%=Dodge +22.5%
 金神体=<size\=18>Metal Divine Body</size>
 金属性伤害+22.5%=Metal Attribute Damage+22.5%
 木神体=<size\=18>Wood Divine Body</size>
@@ -513,204 +519,358 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 高岭之花=<size\=16>Unattaiable Standard</size>
 对魅力比自己低的角色造成的伤害+20%=The damage caused by the character that is lower than yourself is+20%
 轩辕血脉=<size\=14>Xuanyuan Blood Vessels</size>
-根骨+6\n悟性+6\n灵敏-3=Aptitude +6\nPerception +6\nSensitive-3
+根骨+6\n悟性+6\n灵敏-3=Aptitude +6\nPerception +6\nSense-3
 九黎血脉=<size\=14>Jiuli Blood Vessels</size>
 体魄+6\n气血+6\n根骨-3=Physique +6\nQi and Blood +6\nAptitude-3
 神农血脉=<size\=14>Shennong Blood Vessels</size>
-灵敏+6\n福源+6\n体魄-3=Sensitive +6\nLuck +6\nPhysique-3
-符箓大师=Master Fu?
-符箓伤害+27%=Rune 2 damage+27%
+灵敏+6\n福源+6\n体魄-3=Sense +6\nLuck +6\nPhysique-3
+符箓大师=<size\=16>Incantation Master</size>
+符箓伤害+27%=Talisman Damage +27%
 修道奇才=<size\=18>Taoist Genius</size>
 技能初始熟练度为中成=The initial proficiency of the skill is halfway
-龙之子=Sons of dragons?
-祖上曾流传下三件宝贝=Three babies have been circulated on the ancestors
-神行太保=Shenxing Tai Bao?
-大地图行动力+3=Large map action+3
+龙之子=<size\=16>Legendary Ancestor</size>
+祖上曾流传下三件宝贝=Three artifacts have been given by ancestors
+神行太保=<size\=16>Quick Footed</size>
+大地图行动力+3=Large map action +3
 太初守护=<size\=16>Primordial Guardian</size>
 护盾效果+22.5%=Shield effect+22.5%
 七杀星=<size\=16>Seven Killing Star</size>
-根骨+13\n寿元-10\n体魄-5=Aptitude +13\nLifespan-10\nBody-5
+根骨+13\n寿元-10\n体魄-5=Aptitude +13\nLifespan -10\nBody-5
 破军星=<size\=16>Splitting Arms Star</size>
-体魄+13\n寿元-10\n根骨-5=Physique +13\nLifespan-10\nRoot-5
+体魄+13\n寿元-10\n根骨-5=Physique +13\nLifespan -10\nRoot-5
 贪狼星=<size\=16>Greedy Wolf Star</size>
-灵敏+13\n魅力-5\n悟性-5=Sensitive +13\nCharm-5\nPerception-5
-文曲星=<size\=16>Wisdomly Star?</size>
-悟性+13\n命中率-5%\n灵敏-3=Perception +13\nHit Rate-5%\nSensitive-3
-炼丹宗师=<size\=14>Master of Alchemy</size>
+灵敏+13\n魅力-5\n悟性-5=Sense +13\nCharm -5\nPerception-5
+文曲星=<size\=16>Wisdom Star</size>
+悟性+13\n命中率-5%\n灵敏-3=Perception +13\nHit Rate -5%\nSense -3
+炼丹宗师=<size\=14>Alchemy Master</size>
 炼丹成丹值+14=Alchemy Cheng Dan? value +14
-控火宗师=<size\=14>Master of Flame</size>
+控火宗师=<size\=14>Flame Master</size>
 炼丹火力值+18=Alchemy fire value +18
-药理宗师=<size\=14>Master of Fusion</size>
+药理宗师=<size\=14>Fusion Master</size>
 炼丹融合度+5.5%=Alchemy fusion+5.5%
-福星丹师=<size\=14>Resourceful Alchemist</size>
+福星丹师=<size\=14>Resource Master</size>
 炼丹时30%返还一个随机材料=30% chance to return a material during alchemy
-六彻丹魂=Six Ten Dan Soul?
-火力值+6\n成丹值+3%\n融合度+1.8%=Fire value+60%red+3%fusion+1.8%
-化玄器魂=Huaxuan Soul?
-五行值提高10%\n炼制速度+30%=Five -element value increases 10%\nRefining speed+30%
-道心通明=<size\=18>Confident?</size>
+六彻丹魂=<size\=14>Six Pervading Pill Spirit</size>
+火力值+6\n成丹值+3%\n融合度+1.8%=Fire value +60%Dan cheng value +3% fusion +1.8%
+化玄器魂=<size\=14>Harmonious Tool Spirit</size>
+五行值提高10%\n炼制速度+30%=Five-element value increases 10%\nRefining speed +30%
+道心通明=<size\=18>Wise</size>
 悟性+10=Perception +10
 
 
 玄阶=<size\=14>Mysterious Rank</size>
 
-上品道骨=Taoist bone?
-经脉毁损=Merdian destruction?
-铁骨=Iron bone?
-血脉混杂=Mixed blood?
-血气旺盛=Bloody?
-血气萎靡=Bloody qi?
-闭月羞花=Close the moon and shy flowers?
-天生畸形=Natural deformity?
-迅捷如风=Fast like wind?
-老寒腿=Old cold leg?
-呆滞=sluggish?
-欧星官=Ou Xingguan?
-扫星官=Scanning officer?
-法眼=Law -eyed?
-神识混沌=Chaos?
-碎金裂石=Crushed golden lobe?
-心慈手软=Soft -hearted?
-专注施法=Focus?
-随机施法=Random casting?
-迅捷大师=Fast master?
-膝盖中箭=Knee
-金行者=Golden?
-木行者=Wooden?
-水行者=Waterman?
-土行者=Earthman?
-火行者=Fireman?
-金行加护=Jin Xingju Me?
-木行加护=Muxing Jiaju Wo?
-水行加护=Hydraulic care Wa?
-火行加护=Fire Fi?
-土行加护=Earthenc Ea?
-金劫体=<size\=16>Metal Vulnerbility</size>
-木劫体=<size\=16>Wood Vulnerbility</size>
-水劫体=<size\=16>Water Vulnerbility</size>
-火劫体=<size\=16>Fire Vulnerbility</size>
-土劫体=<size\=16>Earth Vulnerbility</size>
-战斗宗师=Combat master
-术法宗师=Master?
-心法宗师=Master of mind?
-刚烈=Rigidity?
-凛冽=ul?
-胖美人=Fat beauty?
-命薄者=Fate?
-铁憨憨=Irony?
-红尘客=Red dust?
-天生媚骨=Bone?
-御剑师=Yujian?
-刀狼=Wolf?
-枪豪客=Gunman?
-符箓小师=Fu Yan Xiao Shi?
-祖传秘籍=Ancestral cheats?
-祖传法宝=Ancstor magic weapon?
-两脚生风=Feet?
-大周天=Big day?
-炼丹大师=Alchemy master?
-控火大师=Master of fire control?
-药理大师=Master of pharmacology?
-吉星丹师=Ji Xingdan?
-长生者=Longevity?
-悟道者=Enlighten?
+上品道骨=<size\=16>Top Quality Aptitude</size>
+根骨+7=Aptitude +7
+经脉毁损=<size\=16>Damaged Meridians</size>
+根骨-7=Aptitude -7
+铁骨=<size\=14>Strong Blood Vessels</size>
+体魄+7=Physique +7
+血脉混杂=<size\=14>Mixed Blood Vessels</size>
+体魄-7=Physique -7
+血气旺盛=<size\=16>Vigorous Blood Qi</size>
+气血+7=Qi and Blood +7
+血气萎靡=<size\=16>Sickly Blood Qi</size>
+气血-7=Qi and Blood-7
+闭月羞花=<size\=16>Appealling Looks</size>
+魅力+7=Charm +7
+天生畸形=<size\=16>Deformed Looks</size>
+魅力-7=Charm -7
+迅捷如风=<size\=18>Graceful</size>
+灵敏+7=Sense +7
+老寒腿=<size\=18>Clumsy</size>
+灵敏-7=Sense -7
+呆滞=<size\=18>Dull</size>
+悟性-7=Perception-7
+欧星官=<size\=18>Good Luck</size>
+福源+7=Luck +7
+扫星官=<size\=18>Poor Luck</size>
+福源-7=Luck -7
+法眼=<size\=18>Discerning Eye</size>
+暴击率+19.5%=Critical Chance +19.5%
+神识混沌=<size\=18>Innocent Record</size>
+暴击率-7%=Critical Chance -7%
+碎金裂石=<size\=18>Ruthless</size>
+暴击伤害+32.5%=Critical Damage +32.5%
+心慈手软=<size\=18>Softhearted</size>
+暴击伤害-25%=Critical Damage -25%
+专注施法=<size\=16>Concentrated</size>
+命中率+19.5%=Hit Chance +19.5%
+随机施法=<size\=18>Erratic</size>
+命中率-10%=Hit Chance -10%
+迅捷大师=<size\=16>Nimble</size>
+闪避率+16.25%=Dodge +16.25%
+膝盖中箭=<size\=16>Arrow to Knee</size>
+闪避率-10%=Dodge -10%
+金行者=<size\=18>Metal Invoker</size>
+金属性伤害+16.25%=Metal Attribute Damage +16.25%
+木行者=<size\=18>Wood Invoker</size>
+木属性伤害+16.25%=Wood Attribute Damage +16.25%
+水行者=<size\=18>Water Invoker</size>
+水属性伤害+16.25%=Water Attribute Damage +16.25%
+火行者=<size\=18>Fire Invoker</size>
+火属性伤害+16.25%=Fire Attribute Damage +16.25%
+土行者=<size\=18>Earth Invoker</size>
+土属性伤害+16.25%=Earth Attribute Damage+16.25%
+金行加护=<size\=18>Metal Resiliant</size>
+金抗性+20%=Metal Resistance +20%
+木行加护=<size\=18>Wood Resiliant</size>
+木抗性+20%=Wood Resistance +20%
+水行加护=<size\=18>Water Resiliant</size>
+水抗性+20%=Water Resistance +20%
+火行加护=<size\=18>Fire Resiliant</size>
+火抗性+20%=Fire Resistance +20%
+土行加护=<size\=18>Earth Resiliant</size>
+土抗性+20%=Earth Resistance +20%
+金劫体=<size\=18>Metal Vulnerable</size>
+金抗性-20%=Metal Resistance -20%
+木劫体=<size\=18>Wood Vulnerable</size>
+木抗性-20%=Wood Resistance -20%
+水劫体=<size\=18>Water Vulnerable</size>
+水抗性-20%=Water Resistance -20%
+火劫体=<size\=18>Fire Vulnerable</size>
+火抗性-20%=Fire Resistance -20%
+土劫体=<size\=18>Earth Vulnerable</size>
+土抗性-20%=Earth Resistance -20%
+战斗宗师=<size\=16>Combat Master</size>
+战斗经验+15%=Battle experience +15%
+术法宗师=<size\=16>Technique Master</size>
+术法精进+15%=Technique experience +15%
+心法宗师=<size\=16>Inner Art Master</size>
+心法经验+15%=Inner Art experience +15%
+刚烈=<size\=18>Unyielding</size>
+攻击力+15%\n寿元-10=Attack power +15%\nLifespan -10
+凛冽=<size\=18>Unfriendly</size>
+法术强度+15%\n寿元-10=Spell strength +15%\nLifespan -10
+胖美人=<size\=18>Narcissist</size>
+魅力+6\n灵敏-3=Charm +6\nSense-3
+命薄者=<size\=18>Impermanence</size>
+寿元-30=Lifespan -30
+铁憨憨=<size\=18>Iron Headed</size>
+根骨+5\n体魄+5\n悟性-3=Aptitude +5\nPhysique +5\nPerception -3
+红尘客=<size\=18>Worldy Traveler</size>
+阅历+10=Experience +10
+天生媚骨=<size\=18>Sweet-Talker</size>
+初始好感+10=Initial favor +10
+御剑师=<size\=16>Double Edged Sword</size>
+暴击伤害+10%\n命中率-5%\n装备剑系法宝时，全伤害+13%=Critical Damage+10% Hit rate -5%When equipped with a artifact for swords, full damage+13%
+刀狼=<size\=18>Sword Wolf</size>
+装备刀系法宝时，全伤害+13%\n冷却时间-5%\n闪避率+3%=When equipped with a Sword Artifact, Full Damage +13%, Cooling time -5% Dodge Rate+3%
+枪豪客=<size\=18>Gun Bandit?</size>
+暴击率+5%\n装备枪系法宝时，全伤害+13%=Critical attack rate+5%equipped with magic weapon, full damage+13%
+符箓小师=<size\=16>Incantation Genius</size>
+符箓伤害+19.2%=Talisman Damage +19.2%
+祖传秘籍=<size\=16>Ancestral Technique</size>
+祖上曾流传下一本功法=Ancestors have handed down the next technique
+祖传法宝=<size\=16>Ancestral Artifact</size>
+祖上曾流传下一件法宝=Ancestors have handed down an artifact
+两脚生风=<size\=16>Light Footed</size>
+大地图行动力+1=Large map action +1
+大周天=<size\=16>Strong Guardian</size>
+护盾效果+16.25%=Shield effect +16.25%
+炼丹大师=<size\=16>Alchemy Genius</size>
+炼丹成丹值+10=Alchemy Cheng Dan? value +10
+控火大师=<size\=16>Flame Genius</size>
+炼丹火力值+13=Alchemy fire value +13
+药理大师=<size\=16>Fusion Genius</size>
+炼丹融合度+4%=Alchemy fusion+4%
+吉星丹师=<size\=16>Resource Genius</size>
+炼丹时10%返还一个随机材料= 10% chance to return a random material during alchemy 10% 
+长生者=<size\=18>Longevity </size>
+寿元+200=Lifespan +200
+悟道者=<size\=18>Knowledgeable</size>
+悟性+7=Perception +7
 
 
-黄阶=<size\=16>Yellow Rank</size>
+黄阶=<size\=16>Skilled Rank</size>
 
-中品道骨=Zhongpin Taoist bone?
-经脉闭塞=Meridian occlusion?
+中品道骨=<size\=16>Average Aptitude</size>
+根骨+5=Aptitude +5
+经脉闭塞=<size\=16>Obstructed Meridians</size>
+根骨-5=Aptitude -5
 勇猛=<size\=18>Brave</size>
-筋骨不足=Lack of bones and bones?
-血气如殷=Bloody?
-血气衰败=Blood gas decay?
-眉清目秀=Empty Show?
+体魄+5=Physique +5
+筋骨不足=<size\=18>Cowardly</size>
+体魄-5=Physique -5
+血气如殷=<size\=14>Abundent Blood Qi</size>
+气血+5=Qi and Blood +5
+血气衰败=<size\=16>Waning Blood Qi</size>
+气血-5=Qi and Blood -5
+眉清目秀=<size\=18>Fine Face</size>
+魅力+5=Charm +5
 歪嘴歪鼻=<size\=18>Crooked Face</size>
-矫健=<size\=18>Vigorous</size>
-脚底生疮=Sore?
-大聪明=Clever?
-福星官=Fu Xingguan?
-霉星官=Mildew official?
-锐眼=Sharp eyes?
-神识迟钝=Consciousness?
-裂开=split?
-临阵退缩=Retreat?
-集中=concentrated?
-模糊施法=Blur?
+魅力-5=Charm -5
+矫健=<size\=18>Steady</size>
+灵敏+5=Sense +5
+脚底生疮=<size\=18>Unsteady</size>
+灵敏-5=Sense -5
+大聪明=<size\=18>Close Minded</size>
+悟性-5=Perception -5
+福星官=<size\=18>Fortunate</size>
+福源+5=Luck +5
+霉星官=<size\=18>Unfortunate</size>
+福源-5=Luck -5
+锐眼=<size\=18>Keen Eye</size>
+暴击率+13.5%=Critical Chance +13.5%
+神识迟钝=<size\=18>Dull</size>
+暴击率-5%=Critical rate -5%
+裂开=<size\=18>Splitting</size>
+暴击伤害+22.5%=Critical damage +22.5%
+临阵退缩=<size\=18>Faltering</size>
+暴击伤害-15%=Critical damage -15%
+集中=<size\=18>Focused</size>
+命中率+13.5%=Hit Rate +13.5%
+模糊施法=<size\=18>Vague</size>
+命中率-6%=Hit Rate -6%
+迅捷步伐=<size\=18>Fast</size>
+闪避率+11.25%=Dodge +11.25%
 跛足=<size\=18>Lame</size>
-金灵护=<size\=12>Metal Spirit Protection</size>
-木灵护=<size\=12>Wood Spirit Protection</size>
-水灵护=<size\=12>Water Spirit Protection</size>
-火灵护=<size\=12>Fire Spirit Protection</size>
-土灵护=<size\=12>Earth Spirit Protection</size>
-金行亲和=<size\=18>Metal Affinity</size>
-木行亲和=<size\=18>Wood Affinity</size>
-水行亲和=<size\=18>Water Affinity</size>
-火行亲和=<size\=18>Fire Affinity</size>
-土行亲和=<size\=18>Earth Affinity</size>
-金殇体=<size\=18>Metal Body</size>
-木殇体=<size\=18>Wood Body</size>
-水殇体=<size\=18>Water Body</size>
-火殇体=<size\=18>Fire Body</size>
-土殇体=<size\=18>Earth Body</size>
-术法大师=Masterpiece?
-心法大师=Master?
-短命鬼=Short -lived ghost?
-误食太岁=Eat too old?
-魔怔人=Magic?
-辣手=Spicy?
-英眉=Eyebrow?
-小周天=Xiaoyou Tian?
-炼丹师=<size\=18>Alchemist</size>
-仇恨炼丹=<size\=14>Hate for Alchemy?</size>
-控火师=Fire controlist?
-仇恨火焰=<size\=14>Hate for Flame?</size>
-药理初学者=Pricer?
-随机投放=Randomly put?
+闪避率-6%=Dodge -6%
+金灵护=<size\=16>Metal Affinity</size>
+金属性伤害+11.25%=Metal Attribute Damage +11.25%
+木灵护=<size\=16>Wood Affinity</size>
+木属性伤害+11.25%=Wood Attribute Damage +11.25%
+水灵护=<size\=16>Water Affinity</size>
+水属性伤害+11.25%=Water Attribute Damage +11.25%
+火灵护=<size\=16>Fire Affinity</size>
+火属性伤害+11.25%=Fire Attribute Damage +11.25%
+土灵护=<size\=16>Earth Affinity</size>
+土属性伤害+11.25%=Earth Attribute Damage +11.25%
+金行亲和=<size\=18>Metal Protected</size>
+金抗性+14%=Metal Resistance +14%
+木行亲和=<size\=18>Wood Protected</size>
+木抗性+14%=Wood Resistance +14%
+水行亲和=<size\=18>Water Protected</size>
+水抗性+14%=Water Resistance +14%
+火行亲和=<size\=18>Fire Protected</size>
+火抗性+14%=Fire Resistance +14%
+土行亲和=<size\=18>Earth Protected</size>
+土抗性+14%=Earth Resistance +14%
+金殇体=<size\=16>Metal Contrary Body</size>
+金抗性-14%=Metal Resistance -14%
+木殇体=<size\=16>Wood Contrary Body</size>
+木抗性-14%=Wood Resistance -14%
+水殇体=<size\=16>Water Contrary Body</size>
+水抗性-14%=Water Resistance -14%
+火殇体=<size\=16>Fire Contrary Body</size>
+火抗性-14%=Fire Resistance -14%
+土殇体=<size\=16>Earth Contrary Body</size>
+土抗性-14%=Earth Resistance -14%
+战斗大师=<size\=16>Combat Genius</size>
+战斗经验+10%=Battle experience+10%
+术法大师=<size\=16>Technique Genius</size>
+术法精进+10%=Technique experience+10%
+心法大师=<size\=16>Inner Art Genius</size>
+心法经验+10%=Inner Art experience+10%
+短命鬼=<size\=16>Short-Lived</size>
+寿元-15=Lifespan -15
+误食太岁=<size\=16>Misinformed Elder</size>
+悟性-3\n寿元+50=Perception -3\nLifespan +50
+魔怔人=<size\=16>Demonic Practice</size>
+修炼速度+10%\n魅力-6=Cultivation speed +10%\nCharm -6
+辣手=<size\=16>Male Hero</size>
+对女性角色造成的伤害+6%=Damage to Female characters+6%
+英眉=<size\=16>Female Hero</size>
+对男性角色造成的伤害+6%=Damage to Male characters +6%
+小周天=<size\=16>Normal Guardian</size>
+护盾效果+11.25%=Shield effect +11.25%
+炼丹师=<size\=14>Alchemist Beginner</size>
+炼丹成丹值+8=Alchemy Cheng Dan value +8
+仇恨炼丹=<size\=14>Hate for Alchemy</size>
+炼丹成丹值-15=Alchemy Cheng Dan value -15
+控火师=<size\=14>Flame Beginner</size>
+炼丹火力值+9=Alchemy fire value +9
+仇恨火焰=<size\=14>Hate for Flame</size>
+炼丹火力值-30=Alchemy fire value -30
+药理初学者=<size\=14>Fusion Beginner</size>
+炼丹融合度+3%=Alchemy fusion+3%
+随机投放=<size\=14>Pragmatic Beginner</size>
+炼丹融合度-10%=Alchemy fusion -10%
 大机灵=<size\=18>Great Wit</size>
+悟性+5=Perception +5
 
 
 凡阶=<size\=14>Ordinary Rank</size>
 
-凡品道骨=品 品 品 品?
+凡品道骨=<size\=16>Ordinary Aptitude</size>
+根骨+3=Aptitude +3
 经脉不畅=<size\=18>Poor Meridians</size>
-强壮=<size\=18>Strong</size>
+根骨-3=Aptitude -3
+强壮=<size\=18>Bold</size>
+体魄+3=Physique +3
 胆小如鼠=<size\=18>Timid</size>
+体魄-3=Physique -3
 血气充足=<size\=18>Sufficient Blood</size>
+气血+3=Qi and Blood +3
 血气虚弱=<size\=18>Weak Blood Qi</size>
+气血-3=Qi and Blood -3
 丹凤眼=<size\=16>Slanted Eyes</size>
-皮肤黯淡=<size\=18>Dull Skin</size>
+魅力+3=Charm +3
+皮肤黯淡=<size\=18>Poor Skin</size>
+魅力-3=Charm -3
 轻盈=<size\=18>Underweight</size>
+灵敏+3=Sense +3
 肥胖=<size\=18>Overweight</size>
+灵敏-3=Sense-3
 健忘=<size\=18>Forgetful</size>
-吉星官=Ji Xingguan?
-背星官=Back -star official?
-独眼=One -eyed?
-浅伤口=Shallow wound?
-分心=Distract?
+悟性-3=Perception -3
+吉星官=<size\=18>Lucky</size>
+福源+3=Luck +3
+背星官=<size\=18>Unlucky</size>
+福源-3=Luck -3
+独眼=<size\=18>One Eye</size>
+暴击率-3%=Critical Rate -3%
+浅伤口=<size\=16>Shallow Blows</size>
+暴击伤害-5%=Critical damage -5%
+分心=<size\=18>Distracted</size>
+命中率-2%=Hit Rate -2%
 行动不便=<size\=18>Handicapped</size>
+闪避率-2%=Dodge -2%
 畏金体质=<size\=16>Metal Adverse Body</size>
+金抗性-10%=Metal resistance -10%
 畏木体质=<size\=16>Wood Adverse Body</size>
+木抗性-10%=Wood resistance-10%
 畏水体质=<size\=16>Water Adverse Body</size>
+水抗性-10%=Water resistance -10%
 畏火体质=<size\=16>Fire Adverse Body</size>
+火抗性-10%=Fire resistance -10%
 畏土体质=<size\=16>Earth Adverse Body</size>
-战斗天才=<size\=18>Combat Genius</size>
-术法天才=<size\=18>Magic Genius</size>
-心法天才=<size\=18>Mind Genius</size>
+土抗性-10%=Earth resistance -10%
+战斗天才=<size\=18>Combat Gifted</size>
+战斗经验+5%=Battle experience +5%
+术法天才=<size\=18>Technique Gifted</size>
+术法精进+5%=Technique experience +5%
+心法天才=<size\=18>Inner Art Gifted</size>
+心法经验+5%=Inner ARt experience +5%
 气血过盛=<size\=12>Excessive Qi and Blood</size>
+气血+6\n灵敏-3=Qi and blood +6\nSense -3
 精力过盛=<size\=18>Excessive Energy</size>
-脉轮沉淤=Chakra?
-肺痨鬼=Ghost?
-看客=Spectators?
+体魄+6\n灵敏-3=Physique +6\nSense -3
+脉轮沉淤=<size\=18>Dorment Bud</size>
+根骨+6\n灵敏-3=Aptitude +6\nSense -3
+肺痨鬼=<size\=18>Frail</size>
+寿元-5=Lifespan -5
+看客=<size\=18>Onlooker</size>
+阅历+5=Experience +5
 平易近人=<size\=18>Approachable</size>
+初始好感+5=Initial Favor +5
 勤修不缀=<size\=18>Diligent</size>
+修炼速度+5%=Cultivation speed+5%
 剑修=<size\=18>Swordsman</size>
-刀修=Sword repair?
-枪修=Gun repair?
+暴击伤害+5%\n命中率-2%\n装备剑系法宝时，全伤害+6%=Critical damage+5%hit rate -2%When equipped with a magic weapon of swords, full damage+6%
+刀修=<size\=16>Sword Beginner</size>
+冷却时间-2%\n闪避率+1%\n装备刀系法宝时，全伤害+6%=Cooling time -2%Dodge rate+1%Equipment of the knife system magic weapon, full damage+6%
+枪修=<size\=16>Gun Beginner</size>
+暴击率+2%\n装备枪系法宝时，全伤害+6%=Critical attack rate+2%equipped with magic weapon, full damage+6%
 抗拒炼丹=<size\=18>Alchemy Adverse</size>
+炼丹成丹值-5=Alchemy Cheng Dan value -5
 抗拒火焰=<size\=18>Flame Adverse</size>
-不通药理=Unpopular pharmacology?
+炼丹火力值-15=Alchemy fire value -15
+不通药理=<size\=18>Fusion Adverse</size>
+炼丹融合度-5%=Alchemy fusion -5%
 小机灵=<size\=18>Little Wit</size>
+悟性+3=Perception +3
+
 
 开 始 游 戏=Start Game
 
