@@ -1084,8 +1084,7 @@ sr:"数术术法精进提升([\+\=\d\.\%]*)"=Management Skill Improvement $1
 清空名册=<size\=18>Clear</size>
 划掉名册上所有人的名字=Drive away everyone on roster
 
-
-###Random Stuff(Laron):
+#Random Stuff(Laron):
 
 藏经阁=Scripture Pavillon
 百草园=Herb Field
@@ -1094,15 +1093,15 @@ sr:"数术术法精进提升([\+\=\d\.\%]*)"=Management Skill Improvement $1
 <color\=red>身陨道消</color>=<color\=red>High Risk of Death(?)</color>
 大风国=Great Wind Country
 古商国=Ancient Merchant Country
-荒神堂=Temple of the famine god
-生死派=Life and death Faction(?)
+荒神堂=Temple of the Famine god
+生死派=Life and Death Faction(?)
 花啸派=Rustling Flower(s) Sect
 雨旁国=Rain Country
 无情门=Ruthless Gate
 宵顺城=Smooth Night City?
 盘苍帮=Pancang Gang (ancient Chinese people's gang)
 赤霄教=Red Sky Church
-碧劫派=Bijou Faction
+碧劫派=Red Destiny Faction
 观感:=Reputation	:
 焚焚宫长老=Burning Palace Elder
 甘鸥=Sweet Bird
@@ -1112,12 +1111,11 @@ sr:"数术术法精进提升([\+\=\d\.\%]*)"=Management Skill Improvement $1
 急躁(愚钝)=Impatience (stupidity)
 筋骨不足=Frail
 元婴境前期=Early Nascent Soul
-将自身境界提升至「金丹境初期」=Raise your realm to "Early Golden Core
+将自身境界提升至「金丹境初期」=Raise your Realm to "Early Golden Core"
 提升至「金丹境初期」=Upgrade to "Early Golden Core
 提升至「金丹境中期」=Upgraded to "Middle Golden Core
 将境界提升至「金丹境中期」=Raising the realm to "Middle Golden Core
 「金丹境中期」="Middle Golden Core"
 击杀怪物后将会在风物志处解锁灵宠图鉴。（只有金丹期以上才能使用）=After killing the monster, you will unlock the Spiritual Pet icon at the Windy World. (Only available at Golden Core stage or above)
 弟子${角色}在门派内经过寒来暑往的苦修，在宗门资源的帮助下，晋升至金丹期。=The disciple ${role} is promoted to the Golden Core stage after a cold and hard training within the sect with the help of the sect's resources.
-弟子在门派中突破到金丹期=Disciples break through to the Golden Core stage in the sect
-
+弟子在门派中突破到金丹期=Disciples breakthrough to the Golden Core stage in the sect
