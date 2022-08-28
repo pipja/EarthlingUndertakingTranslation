@@ -893,7 +893,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 人 物 相 关 = Correlation 
 练气解锁=<size\=14>Qi Refining Unlock</size>
 筑基解锁=<size\=14>Foundation Unlock</size>
-化神解锁=<size\=14>God Trans Unlock</size>
+化神解锁=<size\=14>Soul Formation Unlock</size>
 暂未开放=<size\=14>Not Available</size>
 
 境界=<size\=12>Realm</size>
