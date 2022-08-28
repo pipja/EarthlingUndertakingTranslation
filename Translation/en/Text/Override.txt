@@ -155,6 +155,9 @@ EA开放=EA Open
 巫祝=Demonic Art
 
 心法=Inner Art
+功  法=<size\=16>Manuals</size>
+技能一览=<size\=16>Skills</size>
+关 系=<size\=16>Relations</size>
 
 控金总纲=<size\=14>General Outline-Metal</size>
 炼金总纲=<size\=14>Refining-Metal</size>
@@ -295,7 +298,7 @@ sr:"剩余点数：([\d]*)"=<size\=15>Remaining pts: $1</size>
 移动距离=Movement Spd
 护盾免伤=Shield Dmg Res
 生命免伤=Damage Res
- 
+神通=Ultimate
 
 
 
@@ -309,7 +312,7 @@ sr:"道术-火技能效果([\=\+\d\.\%]*)"=Fire Skill Effect $1
 
 sr:"道术-土技能效果([\=\+\d\.\%]*)"=Earth Skill Effect $1
 
-sr:"数术技能效果([\=\+\d\.\%]*)"=Management Skill Effect $1
+sr:"数术技能效果([\=\+\d\.\%]*)"=Mathematical Skill Effect $1
 
 sr:"符箓技能效果([\=\+\d\.\%]*)"=Talisman Skill Effect $1
 
@@ -464,7 +467,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 贤者=<size\=18>Sage</size>
 悟性+15=Perception +15
 菩提心=<size\=18>Bodhi Mind</size>
-根骨，体魄，灵敏，福源，魅力，气血，降低8点\n悟性+40=Aptitude, Physique, Sense, Luck, Charm, Qi and Blood, Reduce Attributes by 8; Perception +40
+根骨，体魄，灵敏，福源，魅力，气血，降低8点\n悟性+40=All Attributes -8, except Perception +40
 
 
 地阶=<size\=16>Ground Rank</size>
@@ -888,6 +891,10 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 基  础=<size\=16>Basic Info</size>
 基 础 属 性 =<size\=24>Basic Attributes </size>
 人 物 相 关 = Correlation 
+练气解锁=<size\=14>Qi Refining Unlock</size>
+筑基解锁=<size\=14>Foundation Unlock</size>
+化神解锁=<size\=14>God Trans Unlock</size>
+暂未开放=<size\=14>Not Available</size>
 
 境界=<size\=12>Realm</size>
 
@@ -923,7 +930,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 属 性 抗 性=Elemental Resistance
 法宝=<size\=14>Artifacts</size>
 佩囊=<size\=14>Pocket</size>
-
+血量=Health
 
 
 突  破=<size\=16>Breakthrough</size>
@@ -977,8 +984,6 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 法术强度=Spell Power
 
 
-筑基解锁=Foundation Unlock?
-
 
 风物志=Insights
 角色=Characters
@@ -991,17 +996,16 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 精英=<size\=18>Elite</size>
 普通=<size\=18>Common</size>
 书籍=Books
-心法=Mentality?
-术法=Law?
+心法=Inner Art
+术法=Techniques
 标准丹方=<size\=18>Standard Recipes</size>
 自创丹方=<size\=18>Created Recipes</size>
 器方=<size\=18>Blueprint</size>
 阵势图=<size\=18>Array?</size>
 
 场景=Scenes
-
-
-
+存档=Save
+载=Load
 
 存档名称=<size\=16>Save name</size>
 回合数=<size\=10>Number of Rounds</size>
