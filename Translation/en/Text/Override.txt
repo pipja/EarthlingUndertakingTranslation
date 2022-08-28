@@ -66,7 +66,7 @@ ESC:打开菜单选项/关闭当前界面=<size\=16>ESC: Open the menu option/cl
 自圣人开坛传道以来，凡是拥有灵根者皆可踏入修行之道。所谓修炼之法，内修金丹，外炼肉体，破碎虚空，白日飞升。修士们因力量得到了至高无上的地位，可与凡人们的裂痕也日渐加深……\n也许根本没有修士，又或者说人人都是修士。\n你作为其中一员又该何去何从呢？=<size\=12>Since the saint opened the altar and preached, anyone with spiritual roots can step into the path of cultivation. The so-called method of cultivation is to cultivate the golden elixir inside, refine the body outside, shatter the void, and soar during the day. The monks gained supremacy because of their power, but the rift with the mortals is also deepening...\nMaybe there are no monks at all, or everyone is a monk. \nWhat should you do as one of them?</size>
 大盗=Thief
 你从小就开始思考天地万物间的关系，但越是深入，常世的观念和道义越是无法将你约束。当你第一次尝试冲破内心的枷锁，一股快感油然而生。表面上你是受人尊敬的上仙，可到了无人注意到你时，便极尽鸡鸣狗盗之事。圣人不死，大盗不止。既然人人都有可能成为大盗，那为什么不能是自己呢？于是你愈发沉溺其中，直至在一次偷盗中你被某人发现……=<size\=12>You have been thinking about the relationship between heaven, earth and all things since you were a child, but the deeper you go, the less you will be bound by the concepts and morals of the eternal world. When you try to break the shackles of your heart for the first time, a sense of pleasure arises spontaneously. On the surface, you are a respected immortal, but when no one notices you, you will do everything you can to rob. Saints don't die, but thieves don't stop. Since everyone can become a thief, why can't it be himself? So you indulge more and more, until in a theft you are discovered by someone...</size>
-妙手空空=Mythical Hands
+妙手空空=PickPocket
 预设一号=Preset 1
 
 EA开放=EA Open
@@ -253,7 +253,6 @@ EA开放=EA Open
 金属性效果=Metal
 
 属性=<size\=18>Stats</size>
-剩余点数:0=<size\=15>Remaining pts: 0</size>
 sr:"剩余点数:([\d]*)"=<size\=15>Remaining pts: $1</size>
 sr:"剩余点数：([\d]*)"=<size\=15>Remaining pts: $1</size>
 根骨=<size\=12>Apt</size>
