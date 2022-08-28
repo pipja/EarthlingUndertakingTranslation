@@ -361,7 +361,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 福源+15=Luck +15
 七窍玲珑=<size\=14>Exquisite Seven Apertures</size>
 悟性+18\n气血-3=Perception +18\nQi and Blood -3
-黑天眼=<size\=16>Dark Heaven Eye</size>
+黑天眼=<size\=16>Heaven's Dark Eye</size>
 暴击率+20%\n暴击伤害+40%=Critical rate +20%\nCritical damage +40%
 刀皇气运=<size\=12>Destined Sword Emperor</size>
 冷却时间-10%\n闪避率+5%\n装备刀系法宝时，全伤害+30%=Cooldown -10%, Dodge rate+5% when equipped with Sword-type magic weapon, All Damage +30%
