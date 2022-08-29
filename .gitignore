@@ -1,2 +1,3 @@
-Translation/en/Text/*.bak
+*.bak
 config/BepInEx.cfg
+*.orig
