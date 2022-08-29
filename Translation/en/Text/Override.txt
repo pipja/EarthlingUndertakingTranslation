@@ -863,7 +863,7 @@ EA开放=EA Open
 喜好=<size\=12>Likes</size>
 厌恶=<size\=12>Dislikes</size>
 身份=<size\=12>Status</size>
-阅历=<size\=12>Exper-\nience</size>
+阅历=<size\=12>Exp</size>
 好感=<size\=12>Favor</size>
 忠诚=<size\=12>Loyalty</size>
 年龄=<size\=12>Age</size>
@@ -937,7 +937,7 @@ EA开放=EA Open
 长生=<size\=14>Eternal Life</size>
 命中率=Hit Chance
 闪避率=Dodge Chance
-攻击强度=Attack Strength
+攻击强度=Attack Power
 法术强度=Spell Power
 
 
@@ -1099,13 +1099,7 @@ EA开放=EA Open
 魅力影响巫祝者获得众神回应的强度=Charisma affects the power of a cultivator's prayers to the gods
 
 #Suggested by "The little butler" on Discord
-暴击率=Crit Chance
-暴击伤害=Crit Damage
-闪避率=Dodge Chance
-攻击强度=Attack Power
-法术强度=Spell  Power
 速度=Speed
 炼器室好事件发生率=Chance of good things happening
 修炼速度=Cultivation speed
 初始好感=Starting Virtue
-阅历=Experience
