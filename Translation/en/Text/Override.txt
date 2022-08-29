@@ -346,7 +346,7 @@ EA开放=EA Open
 炼丹成丹值+25=Alchemy Success Rate +25
 火焰掌控者=<size\=16>Alchemist of Flame</size>
 炼丹火力值+30=Alchemy Fire Value +30
-丹心凝练=<size\=16>Fusion Master</size>
+丹心凝练=<size\=16>Fusion Expert</size>
 炼丹融合度+9%=Dan Quality +9%
 九转丹心=<size\=14>Alchemist of Formation</size>
 成丹值+10\n炼丹融合度+5%=Alchemy Success Rate +10\nDan Quality +5%
