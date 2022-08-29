@@ -1,4 +1,5 @@
-﻿设置=Settings
+﻿#This file is for text override only, all regular expressions please use the RegularExpressions.txt file
+设置=Settings
 
 显示设置=<size\=20>Display Settings</size>
 分辨率=Resolution
@@ -39,8 +40,6 @@ UI字体=UI size
 
 
 战斗场景=Combat Scene
-
-sr:"技能快捷键([\d]*)(\n?)"=Skill Shortcuts $1$2
 
 通用=Universal
 
@@ -129,14 +128,9 @@ EA开放=EA Open
 
 修炼流派=<size\=17>Cultivation</size>
 
-道术-金=Daoism-Metal
-道术-木=Daoism-Wood
-道术-水=Daoism-Water
-道术-火=Daoism-Fire
-道术-土=Daoism-Earth
 炼体-技=<size\=11>Body Refinement-Tech</size>
 炼体-势=<size\=11>Body Refinement-Pot</size>
-巫祝-血神=Demonic Arts-Blood God
+巫祝-血神=Blood Arts
 
 
 
@@ -256,8 +250,6 @@ EA开放=EA Open
 金属性效果=Metal
 
 属性=<size\=18>Stats</size>
-sr:"剩余点数:([\d]*)"=<size\=15>Remaining pts: $1</size>
-sr:"剩余点数：([\d]*)"=<size\=15>Remaining pts: $1</size>
 根骨=<size\=12>Apt</size>
 体魄=<size\=12>Phy</size>
 气血=<size\=12>Bld</size>
@@ -300,42 +292,6 @@ sr:"剩余点数：([\d]*)"=<size\=15>Remaining pts: $1</size>
 生命免伤=Damage Res
 神通=Ultimate
 
-
-
-sr:"道术-金技能效果([\=\+\d\.\%]*)"=Metal Skill Effect $1
-
-sr:"道术-木技能效果([\=\+\d\.\%]*)"=Wood Skill Effect $1
-
-sr:"道术-水技能效果([\=\+\d\.\%]*)"=Water Skill Effect $1
-
-sr:"道术-火技能效果([\=\+\d\.\%]*)"=Fire Skill Effect $1
-
-sr:"道术-土技能效果([\=\+\d\.\%]*)"=Earth Skill Effect $1
-
-sr:"数术技能效果([\=\+\d\.\%]*)"=Mathematical Skill Effect $1
-
-sr:"符箓技能效果([\=\+\d\.\%]*)"=Talisman Skill Effect $1
-
-sr:"巫祝-血神技能效果([\=\+\d\.\%]*)"=Shamanism - Blood Art Skill Effect $1
-
-sr:"巫祝技能效果([\=\+\d\.\%]*)"=Shamanism - Witchcraft Skill Effect $1
-
-sr:"道术技能效果([\=\+\d\.\%]*)"=Dao Skill Effect $1
-
-sr:"炼体技能效果([\=\+\d\.\%]*)"=Physique Skill Effect $1
-
-sr:"治疗增幅率([\=\+\d\.\%]*)"=Healing Rate $1
-
-sr:"闪避率([\=\+\d\.\%]*)"=Dodge $1
-
-sr:"护盾增幅率([\=\+\d\.\%]*)"=Shield Rate $1
-
-sr:"命中率([\=\+\d\.\%]*)"=Hit Chance $1
-
-sr:"暴击率([\=\+\d\.\%]*)"=Crit Chance $1
-
-sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
-
 人物设定=<size\=18>Character\nInfo</size>
 
 ###Traits - Managed by Zosrin
@@ -365,11 +321,11 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 七窍玲珑=<size\=14>Exquisite Seven Apertures</size>
 悟性+18\n气血-3=Perception +18\nQi and Blood -3
 黑天眼=<size\=16>Heaven's Dark Eye</size>
-暴击率+20%\n暴击伤害+40%=Critical rate +20%\nCritical damage +40%
+暴击率+20%\n暴击伤害+40%=Crit Chance +20%\nCrit Damage +40%
 刀皇气运=<size\=12>Destined Sword Emperor</size>
-冷却时间-10%\n闪避率+5%\n装备刀系法宝时，全伤害+30%=Cooldown -10%, Dodge rate+5% when equipped with Sword-type magic weapon, All Damage +30%
+冷却时间-10%\n闪避率+5%\n装备刀系法宝时，全伤害+30%=Cooldown -10%, Dodge Chance +5% when equipped with Sword-type magic weapon, All Damage +30%
 枪尊气运=<size\=12>Destined Gun Emperor</size>
-暴击率+10%\n装备枪系法宝时，全伤害+30%=Critical rate +10% when equipped with Gun-type magic weapon, All damage +30%
+暴击率+10%\n装备枪系法宝时，全伤害+30%=Crit Chance +10% when equipped with Gun-type magic weapon, All damage +30%
 符道之体=<size\=14>Mark of Incantation</size>
 符箓伤害+45%=Talisman Damage +45%
 大帝之姿=<size\=18>Great Emperor?</size>
@@ -377,7 +333,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 愚公=<size\=18>Foolish</size>
 悟性固定1，不可改变\n其他基础属性+10=Perception is fixed at 1, cannot be changed\nOther Basic Attributes +10
 神魔之体=<size\=16>Divine Devil Body</size>
-生命值+40%\n暴击率+20%=Health +40%\nCritical rate+20%
+生命值+40%\n暴击率+20%=Health +40%\nCrit Chance +20%
 纯阴之体=<size\=18>Pure Yin Body</size>
 法术强度+18%\n根骨+7=Spell Power +18%\nAptitude +7
 纯阳之体=<size\=18>Pure Yang Body</size>
@@ -397,37 +353,37 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 过度浓缩=<size\=18>Excess Focus</size>
 成丹值-30%\n炼丹融合度+30%=Alchemy Success Rate -30%\nDan Quality +30%
 邪天眼=<size\=18>Demonic Eye</size>
-暴击率+10%\n暴击伤害+60%=Critical Rate+10%\nCritical Damage+60%
+暴击率+10%\n暴击伤害+60%=Crit Chance +10%\nCrit Damage+60%
 混沌之眼=<size\=16>Primal Chaos Eye</size>
-暴击率+15%\n命中率+10%\n暴击伤害+33%=Critical attack Rate+15% Hit Rate+10% Crit Damage +33%
+暴击率+15%\n命中率+10%\n暴击伤害+33%=Crit Chance +15% Hit Chance +10% Crit Damage +33%
 仙体=<size\=18>Immortal Body</size>
 生命值+40%\n五行抗性+15%=Health+40%\nFive Elements Resistance+15%
 百战之体=<size\=16>Body of 100 Battles</size>
-闪避率+12%\n吸血+22%=Dodge Rate +12%\nLeach +22%
+闪避率+12%\n吸血+22%=Dodge Chance +12%\nLeach +22%
 嗜血战狂=<size\=12>Bloodthirsty Battle Fanatic</size>
-吸血+15%\n暴击率+22.5%=Leech +15%\nCritical attack rate +22.5%
+吸血+15%\n暴击率+22.5%=Leech +15%\nCrit Chance +22.5%
 狂战士=<size\=18>Berserker</size>
-攻击力+20%\n暴击伤害+25%=Attack power+20%\nCritical damage+25%
+攻击力+20%\n暴击伤害+25%=Attack power+20%\nCrit Damage+25%
 祝融之体=<size\=18>Fire God Body</size>
-火伤害+25%\n暴击率+10%=Fire Damage +25%\nCritical Rate+10%
+火伤害+25%\n暴击率+10%=Fire Damage +25%\nCrit Chance +10%
 炎魔之体=<size\=18>Fire Mystic Body</size>
-火伤害+25%\n暴击伤害+20%=Fire Damage +25%\nCritical Damage+20%
+火伤害+25%\n暴击伤害+20%=Fire Damage +25%\nCrit Damage+20%
 共工之体=<size\=18>Water God Body</size>
-水伤害+25%\n暴击率+10%=Water Damage +25%\nCritical Rate+10%
+水伤害+25%\n暴击率+10%=Water Damage +25%\nCrit Chance +10%
 水魔之体=<size\=18>Water Mystic Body</size>
-水伤害+25%\n暴击伤害+20%=Water Damage +25%\nCritical Damage+20%
+水伤害+25%\n暴击伤害+20%=Water Damage +25%\nCrit Damage+20%
 蓐收之体=<size\=18>Metal God Body</size>
-金伤害+25%\n暴击率+10%=Metal Damage +25%\nCritical Rate+10%
+金伤害+25%\n暴击率+10%=Metal Damage +25%\nCrit Chance +10%
 金魔之体=<size\=18>Metal Mystic Body</size>
-金伤害+25%\n暴击伤害+20%=Metal Damage +25%\nCritical Damage+20%
+金伤害+25%\n暴击伤害+20%=Metal Damage +25%\nCrit Damage+20%
 句芒之体=<size\=18>Wood God Body</size>
-木伤害+25%\n暴击率+10%=Wood Damage +25%\nCritical Rate+10%
+木伤害+25%\n暴击率+10%=Wood Damage +25%\nCrit Chance +10%
 林魔之体=<size\=18>Wood Mystic Body</size>
-木伤害+25%\n暴击伤害+20%=Wood Damage +25%\nCritical Damage+20%
+木伤害+25%\n暴击伤害+20%=Wood Damage +25%\nCrit Damage+20%
 后土之体=<size\=18>Earth God Body</size>
-土伤害+25%\n暴击率+10%=Earth Damage +25%\nCritical Rate+10%
+土伤害+25%\n暴击率+10%=Earth Damage +25%\nCrit Chance +10%
 土魔之体=<size\=18>Earth Mystic Body</size>
-土伤害+25%\n暴击伤害+20%=Earth Damage+ 25%\nCritical Damage+20%
+土伤害+25%\n暴击伤害+20%=Earth Damage+ 25%\nCrit Damage+20%
 天尊之姿=<size\=16>Deified Posture</size>
 攻击力+15%\n法术强度+15%=Attack power +15%\nSpell strength +15%
 道法天成=<size\=16>Challenging Words</size>
@@ -435,9 +391,9 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 言出法随=<size\=18>Abiding Words</size>
 吟唱时间-30%=Chanting time-30%
 三清之眼=<size\=16>Three Clarities Eye</size>
-暴击率+45%=Critical Rate +45%
+暴击率+45%=Crit Chance +45%
 残杀=<size\=18>Slaughterer</size>
-暴击伤害+75%=Critical Damage+75%
+暴击伤害+75%=Crit Damage+75%
 太初道士=<size\=16>Primordial Taoist</size>
 法术强度+30%\n攻击强度-100%=Spell strength+30%\nAttack intensity -100%
 太初战士=<size\=16>Primordial Warrior</size>
@@ -463,7 +419,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 水行之体=<size\=14>Current Water Body</size>
 水属性伤害+37.5%=Water attribute damage+37.5%
 矛盾体=<size\=18>Paradoxical</size>
-暴击率-30%\n暴击伤害+100%=Critical attack rate -30%\nCritical damage+100%
+暴击率-30%\n暴击伤害+100%=Crit Chance -30%\nCrit Damage+100%
 贤者=<size\=18>Sage</size>
 悟性+15=Perception +15
 菩提心=<size\=18>Bodhi Mind</size>
@@ -485,13 +441,13 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 星之运=<size\=18>Star of Luck</size>
 福源+10=Luck +10
 天眼=<size\=18>Heaven Eye</size>
-暴击率+27%=Critical Rate +27%
+暴击率+27%=Crit Chance +27%
 乾坤一掷=<size\=18>Risk All</size>
-暴击伤害+45%=Critical Damage+45%
+暴击伤害+45%=Crit Damage+45%
 精准施法=<size\=16>Precise Excution</size>
-命中率+27%=Hit Rate +27%
+命中率+27%=Hit Chance +27%
 虚灵神隐=<size\=16>Concealed Movement</size>
-闪避率+22.5%=Dodge +22.5%
+闪避率+22.5%=Dodge Chance +22.5%
 金神体=<size\=18>Metal Divine Body</size>
 金属性伤害+22.5%=Metal Attribute Damage+22.5%
 木神体=<size\=18>Wood Divine Body</size>
@@ -543,7 +499,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 贪狼星=<size\=16>Greedy Wolf Star</size>
 灵敏+13\n魅力-5\n悟性-5=Sense +13\nCharm -5\nPerception-5
 文曲星=<size\=16>Wisdom Star</size>
-悟性+13\n命中率-5%\n灵敏-3=Perception +13\nHit Rate -5%\nSense -3
+悟性+13\n命中率-5%\n灵敏-3=Perception +13\nHit Chance -5%\nSense -3
 炼丹宗师=<size\=14>Alchemy Master</size>
 炼丹成丹值+14=Alchemy Success Rate +14
 控火宗师=<size\=14>Flame Master</size>
@@ -593,17 +549,17 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 神识混沌=<size\=18>Innocent Record</size>
 暴击率-7%=Critical Chance -7%
 碎金裂石=<size\=18>Ruthless</size>
-暴击伤害+32.5%=Critical Damage +32.5%
+暴击伤害+32.5%=Crit Damage +32.5%
 心慈手软=<size\=18>Softhearted</size>
-暴击伤害-25%=Critical Damage -25%
+暴击伤害-25%=Crit Damage -25%
 专注施法=<size\=16>Concentrated</size>
 命中率+19.5%=Hit Chance +19.5%
 随机施法=<size\=18>Erratic</size>
 命中率-10%=Hit Chance -10%
 迅捷大师=<size\=16>Nimble</size>
-闪避率+16.25%=Dodge +16.25%
+闪避率+16.25%=Dodge Chance +16.25%
 膝盖中箭=<size\=16>Arrow to Knee</size>
-闪避率-10%=Dodge -10%
+闪避率-10%=Dodge Chance -10%
 金行者=<size\=18>Metal Invoker</size>
 金属性伤害+16.25%=Metal Attribute Damage +16.25%
 木行者=<size\=18>Wood Invoker</size>
@@ -655,11 +611,11 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 天生媚骨=<size\=18>Sweet-Talker</size>
 初始好感+10=Initial favor +10
 御剑师=<size\=16>Double Edged Sword</size>
-暴击伤害+10%\n命中率-5%\n装备剑系法宝时，全伤害+13%=Critical Damage+10% Hit rate -5%When equipped with a artifact for swords, full damage+13%
+暴击伤害+10%\n命中率-5%\n装备剑系法宝时，全伤害+13%=Crit Damage+10% Hit Chance -5%When equipped with a artifact for swords, full damage+13%
 刀狼=<size\=18>Sword Wolf</size>
-装备刀系法宝时，全伤害+13%\n冷却时间-5%\n闪避率+3%=When equipped with a Sword Artifact, Full Damage +13%, Cooldown time -5% Dodge Rate+3%
+装备刀系法宝时，全伤害+13%\n冷却时间-5%\n闪避率+3%=When equipped with a Sword Artifact, Full Damage +13%, Cooldown time -5% Dodge Chance +3%
 枪豪客=<size\=18>Gun Bandit?</size>
-暴击率+5%\n装备枪系法宝时，全伤害+13%=Critical attack rate+5%equipped with magic weapon, full damage+13%
+暴击率+5%\n装备枪系法宝时，全伤害+13%=Crit Chance +5%equipped with magic weapon, full damage+13%
 符箓小师=<size\=16>Incantation Genius</size>
 符箓伤害+19.2%=Talisman Damage +19.2%
 祖传秘籍=<size\=16>Ancestral Technique</size>
@@ -715,19 +671,19 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 锐眼=<size\=18>Keen Eye</size>
 暴击率+13.5%=Critical Chance +13.5%
 神识迟钝=<size\=18>Dull</size>
-暴击率-5%=Critical rate -5%
+暴击率-5%=Crit Chance -5%
 裂开=<size\=18>Splitting</size>
-暴击伤害+22.5%=Critical damage +22.5%
+暴击伤害+22.5%=Crit Damage +22.5%
 临阵退缩=<size\=18>Faltering</size>
-暴击伤害-15%=Critical damage -15%
+暴击伤害-15%=Crit Damage -15%
 集中=<size\=18>Focused</size>
-命中率+13.5%=Hit Rate +13.5%
+命中率+13.5%=Hit Chance +13.5%
 模糊施法=<size\=18>Vague</size>
-命中率-6%=Hit Rate -6%
+命中率-6%=Hit Chance -6%
 迅捷步伐=<size\=18>Fast</size>
-闪避率+11.25%=Dodge +11.25%
+闪避率+11.25%=Dodge Chance +11.25%
 跛足=<size\=18>Lame</size>
-闪避率-6%=Dodge -6%
+闪避率-6%=Dodge Chance -6%
 金灵护=<size\=16>Metal Affinity</size>
 金属性伤害+11.25%=Metal Attribute Damage +11.25%
 木灵护=<size\=16>Wood Affinity</size>
@@ -821,13 +777,13 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 背星官=<size\=18>Unlucky</size>
 福源-3=Luck -3
 独眼=<size\=18>One Eye</size>
-暴击率-3%=Critical Rate -3%
+暴击率-3%=Crit Chance -3%
 浅伤口=<size\=16>Shallow Blows</size>
-暴击伤害-5%=Critical damage -5%
+暴击伤害-5%=Crit Damage -5%
 分心=<size\=18>Distracted</size>
-命中率-2%=Hit Rate -2%
+命中率-2%=Hit Chance -2%
 行动不便=<size\=18>Handicapped</size>
-闪避率-2%=Dodge -2%
+闪避率-2%=Dodge Chance -2%
 畏金体质=<size\=16>Metal Adverse Body</size>
 金抗性-10%=Metal resistance -10%
 畏木体质=<size\=16>Wood Adverse Body</size>
@@ -859,11 +815,11 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 勤修不缀=<size\=18>Diligent</size>
 修炼速度+5%=Cultivation speed+5%
 剑修=<size\=18>Swordsman</size>
-暴击伤害+5%\n命中率-2%\n装备剑系法宝时，全伤害+6%=Critical damage+5%hit rate -2%When equipped with a magic weapon of swords, full damage+6%
+暴击伤害+5%\n命中率-2%\n装备剑系法宝时，全伤害+6%=Crit Damage+5%Hit Chance -2%When equipped with a magic weapon of swords, full damage+6%
 刀修=<size\=16>Sword Beginner</size>
-冷却时间-2%\n闪避率+1%\n装备刀系法宝时，全伤害+6%=Cooldown -2% Dodge rate+1%Equipment of the knife system magic weapon, full damage+6%
+冷却时间-2%\n闪避率+1%\n装备刀系法宝时，全伤害+6%=Cooldown -2% Dodge Chance +1%Equipment of the knife system magic weapon, full damage+6%
 枪修=<size\=16>Gun Beginner</size>
-暴击率+2%\n装备枪系法宝时，全伤害+6%=Critical attack rate+2%equipped with magic weapon, full damage+6%
+暴击率+2%\n装备枪系法宝时，全伤害+6%=Crit Chance +2%equipped with magic weapon, full damage+6%
 抗拒炼丹=<size\=18>Alchemy Adverse</size>
 炼丹成丹值-5=Alchemy Success Rate -5
 抗拒火焰=<size\=18>Flame Adverse</size>
@@ -980,7 +936,7 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 术法位=<size\=14>Technique</size>
 长生=<size\=14>Eternal Life</size>
 命中率=Hit Chance
-闪避率=Dodge
+闪避率=Dodge Chance
 攻击强度=Attack Strength
 法术强度=Spell Power
 
@@ -1027,8 +983,6 @@ sr:"速度([\=\+\d\.\%]*)"=Mov Speed $1
 第7回合=7 Round
 
 数术术法书=Management Skill Book
-sr:"数术术法精进概率([\+\=\d\.\%]*)"=Management Skill Chance $1
-sr:"数术术法精进提升([\+\=\d\.\%]*)"=Management Skill Improvement $1
 中阶数术=Management Intermediate
 高阶数术=Management Advanced
 
@@ -1113,9 +1067,9 @@ sr:"数术术法精进提升([\+\=\d\.\%]*)"=Management Skill Improvement $1
 筋骨不足=Frail
 元婴境前期=Early Nascent Soul
 将自身境界提升至「金丹境初期」=Raise your Realm to "Early Golden Core"
-提升至「金丹境初期」=Upgrade to "Early Golden Core
-提升至「金丹境中期」=Upgraded to "Middle Golden Core
-将境界提升至「金丹境中期」=Raising the realm to "Middle Golden Core
+提升至「金丹境初期」=Upgrade to "Early Golden Core"
+提升至「金丹境中期」=Upgraded to "Middle Golden Core"
+将境界提升至「金丹境中期」=Raising the realm to "Middle Golden Core"
 「金丹境中期」="Middle Golden Core"
 击杀怪物后将会在风物志处解锁灵宠图鉴。（只有金丹期以上才能使用）=After killing the monster, you will unlock the Spiritual Pet icon at the Windy World. (Only available at Golden Core stage or above)
 弟子${角色}在门派内经过寒来暑往的苦修，在宗门资源的帮助下，晋升至金丹期。=The disciple ${role} is promoted to the Golden Core stage after a cold and hard training within the sect with the help of the sect's resources.
@@ -1127,6 +1081,8 @@ sr:"数术术法精进提升([\+\=\d\.\%]*)"=Management Skill Improvement $1
 水=Water
 火=Fire
 土=Earth
+阴=Yin
+阳=Yang
 效果：=Eff:
 道术=Dao
 巫祝=Witchcraft
@@ -1135,16 +1091,21 @@ sr:"数术术法精进提升([\+\=\d\.\%]*)"=Management Skill Improvement $1
 暴击=Crit
 法术=Spell
 攻击=Physical
-sr:"([\p{L}]+)属性效果\s?([+-\=]?[\d\.]+%?)"=$1 prop $2
-sr:"道术-([\p{L}]+)技能效果\s?([+-\=]?[\d\.]+%?)"=$1 Dao skl $2
-sr:"道术([\p{L}]+)"=$1 Dao
-sr:"([\p{L}]+)技能效果"=$1 skl ⇑
-sr:"([\p{L}]+)伤害([+-\=]?[\d\.]+%?)"=$1 damage $2
 
 #Stat hovering(pipja)
-sr:"每一点(?<at>[\p{L}]+)提供基础(?<dmg>[\p{L}]+)强度\+4%，速度\+0.1\\n\\n当前：基础([\p{L}]+)强度 (?<num>[+-\=]?[\d\.]+\%?)"=Each point of ${at} provides +4% base ${dmg} damage and +0.1 speed\n\nCurrent: Base ${dmg} damage ${num}
-r:"每一点气血提供基础生命值\+4%，受到护盾效果\+2%，受到治疗效果\+2%\\n\\n当前：基础生命值 ([+-\=]?[\d\.]+\%?)"=Each point of blood provides +4% base life, +2% to shield effects, and +2% to healing effects\n\nCurrent: Base Life Value $1
-每一点灵敏提供速度+1，闪避率+0.5%=Each point of Sense provides +1 speed and +0.5% dodge rate
+每一点灵敏提供速度+1，闪避率+0.5%=Each point of Sense provides +1 speed and +0.5% Dodge Chance
 每一点悟性使所有流派技能效果+2%，基础习悟速度+1%=Each point of Perception makes the effect of all school skills +2%, the basic speed of learning enlightenment +1%
-每一点福源提供暴击率+2%，命中率+1%=Each point of Luck provides +2% to blast rate and +1% to hit rate
+每一点福源提供暴击率+2%，命中率+1%=Each point of Luck provides +2% to Crit Chance and +1% to Hit Chance
 魅力影响巫祝者获得众神回应的强度=Charisma affects the power of a cultivator's prayers to the gods
+
+#Suggested by "The little butler" on Discord
+暴击率=Crit Chance
+暴击伤害=Crit Damage
+闪避率=Dodge Chance
+攻击强度=Attack Power
+法术强度=Spell  Power
+速度=Speed
+炼器室好事件发生率=Chance of good things happening
+修炼速度=Cultivation speed
+初始好感=Starting Virtue
+阅历=Experience
