@@ -29,6 +29,6 @@ r:"每一点气血提供基础生命值\+4%，受到护盾效果\+2%，受到治
 
 
 #Suggested by "The little butler" on Discord
-sr:"([\p{L}]{1})抗性=$1 Resistance
+sr:"([\p{L}]{1})抗性"=$1 Resistance
 sr:"造成的([\p{L}]{1})属性伤害"=Inflict $1 Damage
 sr:"([\p{L}]{1})属性伤害"=$1 type damage
