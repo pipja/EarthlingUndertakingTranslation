@@ -1,0 +1,41 @@
+
+###Intro Quest Dialogue -Tutorial will be included in own subgroup
+
+呼……呼呼……呼……=<size\=16>Inhale ... Exhale ... Inhale ... Exhale ... </size> ZZZ
+<color\=#B21717>（惊醒）</color>师傅！！=<color\=#B21717>(Wakes up)</color> <size\=30>Master!!</size>
+什……什么？！我这是，刚才我不是正在入定中吗？我睡着了？=What ... what?! I was, wasn't I just in the middle of meditation? Did I fall asleep?
+（你从睡梦中悠悠醒转过来，右手下意识抚上了案上的古玉，这是你师傅的遗物，上面布满古朴的花纹和淡淡的“红印”。）=<size\=20>(Waking up from your sleep, your right hand subconsciously touched the Ancient Jade on the nightstand. Your Master's relic with ancient patterns and a faint "<color\=#B21717>Red Seal</color>")</size>
+原来只是梦吗……哎，师傅，您老人家究竟去哪了……我这些年可是有好好遵从您的嘱托，隐世修炼，不沾凡尘因果……=<size\=20>So it was only a dream? ... Hey, Master, Old man, where'd you go ... I have followed your instructions well over the years, secluded cultivation, no involvement with mortal karma...</size>
+但这么多年修为始终原地踏步……为何会如此，难道我……理解错了您所说的「出世之道」……=<size\=20>But for so many years the cultivation has always remained stagnant ... Why is this so, did I ... misunderstand what you said about "<color\=#FFFFFF>The Way Out</color>" ...</size>
+<color\=#B21717>（摇头）</color>罢了，多想无益。=<size\=20><color\=#B21717>(Shakes head)</color></size>It's useless to think more about it.
+进入新手教学= Go through Tutorial
+跳过新手教学= Skip Tutorial
+师、掌门师尊，不好啦……=<size\=20>Master</size>, <size\=20>Master</size>, Master, there is bad news...
+何事如此慌张？！=Why are you flustered?!
+山门外来了一个满嘴胡话的疯老头想要见掌门师尊，怎么赶都赶不走……=Outside the mountain gate, there's a Crazy Old Man who wants to see Master. We were going to turn them away...
+清风师兄上前驱赶，可此人身法诡异无比，每次都只能堪堪摸到对方的衣角……还，还狠狠地摔了一跤。=<size\=18>Senior Brother Qingfeng stepped forward to turn him away, but this person was very strange. Senior Brother could only touch the corners of the other party's clothes every time... and was defeated severely.</size>
+竟有此事？且让出去会会他。=How could this happen? Let's go out and meet him.
+疯老头=Crazy Old Man
+嘿、嘿嘿嘿……嘿嘿。=He, he, he, he ... he, he.
+<color\=#B21717>（大笑）</color>哈哈哈，你是五？还是六？！=<size\=20><color\=#B21717>(Laughing loudly)</color></size><size\=30>Hahaha</size>, are you five?\nOr six?
+这位前辈是不是在山中迷路？我可命门下弟子送前辈下山。=Did this senior get lost in the mountains? I can order my disciples to guide senior down the mountain.
+「天星叩门；星沉月动；无量量劫；无一生还」="<color\=#FFFFFF>The star in the sky knocks at the door; the star sinks and the moon moves; no one survives for an infinite number of years</color>"
+
+<color\=#B21717>（大哭）</color>天地寂灭，万物归虚……玉、玉佩！呜……呜呜。=<size\=20><color\=#B21717>(Crying loudly)</color></size>The heavens and the earth are silent, all things return ... Jade, Jade Pendant!\n<size\=18>Boohoo ... Boohoo</size>.
+老者伸出微微颤抖的手，指向你腰际的玉佩——=The old man extends a slightly trembling hand and points to the Jade pendant at your waist -
+前辈认得这玉佩？！=Senior recognizes this jade pendant?
+<color\=#B21717>（大笑）</color>离开……寻找……你我都不过是棋子罢了！哈哈哈哈……=<size\=20><color\=#B21717>(Laughing loudly)</color></size>Leave ... Seek ... You and I are just a chess pieces!\n<size\=30>Hahahaha...</size>
+（疯老头在嬉笑之间化作一缕青烟消失不见，一张泛黄的纸飘入你的手中……）=(The Crazy Old Man disappears into a wisp of smoke between laughs, a yellowed paper floats into your hands ...)
+<color\=#B21717>（惊讶）</color>好高深的遁法……咦？这纸上所绘的图案似乎在哪里见过。=<size\=20><color\=#B21717>(Amazed)</color></size>What a profund movement technique ... eh?\nThe pattern drawn on this paper, I seem to have been seen before.
+此人虽行事疯癫、言辞不清，但他似乎认得师傅的玉佩？且他所说的「天星叩门」也令人在意……=<size\=20>Although this person acts crazy, slurred speech, he seems to recognize Master's Jade pendant? And what he said "<color\=#FFFFFF>The heavenly star knocking at the door</color>" is also interesting ...</size>
+那是在云梦大地上从未见过的星夜奇象，而且它就发生在昨天夜里，这真是吉凶难测啊……=That is in the <color\=#9F2B68>cloud dream</color> region never seen the star night strange phenomenon, and it happened just last night, this is really lucky and unpredictable ah ...
+唔，看来有必要下山去寻找一下线索，先去南边的柴桑村看看吧。=Well, it seems necessary to go down the mountain to look for clues; First, to the south the village of <color\=#088F8F>Chaisang</color> to see it.
+
+###Intro Quest Mission
+天星叩门\r\n前往「柴桑村」\r\n\r\n=The Star of Heaven Knocks\n<size\=20> ⋅ Go to "<color\=#023020>Chai Sang Village</color>"</size>\r\n\r\n
+
+
+
+
+
+
