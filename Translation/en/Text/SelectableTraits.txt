@@ -1,3 +1,6 @@
+
+### SelectableTraits Managed by Zosrin
+
 天阶=<size\=16>Heaven Rank</size>
 
 根骨天成=<size\=16>Heavenly Aptitude</size>
