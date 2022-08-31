@@ -107,13 +107,42 @@
 男子脸上流露出落寞的神情，失魂落魄地离开了这里，只留下一个萧瑟的背影——=A despondent look passed over the man's face, and he left the place lost in thought, leaving only a sullen back -
 
 
-###Golden-Eyed Beast Blood - Mission
+####Golden-Eyed Beast Blood - Mission
 
 金睛兽精血\r\n前往「九嶷山谷」\r\n\r\n=Golden-Eyed Beast Blood\n<size\=20> ⋅ Go to "<color\=#023020>Jiuyu Mountain Valley</color>"</size>\r\n\r\n
 诛杀九嶷山谷的金睛兽，用它的精血跟黄木换取消息=Kill the Golden Eyed Beast in Jiuyi Valley and use its blood to exchange for information with the Yellow Wood
 前往「九嶷山谷」=Go to "Jiuyi Mountain Valley
 寻找「金睛兽精血」=Searching for "Golden-eyed Beast Blood"
-将金睛兽精血交付给黄木=\nDeliver the Golden Eyed Beast's Blood to Huang Mu
+将金睛兽精血交付给黄木=\nDeliver the Golden Eyed Beast's Blood to 'Huang Mu'
+
+
+####Shadowless Mountain - Mission
+
+无空山阴影（任务）=Shadow on Empty Void Mountain (Mission)
+无空山阴影\r\n前往无空山寻找掳掠凡人的凶手\r\n\r\n=Shadow on Empty Void Mountain\n<size\=20> ⋅ Go to "<color\=#023020>Empty Void Mountain</color>" to find the captors of women</size>\r\n\r\n
+无空山阴影=Shadow on Empty Void Mountain
+探索「无空山」，找寻掳掠凡人的凶手=Explore the "Empty Void Mountain" to find the captors of the women
+前往无空山寻找掳掠凡人的凶手=Go to Empty Void Mountain to find the captors of the women
+将情况告知阳谷村的「谷老」=Inform 'Gu Lao' of Yanggu Village of the situation
+
+
+
+####Shadowless Mountain - Dialogue
+最近村中总是传来村民失踪的消息，虽然派人调查过此事，但都无功而返，老朽是一头雾水啊！还请上仙帮帮忙。=<size\=20>Recently there has been news that villagers missing, although we've sent people to investigate the matter, but all to no avail, this old man is confused ah! Please help us immortals.</size>
+失踪？他们都是一起失踪的吗？=Missing? Did they all go missing together?
+哎，也不是！一开始是两个浣洗妇失踪，我们都以为她们是被在无空山作乱的强盗给掳了去。=No, not really! At first, two washerwomen disappeared, and we all thought they were taken captive by bandits who were running amok in the Khongless Mountain.
+谁知这件事情发展得越来越诡异，后面三五天就会有一个人失踪！而且都是没有出嫁的黄花大闺女。=Who knows this is becoming more and more bizarre, over three to five days there will be a person missing! And they were all unmarried women.
+什么？！这些人都是女子？=What?! These people were are all women?
+女、女子？噢对，上仙，这里面难道有什么缘故吗？=Female, female? Oh yes, Great Immortal, could there be a reason for this?
+（有些邪功在修炼时需要各种「鼎炉」，谷老所言便与此种情况相似，此事明显有修士参与……）=(Some demonic arts in the cultivation use various "Human-Furnace", Gu Lao said it is similar to such a situation, the matter is clearly a monk involved ...)
+此事我会调查清楚。（接受任务）=I will look into this matter. (Accept the mission)
+
+###Accept Mission Route
+甚好，甚好啊！那就有劳上仙了。=Very good, very good! Then, I'll be grateful to the Lord.
+
+###Leave Route
+我只是随口一问。（离开）=I'm was just having idle chat. (Leave)
+上仙……=Great Immortal ...
 
 
 
