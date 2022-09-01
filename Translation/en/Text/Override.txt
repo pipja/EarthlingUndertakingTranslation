@@ -797,7 +797,6 @@ EA开放=EA Open
 刀=Blade
 枪=Spear
 拂=Wand
-戒指=Ring
 戒=Ring
 麻布=Linen
 袍=Robe
@@ -835,6 +834,7 @@ EA开放=EA Open
 定海=Sea Fixing
 神针=Heavenly Staff
 
+木戒指=Wooden Ring
 
 ### Monsters - All of them Have (Size Reference in relation to Insights(Top Right))
 

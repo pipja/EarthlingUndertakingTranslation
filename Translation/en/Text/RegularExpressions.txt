@@ -46,6 +46,5 @@ sr:"^([\p{L}]{1})之精粹$"=<size\=14>Pure $1 Essence</size>
 
 ###Blueprints, this may potentially break unfortunately
 sr:"^([\p{L}]{1})([\p{L}]{1})配方$"=<size\=12>$1 $2 Blueprint</size>
-sr:"^([\p{L}]{1})([\p{L}]{2})配方$"=<size\=12>$1 $2 Blueprint</size>
 sr:"^([\p{L}]{2})([\p{L}]{1})配方$"=<size\=12>$1 $2 Blueprint</size>
 sr:"^([\p{L}]{2})([\p{L}]{2})配方$"=<size\=12>$1 $2 Blueprint</size>
