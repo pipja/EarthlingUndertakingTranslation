@@ -780,7 +780,8 @@ EA开放=EA Open
 # 吸血+XX%=LifeSteal +xx%
 # 吸血XX=LifeStealXX
 # XX.X人=XX.X People
-
+# 悟性大于XX=Perception greater than XX
+# Rest of base stats greater than xx
 
 范围=<size\=10>Range</size>
 
@@ -813,13 +814,84 @@ EA开放=EA Open
 五行精粹=<size\=14>Five Elem. Pure Essence</size>
 
 
-### Books - Blueprint (Size Reference in relation to Insights(Top Right))(WIP)
+### Books - Blueprint (Size Reference in relation to Insights(Top Right))
+#Regex is possible for the below
 木剑配方=<size\=14>Wood Sword Blueprint</size>
 木刀配方=<size\=14>Wood Blade Blueprint</size>
 木枪配方=<size\=14>Wood Spear Blueprint</size>
 木拂配方=<size\=14>Wood Brush Blueprint</size>
 木戒指配方=<size\=14>Wood Ring Blueprint</size>
 麻布袍配方=<size\=14>Linen Robe Blueprint</size>
+#No Idea How these Resize(Not Reached)
+铁剑配方=<size\=14>Iron Sword Blueprint</size>
+铁刀配方=<size\=14>Iron Blade Blueprint</size>
+铁枪配方=<size\=14>Iron Spear Blueprint</size>
+铁拂配方=<size\=14>Iron Brush Blueprint</size>
+两仪剑配方=<size\=12>Yin-Yang Sword Blueprint</size>
+两仪刀配方=<size\=12>Yin-Yang Blade Blueprint</size>
+两仪枪配方=<size\=12>Yin-Yang Spear Blueprint</size>
+两仪拂配方=<size\=12>Yin-Yang Brush Blueprint</size>
+两仪戒配方=<size\=12>Yin-Yang Ring Blueprint</size>
+两仪袍配方=<size\=12>Yin-Yang Robe Blueprint</size>
+六合剑配方=<size\=12>Six-Convergence Sword Blueprint</size>
+六合刀配方=<size\=12>Six-Convergence Blade Blueprint</size>
+六合枪配方=<size\=12>Six-Convergence Spear Blueprint</size>
+六合拂配方=<size\=12>Six-Convergence Brush Blueprint</size>
+六合戒配方=<size\=12>Six-Convergence Ring Blueprint</size>
+六合袍配方=<size\=12>Six-Convergence Robe Blueprint</size>
+紫郢剑配方=<size\=12>Violet-Ying Sword Blueprint</size>
+紫郢刀配方=<size\=12>Violet-Ying Blade Blueprint</size>
+紫郢枪配方=<size\=12>Violet-Ying Spear Blueprint</size>
+紫郢拂配方=<size\=12>Violet-Ying Brush Blueprint</size>
+紫郢戒配方=<size\=12>Violet-Ying Ring Blueprint</size>
+紫郢袍配方=<size\=12>Violet-Ying Robe Blueprint</size>
+青索剑配方=<size\=12>Blue-Split Sword Blueprint</size>
+青索刀配方=<size\=12>Blue-Split Blade Blueprint</size>
+青索枪配方=<size\=12>Blue-Split Spear Blueprint</size>
+青索拂配方=<size\=12>Blue-Split Brush Blueprint</size>
+青索戒配方=<size\=12>Blue-Split Ring Blueprint</size>
+青索袍配方=<size\=12>Blue-Split Robe Blueprint</size>
+七星剑配方=<size\=12>Seven-Stars Sword Blueprint</size>
+七星刀配方=<size\=12>Seven-Stars Blade Blueprint</size>
+七星枪配方=<size\=12>Seven-Stars Spear Blueprint</size>
+七星拂配方=<size\=12>Seven-Stars Brush Blueprint</size>
+七星戒配方=<size\=12>Seven-Stars Ring Blueprint</size>
+七星袍配方=<size\=12>Seven-Stars Robe Blueprint</size>
+玄牝剑配方=<size\=12>Black-Straw Sword Blueprint</size>
+玄牝刀配方=<size\=12>Black-Straw Blade Blueprint</size>
+玄牝枪配方=<size\=12>Black-Straw Spear Blueprint</size>
+玄牝拂配方=<size\=12>Black-Straw Brush Blueprint</size>
+玄牝戒配方=<size\=12>Black-Straw Ring Blueprint</size>
+玄牝袍配方=<size\=12>Black-Straw Robe Blueprint</size>
+金睛衣配方=<size\=12>Golden-Eye Clothes Blueprint</size>
+金睛兽甲配方=<size\=12>Golden-Eye Armor Blueprint</size>
+金睛枪配方=<size\=12>Golden-Eye Spear Blueprint</size>
+虎皮衣配方=<size\=12>Tiger-Skin Clothes Blueprint</size>
+虎贲刀配方=<size\=12>Tiger-Bone Blade Blueprint</size>
+蛇尾铃配方=<size\=12>Serpent's Tail Bell Blueprint</size>
+山神怨甲配方=<size\=12>Mtn. God Resentment Armor Blueprint</size>
+# Not Sure
+生生戒配方=<size\=12>Raw Ring Blueprint</size>
+蛟龙袍配方=<size\=14>Dragon Robe Blueprint</size>
+# Not Sure
+椿神珠配方=<size\=12>Fusang Tree Bead Blueprint</size>
+神鸟冠配方=<size\=12>Supernatural Bird Crown Blueprint</size>
+符魔戒配方=<size\=12>Lord of Rings Blueprint</size>
+太阿剑配方=<size\=14>Tai-A Sword Blueprint</size>
+太阿刀配方=<size\=14>Tai-A Blade Blueprint</size>
+太阿枪配方=<size\=14>Tai-A Spear Blueprint</size>
+太阿拂配方=<size\=14>Tai-A Brush Blueprint</size>
+太阿戒配方=<size\=14>Tai-A Ring Blueprint</size>
+太阿袍配方=<size\=14>Tai-A Robe Blueprint</size>
+怨灵幡配方=<size\=12>Soul-Wraith Banner Blueprint</size>
+槲木拂配方=<size\=14>Heaven's Whisk Blueprint</size>
+姑获衣配方=<size\=12> Blueprint</size>
+水玉配方=<size\=14>River-Jade Blueprint</size>
+八阵图配方=<size\=14>Eight-Diagrams Blueprint</size>
+杀生剑配方=<size\=14>Killing Sword Blueprint</size>
+槲神珠配方=<size\=14>Heaven's Bead Blueprint</size>
+黑蛟剑配方=<size\=12>Black Auger Blade Blueprint</size>
+定海神针配方=<size\=12>Sea Fixing Needle Blueprint</size>
 
 
 ### Monsters - All of them Have (Size Reference in relation to Insights(Top Right))
@@ -834,7 +906,7 @@ EA开放=EA Open
 
 ### Monster Drop Classification
 
-皮毛-怪物材料=<size\=12>Skin & Hair \n -Monster Material</size>
+皮毛-怪物材料=<size\=12>Pelt & Feathers \n -Monster Material</size>
 牙-怪物材料=<size\=12>Teeth \n - Monster Material</size>
 骨-怪物材料=<size\=12>Bone \n - Monster Material</size>
 
@@ -858,8 +930,8 @@ EA开放=EA Open
 撕咬=<size\=14>Bite</size>
 百兽之王=<size\=14>King of All Beasts</size>
 虎扑=<size\=14>Tiger's Mark</size>
-虎须=<size\=14>Tiger Wiskers</size>
-虎的毛须，长而韧。=Wiskers of a tiger are long and tough.
+虎须=<size\=14>Tiger Whiskers</size>
+虎的毛须，长而韧。=Whiskers of a tiger are long and tough.
 虎皮=<size\=14>Tiger Pelt</size>
 柔软的兽皮。=Soft animal skin.
 虎牙=<size\=14>Tiger Fang</size>
@@ -867,13 +939,13 @@ EA开放=EA Open
 虎骨=<size\=14>Tiger Bone</size>
 拥有奇妙作用的虎骨，受到很多男性修士青睐。=A Tiger bone, which has wonderful effects, is favored by many male cultivators.
 
-# F-Tiger Cub
+# Fierce-Tiger Cub
 幼虎=<size\=16>F-Tiger Cub</size>
 
 # White Tiger
 白虎=<size\=16>White Tiger</size>
 
-# W-Tiger Cub
+# White-Tiger Cub
 幼白虎=<size\=16>W-Tiger Cub</size>
 
 
