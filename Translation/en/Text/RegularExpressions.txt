@@ -1,4 +1,5 @@
-#All regular expresions please go here
+#####All regular expresions please go here
+
 sr:"治疗增幅率 *([\=\+\d\.\%]*)"=Healing Rate $1
 sr:"闪避率 *([\=\+\d\.\%]*)"=Dodge $1
 sr:"护盾增幅率 *([\=\+\d\.\%]*)"=Shield Rate $1
@@ -17,7 +18,7 @@ sr:"^(\p{L}+)([+-]{1}[0-9.,]+%)([\s\S]+)?$"=$1 $2 $3
 sr:"^\\n(\p{L}+)([+-]{1}[0-9,.]+)$"=\n$1 $2
 sr:"^(\p{L}+)(\d+)s$"=$1$2
 
-#Manual selection stuff(pipja):
+##Manual selection stuff(pipja):
 sr:"([\p{L}]+)属性效果\s?([+-\=]?[\d\.]+%?)"=$1 prop $2
 sr:"道术-([\p{L}]+)技能效果\s?([+-\=]?[\d\.]+%?)"=$1 Dao skl $2
 sr:"道术([\p{L}]+)"=$1 Dao
@@ -28,7 +29,20 @@ sr:"每一点(?<at>[\p{L}]+)提供基础(?<dmg>[\p{L}]+)强度\+4%，速度\+0.1
 r:"每一点气血提供基础生命值\+4%，受到护盾效果\+2%，受到治疗效果\+2%\\n\\n当前：基础生命值 ([+-\=]?[\d\.]+\%?)"=Each point of blood provides +4% base life, +2% to shield effects, and +2% to healing effects\n\nCurrent: Base Life Value $1
 
 
-#Suggested by "The little butler" on Discord
-sr:"([\p{L}]{1})抗性"=$1 Resistance
-sr:"造成的([\p{L}]{1})属性伤害"=Inflict $1 Damage
-sr:"([\p{L}]{1})属性伤害"=$1 type damage
+##Suggested by "The little butler" on Discord
+sr:"^([\p{L}]{1})抗性$"=$1 Resistance
+sr:"^造成的([\p{L}]{1})属性伤害$"=Inflict $1 Damage
+sr:"^([\p{L}]{1})属性伤害$"=$1 type damage
+
+##Other stuff by Roszin
+sr:"^冷却时间([+-\=]?[\d\.]+%?)$"=Cooldown $1
+sr:"^吟唱时间([+-\=]?[\d\.]+%?)$"=Chant Time $1
+sr:"^吸血([+-\=]?[\d\.]+%?)$"=LifeSteal $1
+sr:"^([+-\=]?[\d\.]+%?)人$"=$1 People
+sr:"^悟性大于([+-\=]?[\d\.]+%?)$"=Minimum Perception $1
+
+sr:"^([\p{L}]{1})之精气$"=<size\=14>$1 Essence</size>
+sr:"^([\p{L}]{1})之精粹$"=<size\=14>Pure $1 Essence</size>
+
+###Blueprints, this may potentially break unfortunately
+sr:"^([\p{L}]{1,2})([\p{L}]{1,2})配方$"=<size\=12>$1 $2 Blueprint</size>
