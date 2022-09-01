@@ -524,3 +524,12 @@
 炼丹融合度-5%=Dan Quality -5%
 小机灵=<size\=18>Little Wit</size>
 悟性+3=Perception +3
+
+
+### Noticed The below Traits Appearing(Non-Selectable)
+低阶道术=<size\=16>Low-Order Daoism</size>
+中阶道术=<size\=16>Intermediate Daoism</size>
+高阶道术=<size\=16>High-Order Daoism</size>
+
+
+
