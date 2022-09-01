@@ -39,7 +39,7 @@ UI字体=UI size
 背包=Backpack
 突破=<size\=14>Breakthrough</size>
 技能=Skill
-任务=Task
+任务=Missions
 指派/外交=Assignment/Diplomacy
 地图=Map
 建筑交互=Building Interaction
@@ -378,10 +378,10 @@ EA开放=EA Open
 突  破=<size\=16>Breakthrough</size>
 
 凡人=<size\=12>Mortal</size>
-炼气境=<size\=12>Qi Refinement</size>
+炼气境=<size\=12>Qi Refining</size>
 炼气境初期=<size\=12>Early-Qi Refining</size>
-炼气境中期=<size\=12>Middle-Qi Refinement</size>
-炼气境后期=<size\=12>Late-Qi Refinement</size>
+炼气境中期=<size\=12>Middle-Qi Refining</size>
+炼气境后期=<size\=12>Late-Qi Refining</size>
 筑基境=<size\=12>Foundation</size>
 筑基境初期=<size\=12>Early-Foundation</size>
 筑基境中期=<size\=12>Middle-Foundation</size>
@@ -428,16 +428,16 @@ EA开放=EA Open
 
 
 风物志=Insights
-角色=Characters
+角色=<size\=18>Characters</size>
 当前阅历=<size\=12>Current\nExperience</size>
 特殊角色=<size\=16>Special Characters</size>
 随机角色=<size\=16>Random Characters</size>
-材料=Materials
-怪物=Bestiary
+材料=<size\=18>Materials</size>
+怪物=<size\=18>Monsters</size>
 首领=<size\=18>Boss</size>
 精英=<size\=18>Elite</size>
 普通=<size\=18>Common</size>
-书籍=Books
+书籍=<size\=18>Books</size>
 心法=Inner Art
 术法=Techniques
 标准丹方=<size\=18>Standard Recipes</size>
@@ -445,7 +445,9 @@ EA开放=EA Open
 器方=<size\=18>Blueprint</size>
 阵势图=<size\=18>Array?</size>
 
-场景=Scenes
+场景=<size\=18>Scenes</size>
+推荐等级：=<size\=12>Ideal Realm</size>
+探索该区域所有场景可以解锁传送功能=<size\=20>Explore all scenes in the area to unlock the teleport feature</size>
 存档=Save
 载=Load
 
@@ -512,7 +514,14 @@ EA开放=EA Open
 炼器位=Forge's
 元素值=<size\=16>Elem Val</size>
 词条数量=<size\=16># of add Props</size>
-一=One
+一=I
+二=II
+三=III
+四=IV
+五=V
+六=VI
+七=VII
+使用需求=<size\=14>Usage Reqs.</size>
 一重=One
 壹=1
 贰=2
@@ -563,7 +572,7 @@ EA开放=EA Open
 启动=Start
 药 引=Herbs
 炼丹中=In progress
-材料=Materials
+材料=<size\=18>Materials</size>
 火焰名称=Flame Name
 火 焰=Flame
 火焰=Flame
@@ -703,3 +712,240 @@ EA开放=EA Open
 炼器室好事件发生率=Chance of good things happening
 修炼速度=Cultivation speed
 初始好感=Starting Virtue
+
+#Basis for items,techniques,monster info  & Random Resizing(Zosrin)
+
+### Bottom Right Resizing
+
+任务列表=Mission List
+   主线任务=Main-Line Missions
+   支线任务=Side Quests
+   城市任务=City Missions
+   人物任务=Character Quests
+
+
+### Upon Breakthrough Resizing (WIP)
+
+初期=<size\=16>Early</size>
+
+
+
+### After Battle Resizing
+
+经验值=<size\=12>Experience</size>
+
+
+### Upon Level Up Resizing
+
+分配点数  =<size\=12>Allocate Pts: </size> 
+
+
+### Disciple List Progress Bars
+
+空闲=Idle
+种植中=Planting
+授业中=Teaching
+炼丹阵势中=Alchemy
+修道中=Learning
+练功中=Practicing
+铸造中=Casting
+在外地=Outside
+搜寻中=Searching
+
+### Backpack AKA Inventory
+
+门派仓库=Sect Warehouse
+全部=<size\=18>All</size>
+丹药=<size\=18>Dan</size>
+其他=<size\=18>Other</size>
+整 理=Sort
+存放材料=Store
+
+收录=<size\=12>Record</size>
+移入仓库=<size\=12>Move into storage</size>
+收藏=<size\=12>Favorite</size>
+取消收藏=<size\=12>Undo Favorite</size>
+拆分=<size\=12>Split</size>
+
+
+### Every Technique
+
+要求：=<size\=14>Reqs.:</size>
+
+## Pipja I Request Regular Expersions for
+# 冷却时间-XX%=Cooldown -XX%
+# 冷却时间XX=Cooldown XX
+# 吟唱时间-XX%=Chant Time -XX%
+# 吟唱时间XX=Chant Time XX
+# 吸血+XX%=LifeSteal +xx%
+# 吸血XX=LifeStealXX
+# XX.X人=XX.X People
+# 悟性大于XX=Perception greater than XX
+# Rest of base stats greater than xx
+
+范围=<size\=10>Range</size>
+
+### Every Craftable Item
+
+材料：=<size\=14>Materials:</size>
+所需时间：=<size\=14>Req. Time:</size>
+进阶技能=<size\=14>Advanced\nSkills</size>
+
+### Alchemy Plant Classification
+
+药草-普通材料=<size\=12>Herbs-Ordinary Materials</size>
+
+### Materials - Refine Dan (Size Reference in relation to Insights(Top Right))(WIP)
+
+### Materials - Monsters (Size Reference in relation to Insights(Top Right))(WIP)
+
+精气-普通材料=<size\=12>Essence-Ordinary Materials</size>
+金之精气=<size\=14>Metal Essence</size>
+木之精气=<size\=14>Wood Essence</size>
+水之精气=<size\=14>Water Essence</size>
+火之精气=<size\=14>Fire Essence</size>
+土之精气=<size\=14>Earth Essence</size>
+五行精气=<size\=14>Five Elements of Essence</size>
+金之精粹=<size\=14>Metal Pure Essence</size>
+木之精粹=<size\=14>Wood Pure Essence</size>
+水之精粹=<size\=14>Water Pure Essence</size>
+火之精粹=<size\=14>Fire Pure Essence</size>
+土之精粹=<size\=14>Earth Pure Essence</size>
+五行精粹=<size\=14>Five Elem. Pure Essence</size>
+
+
+### Books - Blueprint (Size Reference in relation to Insights(Top Right))
+#Regex is possible for the below
+木剑配方=<size\=14>Wood Sword Blueprint</size>
+木刀配方=<size\=14>Wood Blade Blueprint</size>
+木枪配方=<size\=14>Wood Spear Blueprint</size>
+木拂配方=<size\=14>Wood Brush Blueprint</size>
+木戒指配方=<size\=14>Wood Ring Blueprint</size>
+麻布袍配方=<size\=14>Linen Robe Blueprint</size>
+#No Idea How these Resize(Not Reached)
+铁剑配方=<size\=14>Iron Sword Blueprint</size>
+铁刀配方=<size\=14>Iron Blade Blueprint</size>
+铁枪配方=<size\=14>Iron Spear Blueprint</size>
+铁拂配方=<size\=14>Iron Brush Blueprint</size>
+两仪剑配方=<size\=12>Yin-Yang Sword Blueprint</size>
+两仪刀配方=<size\=12>Yin-Yang Blade Blueprint</size>
+两仪枪配方=<size\=12>Yin-Yang Spear Blueprint</size>
+两仪拂配方=<size\=12>Yin-Yang Brush Blueprint</size>
+两仪戒配方=<size\=12>Yin-Yang Ring Blueprint</size>
+两仪袍配方=<size\=12>Yin-Yang Robe Blueprint</size>
+六合剑配方=<size\=12>Six-Convergence Sword Blueprint</size>
+六合刀配方=<size\=12>Six-Convergence Blade Blueprint</size>
+六合枪配方=<size\=12>Six-Convergence Spear Blueprint</size>
+六合拂配方=<size\=12>Six-Convergence Brush Blueprint</size>
+六合戒配方=<size\=12>Six-Convergence Ring Blueprint</size>
+六合袍配方=<size\=12>Six-Convergence Robe Blueprint</size>
+紫郢剑配方=<size\=12>Violet-Ying Sword Blueprint</size>
+紫郢刀配方=<size\=12>Violet-Ying Blade Blueprint</size>
+紫郢枪配方=<size\=12>Violet-Ying Spear Blueprint</size>
+紫郢拂配方=<size\=12>Violet-Ying Brush Blueprint</size>
+紫郢戒配方=<size\=12>Violet-Ying Ring Blueprint</size>
+紫郢袍配方=<size\=12>Violet-Ying Robe Blueprint</size>
+青索剑配方=<size\=12>Blue-Split Sword Blueprint</size>
+青索刀配方=<size\=12>Blue-Split Blade Blueprint</size>
+青索枪配方=<size\=12>Blue-Split Spear Blueprint</size>
+青索拂配方=<size\=12>Blue-Split Brush Blueprint</size>
+青索戒配方=<size\=12>Blue-Split Ring Blueprint</size>
+青索袍配方=<size\=12>Blue-Split Robe Blueprint</size>
+七星剑配方=<size\=12>Seven-Stars Sword Blueprint</size>
+七星刀配方=<size\=12>Seven-Stars Blade Blueprint</size>
+七星枪配方=<size\=12>Seven-Stars Spear Blueprint</size>
+七星拂配方=<size\=12>Seven-Stars Brush Blueprint</size>
+七星戒配方=<size\=12>Seven-Stars Ring Blueprint</size>
+七星袍配方=<size\=12>Seven-Stars Robe Blueprint</size>
+玄牝剑配方=<size\=12>Black-Straw Sword Blueprint</size>
+玄牝刀配方=<size\=12>Black-Straw Blade Blueprint</size>
+玄牝枪配方=<size\=12>Black-Straw Spear Blueprint</size>
+玄牝拂配方=<size\=12>Black-Straw Brush Blueprint</size>
+玄牝戒配方=<size\=12>Black-Straw Ring Blueprint</size>
+玄牝袍配方=<size\=12>Black-Straw Robe Blueprint</size>
+金睛衣配方=<size\=12>Golden-Eye Clothes Blueprint</size>
+金睛兽甲配方=<size\=12>Golden-Eye Armor Blueprint</size>
+金睛枪配方=<size\=12>Golden-Eye Spear Blueprint</size>
+虎皮衣配方=<size\=12>Tiger-Skin Clothes Blueprint</size>
+虎贲刀配方=<size\=12>Tiger-Bone Blade Blueprint</size>
+蛇尾铃配方=<size\=12>Serpent's Tail Bell Blueprint</size>
+山神怨甲配方=<size\=12>Mtn. God Resentment Armor Blueprint</size>
+# Not Sure
+生生戒配方=<size\=12>Raw Ring Blueprint</size>
+蛟龙袍配方=<size\=14>Dragon Robe Blueprint</size>
+# Not Sure
+椿神珠配方=<size\=12>Fusang Tree Bead Blueprint</size>
+神鸟冠配方=<size\=12>Supernatural Bird Crown Blueprint</size>
+符魔戒配方=<size\=12>Lord of Rings Blueprint</size>
+太阿剑配方=<size\=14>Tai-A Sword Blueprint</size>
+太阿刀配方=<size\=14>Tai-A Blade Blueprint</size>
+太阿枪配方=<size\=14>Tai-A Spear Blueprint</size>
+太阿拂配方=<size\=14>Tai-A Brush Blueprint</size>
+太阿戒配方=<size\=14>Tai-A Ring Blueprint</size>
+太阿袍配方=<size\=14>Tai-A Robe Blueprint</size>
+怨灵幡配方=<size\=12>Soul-Wraith Banner Blueprint</size>
+槲木拂配方=<size\=14>Heaven's Whisk Blueprint</size>
+姑获衣配方=<size\=12> Blueprint</size>
+水玉配方=<size\=14>River-Jade Blueprint</size>
+八阵图配方=<size\=14>Eight-Diagrams Blueprint</size>
+杀生剑配方=<size\=14>Killing Sword Blueprint</size>
+槲神珠配方=<size\=14>Heaven's Bead Blueprint</size>
+黑蛟剑配方=<size\=12>Black Auger Blade Blueprint</size>
+定海神针配方=<size\=12>Sea Fixing Needle Blueprint</size>
+
+
+### Monsters - All of them Have (Size Reference in relation to Insights(Top Right))
+
+种族：=<size\=16>Race:</size>
+灵根：=<size\=13>Roots:</size>
+强度：=<size\=13>Strgth:</size>
+
+掉落=<size\=16>Drops</size>
+设为灵宠=<size\=16>Set as\nSpirit Pet</size>
+
+
+### Monster Drop Classification
+
+皮毛-怪物材料=<size\=12>Pelt & Feathers \n -Monster Material</size>
+牙-怪物材料=<size\=12>Teeth \n - Monster Material</size>
+骨-怪物材料=<size\=12>Bone \n - Monster Material</size>
+
+### Monsters - Boss (Size Reference in relation to Insights(Top Right)) (WIP)
+
+
+### Monsters - Elite (Size Reference in relation to Insights(Top Right)) (WIP)
+
+
+### Monsters - Common (Size Reference in relation to Insights(Top Right)) (WIP)
+
+##Name
+##Skill Name
+##Skill Descriptions
+##Drops Name
+##Drops Descriptions
+##Ignore Repeats
+
+# Fierce Tiger
+猛虎=<size\=16>Fierce Tiger</size>
+撕咬=<size\=14>Bite</size>
+百兽之王=<size\=14>King of All Beasts</size>
+虎扑=<size\=14>Tiger's Mark</size>
+虎须=<size\=14>Tiger Whiskers</size>
+虎的毛须，长而韧。=Whiskers of a tiger are long and tough.
+虎皮=<size\=14>Tiger Pelt</size>
+柔软的兽皮。=Soft animal skin.
+虎牙=<size\=14>Tiger Fang</size>
+虎的牙齿。=Tiger's teeth.
+虎骨=<size\=14>Tiger Bone</size>
+拥有奇妙作用的虎骨，受到很多男性修士青睐。=A Tiger bone, which has wonderful effects, is favored by many male cultivators.
+
+# Fierce-Tiger Cub
+幼虎=<size\=16>F-Tiger Cub</size>
+
+# White Tiger
+白虎=<size\=16>White Tiger</size>
+
+# White-Tiger Cub
+幼白虎=<size\=16>W-Tiger Cub</size>
+
+
