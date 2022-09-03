@@ -964,14 +964,14 @@ EA开放=EA Open
 境界要求：=<size\=14>Req. Realm</size>
 材料：=Material.
 必须材料：=Required materials.
-成丹值\n=<size\=14>Dancheng Value\n</size>
+成丹值\n=<size\=14>Dan Formation\n</size>
 所需火力值=<size\=14>Req. Flame Val.</size>
 炼制次数\n=<size\=14>Number of Refinements\n</size>
 药引：=<size\=14>Herbs:</size>
 材料:=<size\=14>Materials:</size>
 炼制次数：=<size\=14>Number of Refinements</size>
 
-丹药配方=<size\=14>Dan Recipe</size>
+丹药配方=<size\=14>Medicinal Dan</size>
 
 丹配方=<size\=12>Dan Recipe</size>
 主丹=<size\=12>Master Dan</size>
