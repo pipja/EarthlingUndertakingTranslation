@@ -7,6 +7,8 @@
 帧数=Framerate
 垂直同步=V-Sync
 全屏=Full Screen
+精简模式=<size\=16>Streamlined Mode</size>
+边缘移动=<size\=10>Mouse Edge Movement</size>
 
 系统设置=<size\=20>System Settings</size>
 全局音量=<size\=15>Master Volume</size>
@@ -33,6 +35,15 @@ UI字体=UI size
 快捷键=Hotkeys
 
 大地图=World Map
+门派列表=Sects List
+掌门肖像=<size\=14>Portrait</size>
+门派/掌门=<size\=14>Sect/Leader</size>
+印象=<size\=14>View</size>
+区域=<size\=14>Region</size>
+外派小队=Traveling
+空闲弟子=Idle Disciples
+筛选=<size\=14>Filter</size>
+名称显示=<size\=14>Name Display</size>
 
 人物=Character
 法术书=Spell
@@ -78,7 +89,7 @@ ESC:打开菜单选项/关闭当前界面=<size\=16>ESC: Open the menu option/cl
 
 当前层数=Level
 EA开放=EA Open
-剑修=Swordman
+剑修=<size\=18>Swordsman</size>
 你诞生在一个铸剑世家，年幼时被过路的上仙收入门中，得以修炼道法。凭借手中锋利的飞剑，你逐渐在云梦获得了一些名声。慕名而来的挑战者也随之增多，然而天外有天，人外有人，在诸多玄奥法术的手段面前，你开始败多胜少……\n于是渐渐地你对剑修之路产生了动摇，这时，祖上流传下来的一柄断剑突然口吐人言……=<size\=12>You were born in a sword-making family. When you were young, you were admitted to the door of Shangxian who passed by, and you were able to practice Taoism. With the sharp flying sword in your hand, you gradually gained some fame in Yunmeng. The number of challengers who come here for fame has also increased. However, there are heavens outside the sky, and there are people outside people. In the face of many mysterious magic methods, you start to lose more and win less...\nSo gradually you have been shaken on the path of swordsmanship. At this time , a broken sword handed down from the ancestors suddenly spit out people's words...</size>
 青莲剑体=Green Lotus Sword
 商贾=Merchant
@@ -337,7 +348,7 @@ EA开放=EA Open
 筑基解锁=<size\=14>Foundation Unlock</size>
 化神解锁=<size\=14>Soul Formation Unlock</size>
 暂未开放=<size\=14>Not Available</size>
-
+无量金刚心法=<size\=10>Infinite Diamond Heart Technique</size>
 境界=<size\=12>Realm</size>
 
 
@@ -443,9 +454,11 @@ EA开放=EA Open
 标准丹方=<size\=18>Standard Recipes</size>
 自创丹方=<size\=18>Created Recipes</size>
 器方=<size\=18>Blueprint</size>
-阵势图=<size\=18>Array?</size>
-
+阵势图=<size\=18>Talisman</size>
+炼器=<size\=18>Smithing</size>
 场景=<size\=18>Scenes</size>
+推荐境界=<size\=12>Recommended Realm</size>
+修炼倾向=<size\=14>Cultivation Tendency</size>
 推荐等级：=<size\=12>Ideal Realm</size>
 探索该区域所有场景可以解锁传送功能=<size\=20>Explore all scenes in the area to unlock the teleport feature</size>
 存档=Save
@@ -514,6 +527,7 @@ EA开放=EA Open
 炼器位=Forge's
 元素值=<size\=16>Elem Val</size>
 词条数量=<size\=16># of add Props</size>
+
 一=I
 二=II
 三=III
@@ -521,15 +535,32 @@ EA开放=EA Open
 五=V
 六=VI
 七=VII
+壹=I
+贰=II
+叁=III
+肆=IV
+伍=V
+陆=VI
 使用需求=<size\=14>Usage Reqs.</size>
 一重=One
-壹=1
-贰=2
-叁=3
 状态=<size\=16>Status</size>
 
 
 ###Bottem Left
+
+## Upgrade Destiny Tree
+ 门 派 天 命=<size\=26>School of Destiny</size>
+# Below Repeat is just a prep(not far enough in game)
+ 门派等级1=Sect level 1
+ 门派等级2=Sect level 2
+ 门派等级3=Sect level 3
+ 门派等级4=Sect level 4
+ 门派等级5=Sect level 5
+ 门派等级6=Sect level 6
+ 门派等级7=Sect level 7
+当前气运=<size\=13>Current Luck</size>
+升级门派=<size\=20>Upgrade Sect</size>
+消耗气运=<size\=13>Luck Consumption</size>
 
 长老管理=Elder Management
 任命管理门派长老职位=Appoint Elders
@@ -556,6 +587,8 @@ EA开放=EA Open
 消耗100声望，立即刷新一批求道者=<size\=14>Consume 100 reputation, immediately refresh a group of Taoists</size>
 清空名册=<size\=18>Clear</size>
 划掉名册上所有人的名字=Drive away everyone on roster
+收入门中=Take in within Sect
+划掉名字=Cross off Name
 
 ###Alchemist Workshop:
 
@@ -563,7 +596,7 @@ EA开放=EA Open
 炼丹房=<size\=18>Alchemist</size>
 阵势=<size\=20>Formation</size>
 阵 势=<size\=26>Formation</size>
-炼丹=<size\=18>Refine Pills</size>
+炼丹=<size\=18>Refine Dan</size>
 炼丹房属性=<size\=18>Alchemy Workshop</size>
 丹炉位=Pill Furnace
 事件发生率=Event Chance
@@ -633,7 +666,12 @@ EA开放=EA Open
 
 扶桑圣树=<size\=18>Fusang Sacred Tree</size>
 圣树=<size\=18>Sacred Trees</size>
-
+扶桑圣树属性=<size\=16>Fusang Sacred Tree Properties</size>
+无可收获果实=No fruit to Harvest
+圣树等级=<size\=16>Sacred Tree Level</size>
+未解锁=<size\=16>Not Unlocked</size>
+结果速度=<size\=16>Growth Rate</size>
+无产出=<size\=16>No Output</size>
 
 ###Shrine
 
@@ -727,8 +765,8 @@ EA开放=EA Open
 ### Upon Breakthrough Resizing (WIP)
 
 初期=<size\=16>Early</size>
-
-
+中期=<size\=16>Middle</size>
+后期=<size\=16>Late</size>
 
 ### After Battle Resizing
 
@@ -766,7 +804,15 @@ EA开放=EA Open
 收藏=<size\=12>Favorite</size>
 取消收藏=<size\=12>Undo Favorite</size>
 拆分=<size\=12>Split</size>
+使用=Use
+解锁武器=<size\=12>Unlock</size>
+已收录=<size\=12>Recorded</size>
+已收录更新版本=<size\=12>Already Recorded</size>
+脱战下无法使用=<size\=12>Use only in Combat</size>
 
+# Appears in locked character menu
+法宝\n=Pocket 
+关  系=Relations
 
 ### Every Technique
 
@@ -776,7 +822,7 @@ EA开放=EA Open
 
 ### Every Craftable Item
 
-材料：=<size\=14>Materials:</size>
+材料：=<size\=12>Materials:</size>
 所需时间：=<size\=14>Req. Time:</size>
 进阶技能=<size\=14>Advanced\nSkills</size>
 
@@ -800,10 +846,14 @@ EA开放=EA Open
 戒=Ring
 麻布=Linen-cloth
 袍=Robe
+木戒指配方=<size\=12>Wooden Ring Blueprint</size>
+麻布袍配方=<size\=12>Linen-Cloth Blueprint</size>
+木戒指=Wooden Ring
+麻布袍=Linen-Cloth
 两仪=Yin-Yang
 六合=Six-Convergence
-紫郢=Orichalcum
-青索=Mithril
+紫郢=<size\=12>Orichalcum</size>
+青索=<size\=16>Mithril</size>
 七星=Seven-Stars
 玄牝=Black-Void
 金睛=Golden-Eye
@@ -844,7 +894,7 @@ EA开放=EA Open
 
 掉落=<size\=16>Drops</size>
 设为灵宠=<size\=16>Set as\nSpirit Pet</size>
-
+<color\=#9A0000>掉落来源:</color>怪物通用掉落=<color\=#9A0000>Drop Source:</color> Universal Monster Drop
 
 ### Monster Drop Classification
 
@@ -889,5 +939,176 @@ EA开放=EA Open
 
 # White-Tiger Cub
 幼白虎=<size\=16>W-Tiger Cub</size>
+
+
+
+#Random Stuff -Zosrin
+
+探索法宝=<size\=14>Exploration Device</size>
+大力镐=<size\=14>Pickaxe</size>
+——开挖开挖！=--Digging Digging Digging!
+探索完成=<size\=16>Exploration Complete</size>
+门派声望=Sect Reputation
+
+
+## Villaged Related
+
+互易=Trade
+配平=<size\=10>Level</size>
+无法交易=<size\=12>Unable to Trade</size>
+可以考虑=Considering it
+可以交易=<size\=12>Able to Trade</size>
+
+## Dan Related
+
+境界要求：=<size\=14>Req. Realm</size>
+材料：=Material.
+必须材料：=Required materials.
+成丹值\n=<size\=14>Dan Formation\n</size>
+所需火力值=<size\=14>Req. Flame Val.</size>
+炼制次数\n=<size\=14>Number of Refinements\n</size>
+药引：=<size\=14>Herbs:</size>
+材料:=<size\=14>Materials:</size>
+炼制次数：=<size\=14>Number of Refinements</size>
+
+丹药配方=<size\=14>Medicinal Dan</size>
+
+丹配方=<size\=12>Dan Recipe</size>
+主丹=<size\=12>Master Dan</size>
+辅丹=<size\=12>Auxiliary Dan</size>
+元丹=<size\=12>Augment Dan</size>
+
+活血丹=<size\=12>Blood-Circulation Dan</size>
+福效丹=<size\=12>Good-Fortune Dan</size>
+纹金丹=<size\=12>Force Metal Dan</size>
+纹木丹=<size\=12>Force Wood Dan</size>
+纹水丹=<size\=12>Force Water Dan</size>
+纹火丹=<size\=12>Force Fire Dan</size>
+纹土丹=<size\=12>Force Earth Dan</size>
+御金丹=<size\=12>Protect Metal Dan</size>
+御木丹=<size\=12>Protect Wood Dan</size>
+御水丹=<size\=12>Protect Water Dan</size>
+御火丹=<size\=12>Protect Fire Dan</size>
+御土丹=<size\=12>Protect Earth Dan</size>
+利目丹=<size\=12>Striking Dan</size>
+碎形丹=<size\=12>Fracturing Dan</size>
+魅影丹=<size\=12>Phantom Dan</size>
+增力丹=<size\=12>Power-Boosting Dan</size>
+顺气丹=<size\=12>Magic-Boosting Dan</size>
+疾行丹=<size\=12>Dash Dan</size>
+固气丹=<size\=12>Qi-Consolidation Dan</size>
+筑基丹=<size\=12>Foundation Building Dan</size>
+金气丹=<size\=12>Metal Qi Dan</size>
+木气丹=<size\=12>Wood Qi Dan</size>
+水气丹=<size\=12>Water Qi Dan</size>
+火气丹=<size\=12>Fire Qi Dan</size>
+土气丹=<size\=12>Earth Qi Dan</size>
+# A special Case
+凝丹丸=<size\=12>Core-Compression Dan</size>
+凝丹丸配方=<size\=12>Core-Compression Dan Recipe</size>
+凝血丹=<size\=12>Blood-Coagulation Dan</size>
+瑞效丹=<size\=12>Auspicious Dan</size>
+厉金丹=<size\=12>Severe Metal Dan</size>
+厉木丹=<size\=12>Severe Wood Dan</size>
+厉水丹=<size\=12>Severe Water Dan</size>
+厉火丹=<size\=12>Severe Fire Dan</size>
+厉土丹=<size\=12>Severe Earth Dan</size>
+妨金丹=<size\=12>No-Harm Metal Dan</size>
+妨木丹=<size\=12>No-Harm Wood Dan</size>
+妨水丹=<size\=12>No-Harm Water Dan</size>
+妨火丹=<size\=12>No-Harm Fire Dan</size>
+妨土丹=<size\=12>No-Harm Earth Dan</size>
+金晶丹=<size\=12>Metal Crystal Dan</size>
+木晶丹=<size\=12>Wood Crystal Dan</size>
+水晶丹=<size\=12>Water Crystal Dan</size>
+火晶丹=<size\=12>Fire Crystal Dan</size>
+土晶丹=<size\=12>Earth Crystal Dan</size>
+元婴丹=<size\=12>Nascant Birth Dan</size>
+通天丹=<size\=12>Great Dan</size>
+回元丹=<size\=12>Rejuvination Dan</size>
+融效丹=<size\=12>Harmonizing Dan</size>
+续命丹=<size\=12>Life Extension Dan</size>
+殇金丹=<size\=12>Mourning Metal Dan</size>
+殇木丹=<size\=12>Mourning Wood Dan</size>
+殇水丹=<size\=12>Mourning Water Dan</size>
+殇火丹=<size\=12>Mourning Fire Dan</size>
+殇土丹=<size\=12>Mourning Earth Dan</size>
+赦金丹=<size\=12>Amnesty Metal Dan</size>
+赦木丹=<size\=12>Amnesty Wood Dan</size>
+赦水丹=<size\=12>Amnesty Water Dan</size>
+赦火丹=<size\=12>Amnesty Fire Dan</size>
+赦土丹=<size\=12>Amnesty Earth Dan</size>
+天目锐丹=<size\=12>Sharpening Sky Eye Dan</size>
+心无神丹=<size\=12>Heartless Deity Dan</size>
+虚灵空丹=<size\=12>Air-Voiding Dan</size>
+开天魁丹=<size\=12>Open the Sky Dan</size>
+源灵气丹=<size\=12>Flowing Source Dan</size>
+神行速丹=<size\=12>Subsonic Deity Dan</size>
+生肌玉骨丹=<size\=12>Muscle-Molding Dan</size>
+神效丹=<size\=12>Miraculous Dan</size>
+六元甲子丹=<size\=12>Sixty Cycle Dan</size>
+锐金神丹=<size\=12>Forging Metal God Dan</size>
+乙木神丹=<size\=12>Winding Wood God Dan</size>
+壬水神丹=<size\=12>Spiritual Water God Dan</size>
+丙火神丹=<size\=12>Radiant Fire God Dan</size>
+戊土神丹=<size\=12>Towering Earth God Dan</size>
+灭金神丹=<size\=12>Smother Metal God Dan</size>
+灭木神丹=<size\=12>Smother Wood God Dan</size>
+灭水神丹=<size\=12>Smother Water God Dan</size>
+灭火神丹=<size\=12>Smother Fire God Dan</size>
+灭土神丹=<size\=12>Smother Earth God Dan</size>
+虚合丹=<size\=12>Nihility Dan</size>
+#Around here is when I kinda got tired
+重楼丹=<size\=12>Multi-Soaring Dan</size>
+神雷淬体丹=<size\=12>Divine Thunder Body Tempering Dan</size>
+九转还阳丹=<size\=12>Nine Turns Immortal Dan</size>
+再造乾坤丹=<size\=12>Reconstruct Yin & Yag Dan</size>
+太乙天目丹=<size\=12>All-Seeing Heavenly Eyes Dan</size>
+玉都裂虚丹=<size\=12>Empty Jade Splitting Dan</size>
+通幽归虚丹=<size\=12>Returning Void Traversal Dan</size>
+玄门开天丹=<size\=12>Heavens Gate Shattering Dan</size>
+天门道源丹=<size\=12>Heavens Gate Channeling Dan</size>
+虚灵神动丹=<size\=12>Imaginary Displacement Dan</size>
+先天一炁丹=<size\=12>Innate Source Qi Dan</size>
+
+
+## Furnaces - (Not Translated but seperated)
+丹炉=Dan Furnace
+精铁炉=Fine Iron Furnace
+彩云炉=Colorful Cloud furnace
+神木炉=Sacred Wood Furnace
+黑玄炉=Black Xuan Furnace
+紫金炉=Purple Gold Furnace
+赤帝炉=Red Emperor Furnace
+盘龙炉=Coiled Dragon Furnace
+星斗炉=Stardust Furnace
+蚩尤炉=Chi furnace
+伏羲炉=Fuxi Furnace
+金乌炉=Golden Oven
+玄鸟炉=Gentoo Furnace
+娲皇炉=Wa Wa Furnace
+八卦炉=Bagua furnace
+神农炉=Shennong Furnace
+
+## Flames - (Not Translated but seperated)
+木中火=Fire in Wood
+石中火=Fire in Stone
+人间火=Earthly Fire
+赤帝神火=Red Emperor Divine Fire
+玄鸟异火=XuanBird's Exotic Fire
+阴火=Yin Fire
+五行真火=Five Elements of True Fire
+界雷神火=Boundary Thunder God Fire
+五色异火=Five colors of fire
+三昧真火=Samadhi
+金乌真火=True Fire of Golden Crow
+烛阴玄火=candle shade mysterious fire
+佛子心火=Buddha's Son Heart Fire
+兜率紫火=Hoodoo Purple Fire
+
+
+
+
+
 
 

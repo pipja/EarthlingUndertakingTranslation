@@ -1,4 +1,6 @@
 
+#####MAIN-LINE QUEST
+
 ####Intro Quest - Dialogue -Tutorial will be included in own subgroup
 
 呼……呼呼……呼……=<size\=16>Inhale ... Exhale ... Inhale ... Exhale ... </size> ZZZ
@@ -38,7 +40,6 @@
 
 
 ####The Star of Heaven Knocks - Dialogue
-
 无赖修士=Rogue Monk
 嘿嘿，小娘子，看你面生，刚出师门历练吧？你跟着哥哥，哥哥保证你这次大获而归！=Hey, little lady, look at you, you've just left your master's training, right? Follow this brother and brother will ensure that you will reap great rewards!
 神秘女子=<size\=18>Mysterious Woman</size>
@@ -50,7 +51,6 @@
 我就是“飞天神剑”柳一心！识相的赶紧滚！=I am the "Flying Sword" Liu Yixin! Get lost if you know what's good for you!
 我偏要趟一回这浑水！（论道）=I have to go through this mess! (Discourse)
 我确实不该多管闲事。（离开）=I really shouldn't meddle. (Leave)
-
 ###Discourse Route
 你这次踢到铁板了！=You've kicked the bucket this time!
 ##A battle
@@ -63,12 +63,10 @@
 ##Relation goes Up with Ji Yao
 此处便是柴桑村……我们不妨先找个人打听打听，咦……=This is the village of Chai Sang ... we might as well find someone to ask around first, eh ...
 前面那位似乎也是一名修士，就先问问他吧。=The one in front seems to be a cultivator too, so let's ask him first.
-
 ###Leave Route
 ##...... text
 （现如今已到了柴桑村，不宜节外生枝，还是处理正事要紧。咦……）=(Now that we have arrived at Chai Sang Village, it is advisable not to cause a trouble outside, oand more important to deal with business. Huh ...)
 （前面那位好像是一名修士，不妨先向他打听打听。）=(The one in front seems to be a cultivator too, might as well ask him first.)
-
 ####Both Routes
 黄木=Mu Huang
 「天星叩门」的线索（任务）=The clues on "The Star of Heaven Knocks" (Mission)
@@ -87,9 +85,7 @@
 （正好最近有求道者来我派寻求仙缘，先回门派看一看求道者名单上有没有好苗子。）=<size\=20>(It just so happens that recently there are seekers coming to our sect seeking immortal destiny, so first go back to the sect to see if there are any good seedlings on the list of seekers.)</size>
 ###Leave Route
 好吧，等你想做了再来找我吧，不过没有金睛兽精血我是不会说那个消息的。=Well, come back to me when you want to do it, but I won't give any information without the Golden-Eyed Beast Blood.
-
 ###Upon Returning to Sect Mountain after achieving Discourse Route
-
 高，高人！您，您收下我吧！收我为徒！呜……=Venerable, Venerable one! You, you take me in! Take me as a disciple! Woo ...
 ##......? text
 我知道您此时一定理不清头绪，请您听我说……=I know you must be confused at this moment, please listen to me ...
@@ -97,23 +93,93 @@
 自上次被您惩戒教训后，我想起了叔叔对我的教诲，惭愧不已！我想明白了，我缺少的正是像您这样正直的严师！=Since the last time I was disciplined by you, I remembered what my uncle had taught me and was ashamed! I figured out that what I lacked was a stern and upright teacher like you!
 我愿收你为徒（收为徒弟）=I will take you in as a disciple (Take as Disciple)
 你与我无缘（驱赶离开）=You have no business with me (Drive Away)
-
 ####Take as Disciple Route
 好，知错能改，善莫大焉，以后你就是我门中人了。=Well, if you know your mistakes can be corrected, there is nothing better, you will be one of us from now on.
 眼前年轻的男子欣喜若狂，跪下磕了三个响头。=The young man in front was ecstatic and knelt down and kowtowed three times.
-
 ####Drive Away Route
 ##...... text
 男子脸上流露出落寞的神情，失魂落魄地离开了这里，只留下一个萧瑟的背影——=A despondent look passed over the man's face, and he left the place lost in thought, leaving only a sullen back -
 
 
 ####Golden-Eyed Beast Blood - Mission
-
 金睛兽精血\r\n前往「九嶷山谷」\r\n\r\n=Golden-Eyed Beast Blood\n<size\=20> ⋅ Go to "<color\=#023020>Jiuyu Mountain Valley</color>"</size>\r\n\r\n
-诛杀九嶷山谷的金睛兽，用它的精血跟黄木换取消息=Kill the Golden Eyed Beast in Jiuyi Valley and use its blood to exchange for information with the Yellow Wood
-前往「九嶷山谷」=Go to "Jiuyi Mountain Valley
-寻找「金睛兽精血」=Search for "Golden-eyed Beast Blood"
-将金睛兽精血交付给黄木=Deliver the Golden Eyed Beast's Blood to 'Huang Mu'
+金睛兽精血\r\n将金睛兽精血交付给黄木\r\n\r\n=Golden-Eyed Beast Blood\n<size\=20> ⋅ Deliver the Golden Eye Beast Blood to 'Huang Mu'</size>\r\n\r\n
+诛杀九嶷山谷的金睛兽，用它的精血跟黄木换取消息=Kill the Golden Eyed Beast in Jiuyi Valley and use its blood to exchange for information with 'Huang Mu'
+前往「九嶷山谷」=Go to "Jiuyi Mountain Valley"
+前往「九嶷山谷」（已完成）=Go to "Jiuyi Mountain Valley" (Completed)
+寻找「金睛兽精血」=<size\=16>Search for "Golden-Eyed Beast Blood"</size>
+寻找「金睛兽精血」（已完成）=<size\=16>Search for "Golden-Eyed Beast Blood" (Completed)</size>
+将金睛兽精血交付给黄木=<size\=16>Deliver the Golden-Eyed Beast's Blood to 'Huang Mu'</size>
+金睛兽精血（可交付）=Golden-Eyed Beast Blood <size\=12>(Deliverable)</size>
+金睛兽精血（任务）=Golden-Eyed Beast's Blood (Mission)
+
+####Golden-Eyed Beast Blood - Dialogue
+嗯？一股妖气在此处盘旋……想必金睛兽就在此处了。=Hmm? Demonic Qi is lingering in the air here ... the Golden-Eyed Beast must be near.
+里面或许有前人布置的残留机关，亦或是有妖兽出没，诸般事宜应小心为上。=There may be residual organs laid out by previous challengers, or there may be demonic beasts, so you should be careful at all times.
+#Explore Valley
+奇怪，怎的等了许久都不见金睛兽踪影？=Strange, how can one search for a long time, but haven't spotted the Golden-Eyed Beast?
+嗯？那是——？=Hmm? Is that--?
+伤疤男子=Scarred Man
+原来你也跟我一样吗……没事，别怕，一会就好。=So you are like me? ... It's okay, don't be afraid, it will be fine in a while.
+一赤膊上身、背上伤疤纵横交错的男子，正缓缓将灵力渡入受伤小兽体内——=A bare-chested man with scars crisscrossing his body is slowly transferring spiritual energy into the injured beast -
+<color\=#B21717>（叹气）</color>落入陷阱的小兽吗…嗯，并没有看见它的同伴……=<size\=20><color\=#B21717>(Sighs)</color></size>The little beast that fell into the trap?...well, didn't notice its companion ...
+（这男子道行高深，但看似凶狠，实则内心柔软善良）=(This man has a high level of Taoism, but looks fierce, but is actually soft and kind inside)
+（我此番偷窥行径容易引起误会，我还是尽快……）=(My peeping behavior will easily cause misunderstanding, I better annouce myself as soon as possible ...)
+上前表达善意=Come forward to express goodwill
+继续隐藏=Continue to hide
+###Goodwill & Hide Route
+谁？！谁在那里！=Who? Who's there!
+只见一头金红毛色、头生巨目的妖兽突然蹿出，男子没有丝毫犹豫，转身掠入林中——=Only to see a gold and red fur, the head of a giant demonic beast suddenly leapt out, the man did not hesitate, turned and swept into the forest -
+道友听我解释……=Daoist listen to my explanation ...
+<color\=#B21717>（怒吼）</color>嗷——！！！=<size\=20><color\=#B21717>(Roars)</color></size>OW--!!!
+##A battle
+呼，这孽畜当真凶狠。=Phew, this sinful animal is really vicious.
+刚才那人已不见踪影了，本想解释一番，看来是缘分未到，此行目的也已经达到，先回去找黄木道友吧。=<size\=20>Just now that person has disappeared, I wanted to explain a little, it seems that it was not fate, the purpose of this trip has also completed, first go back to find Daoist Mu Huang.</size>
+###Upon Returning Chanji Village with Blood
+天器宗弟子=<size\=10>Heavenly Weapon Sect Disciples</size>
+前面的，给小爷站住！=In front, stop right there!
+我问你，你有没有见过一名赤裸上身，满是伤疤的修士！=Let me ask you, have you ever seen a topless, scarred monk!
+此人是我窃走了我天器宗宝物！你可不要替他隐瞒，否则……=This person has stolen Heavenly Weapon Sect treasures! You can't hide it for him, otherwise ...
+（他说的不就是刚才救助小兽的那位吗？不过此人好生无礼，到底要不要告诉他呢……）=(Isn't he talking about the one who just rescued the little beast? But this person is so rude, should we tell him or not ...)
+好像见过……=Seems to have met them ...
+无视=Ignore
+###Expose Route
+好、好、好，你快如实交待，此人现在何处？=Good, good, good, you quickly tell the truth, where is this person now?
+似乎在九嶷山一带见过……=Seems to have them around the Jiuyi Mountain Valley area ...
+很好！天器宗会记住你的善意的。=Very well! The Heavenly Weapon Sect will remember your goodwill.
+##Relation and View goes Up Heavenly Weapon Sect 
+###Ignore Route
+哎！说你呢！给我站住！=Hey! I'm talking about you! Stop right there!
+##Relation and View goes Down Heavenly Weapon Sect 
+###Speaking With 'Huang Mu'
+你竟然真的去了……不，我是说那我可得好好跟你唠……咳，讲讲。=I can't believe you actually went ... No, I mean then I have to nag you ... ahem, to talk about it.
+古籍曾有言：凤皇在庭，朱草丛生，日月合璧……那是有祥瑞发生！=Ancient texts have said: Feng Huang in the court, Zhu grass, the sun and moon together ...... that there is a good fortune occurred!
+这见过的人定是福缘深厚者呀！道友，你近日必定会走大运！哈哈哈！我这里有一张方子，只要你……=Those who have seen it must be those who have deep fortune! Fellow Daoist, you will definitely have great luck in the near future! Hahahaha! I have a Recipe here, if you ...
+<color\=#B21717>（皱眉）</color>什么大运、方子，一套又一套！你该不会是信口胡诌吧？=<size\=20><color\=#B21717>(Frowns)</color></size>What a great fortune and formula, one thing after another! You're not making this up, are you?
+嗤嘻嘻…事到如今我告诉你也无妨！什么「天星叩门」！我骗的就是你这样的傻瓜！=Heh heh heh...it's okay for me to tell you now! What "Star of Heaven is knocking at the door"! It's fools like you that I cheat!
+不过还是多亏了你送给我的妖兽精血，只要我练成固气丹，那突破炼气期有望啦！我还得多谢你哩！=But thanks to the blood of the demon beast you gave me, as long as I practice the Qi fixing Dans, that breakthrough Qi refining stage is expected! I also have to thank you!
+我非教训教训你不可！（进入战斗）=I'm going to teach you a lesson!\n(Enter Fight)
+骂骂咧咧地走开（寻找另外线索）=Curse and Walk away (Look for another Clue)
+###Fight Route
+##A Battle
+哎哟、哎哟，大仙饶了小的吧，小的猪油蒙了心！千不该万不该，小的这也是第一次啊！=Aigoo, aigoo, the great master spared the small it, the small lard blinded heart! I should not, this is also the first time ah!
+招摇撞骗到我头上了！你最好能说出点有用的信息，否则……！=Trick or treat to my head! You better be able to say something useful, otherwise ......!
+哎哟！轻、轻点……我知道！我知道！济苍观掌门道玄子，他、他一定知道！=Ouch! Gently, gently ...... I know! I know! Jicang Guan master Dao Xuanzi, he, he must know!
+滚！不要再让我见到你招摇撞骗！=Get out! Don't ever let me see you soliciting again!
+念你是初犯，你走吧。=Mind you are a first-time offender, you go.
+##Get Out & First Time Offender Route
+哎！糊涂，我怎么就没想起来呢？济苍观掌门道玄子德高望重、道行精深，门内藏书数不胜数，说不定他真的知道些什么。=Hey! Confused, why did I not think of it? Ji Cang Guan master Dao Xuanzi is highly respected, profound Taoism, the door has countless books, maybe he really knows something.
+###Leave Route
+福生无量天尊！我真是昏了头，这种吊儿郎当的修士有一个算一个，我竟会上当！=Fusheng Infinite Heavenly Father! I'm so dumbfounded, there's one of these dumbfounded monks, and I fell for it!
+我何不去一趟济苍观呢？济苍观掌门道玄子一直是云梦修士的执牛耳者，他德高望重、道行精深，或许那里会有线索。=Why don't I go to Jicang Guan? He is highly respected and has profound daoist skills, so maybe there will be clues there.
+
+
+
+
+
+
+
+#####SIDE QUESTS
 
 
 ####Shadowless Mountain - Mission
@@ -143,14 +209,6 @@
 ###Leave Route
 我只是随口一问。（离开）=I'm was just having idle chat. (Leave)
 上仙……=Great Immortal ...
-
-
-
-
-
-
-
-
 
 
 

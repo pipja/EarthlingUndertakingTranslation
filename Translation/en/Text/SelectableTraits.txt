@@ -530,6 +530,12 @@
 低阶道术=<size\=16>Low-Order Daoism</size>
 中阶道术=<size\=16>Intermediate Daoism</size>
 高阶道术=<size\=16>High-Order Daoism</size>
+低阶巫祝=<size\=16>Low-Order Demonism</size>
+中阶巫祝=<size\=16>Intermediate Demonism</size>
+高阶巫祝=<size\=16>High-Order Demonism</size>
+低阶炼体=<size\=16>Low-Order Body Refining</size>
+中阶炼体=<size\=16>Intermediate Body Refining</size>
+高阶炼体=<size\=16>High-Order Body Refining</size>
 
 
 
