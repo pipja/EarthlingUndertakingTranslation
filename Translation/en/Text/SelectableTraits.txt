@@ -18,13 +18,15 @@
 悟性+18\n气血-3=Perception +18\nQi and Blood -3
 黑天眼=<size\=16>Heaven's Dark Eye</size>
 暴击率+20%\n暴击伤害+40%=Crit Chance +20%\nCrit Damage +40%
+剑尊=<size\=16>Sword Sovereign</size>
+
 刀皇气运=<size\=12>Destined Sword Emperor</size>
 冷却时间-10%\n闪避率+5%\n装备刀系法宝时，全伤害+30%=Cooldown -10%, Dodge Chance +5% when equipped with Sword-type magic weapon, All Damage +30%
-枪尊气运=<size\=12>Destined Gun Emperor</size>
-暴击率+10%\n装备枪系法宝时，全伤害+30%=Crit Chance +10% when equipped with Gun-type magic weapon, All damage +30%
+枪尊气运=<size\=12>Destined Spear Emperor</size>
+暴击率+10%\n装备枪系法宝时，全伤害+30%=Crit Chance +10% when equipped with Spear-type magic weapon, All damage +30%
 符道之体=<size\=14>Mark of Incantation</size>
 符箓伤害+45%=Talisman Damage +45%
-大帝之姿=<size\=18>Great Emperor?</size>
+大帝之姿=<size\=18>Emperic Posture</size>
 技能初始熟练度为圆满=Skills initial proficiency is perfect
 愚公=<size\=18>Foolish</size>
 悟性固定1，不可改变\n其他基础属性+10=Perception is fixed at 1, cannot be changed\nOther Basic Attributes +10
@@ -90,6 +92,10 @@
 暴击率+45%=Crit Chance +45%
 残杀=<size\=18>Slaughterer</size>
 暴击伤害+75%=Crit Damage+75%
+灵识=<size\=16>Spiritually Aware</size>
+命中率+36%=Hit Chance +36%
+绝尘=<size\=16>Dustless Steps</size>
+闪避率+30%=Dodge Chance +30%
 太初道士=<size\=16>Primordial Taoist</size>
 法术强度+30%\n攻击强度-100%=Spell strength+30%\nAttack intensity -100%
 太初战士=<size\=16>Primordial Warrior</size>
@@ -101,7 +107,7 @@
 五行根骨=<size\=14>Five Element Aptitude</size>
 根骨+9\n五行属性效果+20%=Aptitude +9\nFive element attribute effect+20%
 武器宗师=<size\=18>Weapon Master</size>
-使用剑，刀，枪系法宝时，全伤害+35%=When using swords, knives, guns, all damage+35%
+使用剑，刀，枪系法宝时，全伤害+35%=When using swords, knives, spears, all damage+35%
 道术宗师=<size\=18>Taoism Master</size>
 道术技能伤害提升+45%=Taoist skills damage increase+45%
 神炎入体=<size\=14>Soul Fire Body</size>
@@ -310,7 +316,7 @@
 暴击伤害+10%\n命中率-5%\n装备剑系法宝时，全伤害+13%=Crit Damage+10% Hit Chance -5%When equipped with a artifact for swords, full damage+13%
 刀狼=<size\=18>Sword Wolf</size>
 装备刀系法宝时，全伤害+13%\n冷却时间-5%\n闪避率+3%=When equipped with a Sword Artifact, Full Damage +13%, Cooldown time -5% Dodge Chance +3%
-枪豪客=<size\=18>Gun Bandit?</size>
+枪豪客=<size\=18>Spear Bandit</size>
 暴击率+5%\n装备枪系法宝时，全伤害+13%=Crit Chance +5%equipped with magic weapon, full damage+13%
 符箓小师=<size\=16>Incantation Genius</size>
 符箓伤害+19.2%=Talisman Damage +19.2%
@@ -514,7 +520,7 @@
 暴击伤害+5%\n命中率-2%\n装备剑系法宝时，全伤害+6%=Crit Damage+5%Hit Chance -2%When equipped with a magic weapon of swords, full damage+6%
 刀修=<size\=16>Sword Beginner</size>
 冷却时间-2%\n闪避率+1%\n装备刀系法宝时，全伤害+6%=Cooldown -2% Dodge Chance +1%Equipment of the knife system magic weapon, full damage+6%
-枪修=<size\=16>Gun Beginner</size>
+枪修=<size\=16>Spear Beginner</size>
 暴击率+2%\n装备枪系法宝时，全伤害+6%=Crit Chance +2%equipped with magic weapon, full damage+6%
 抗拒炼丹=<size\=18>Alchemy Adverse</size>
 炼丹成丹值-5=Alchemy Success Rate -5

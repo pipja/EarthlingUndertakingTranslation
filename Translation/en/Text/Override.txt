@@ -57,6 +57,15 @@ UI字体=UI size
 快速存档=Quick Save
 快速读档=Quick Load
 
+白=White
+红=Red
+黑=Black
+绿=Green
+黄=Yellow
+紫=Purple
+灰=Grey
+蓝=Blue
+
 
 战斗场景=Combat Scene
 
@@ -474,13 +483,6 @@ EA开放=EA Open
 门派=<size\=16>Sect Name</size>
 
 温室=Easy
-第1回合=1 Round
-第2回合=2 Round
-第3回合=3 Round
-第4回合=4 Round
-第5回合=5 Round
-第6回合=6 Round
-第7回合=7 Round
 
 数术术法书=Management Skill Book
 中阶数术=Management Intermediate
@@ -513,12 +515,10 @@ EA开放=EA Open
 派生弟子=<size\=18>Quenching Disciple</size>
 法宝=<size\=16>Artifact</size>
 器鉴=<size\=20>Appraisal</size>
-木=<size\=18>Wood</size>
-铁=<size\=20>Iron</size>
-青索=<size\=20>Blue Suo</size>
-紫郢=<size\=20>Purple Ying</size>
-槲木=<size\=20>Heaven</size>
-槲神=<size\=20>Oak God</size>
+木=<size\=12>Wood</size>
+铁=<size\=12>Iron</size>
+槲木=<size\=12>Heaven</size>
+槲神=<size\=12>Oak God</size>
 铸定=Casting
 铸 造=Forging
 铸造=<size\=22>Casting</size>
@@ -850,6 +850,7 @@ EA开放=EA Open
 麻布袍配方=<size\=12>Linen-Cloth Blueprint</size>
 木戒指=Wooden Ring
 麻布袍=Linen-Cloth
+檀木=Sandal Wood
 两仪=Yin-Yang
 六合=Six-Convergence
 紫郢=<size\=12>Orichalcum</size>
