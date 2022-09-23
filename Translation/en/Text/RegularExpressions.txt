@@ -117,8 +117,9 @@ r:"^第(\d{1,4})回合$"=<size\=18>Round $1</size>
 # General Stats
 sr:"^(根骨|体魄|灵敏|气血|悟性|福源|魅力)([+-\=]?[\d\.]+%?)$"=<size\=12>$1 $2</size>
 
-r:"^玩家(\_)(\d{1,2})$=Player$1$2
-r:"^节点(\_)(\d{1,2})$=Node$1$2
+# The 2 below throw up a bunch of errors in the console even after fixing the need for (")
+#r:"^玩家(\_)(\d{1,2})$"=Player$1$2
+#r:"^节点(\_)(\d{1,2})$"=Node$1$2
 
 r:"^城市商店(\d{1,2})$"=City Shop $1
 r:"^城市特殊资源(\d{1,2})$"=City Special Resources $1
