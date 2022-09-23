@@ -1309,7 +1309,56 @@ EA开放=EA Open
 # Monsters (pg.#3)
 # WIP
 
-
+# These are the pill formations found on Item.xlsx Page #5 
+品质=Quality
+阳图·壹=<size\=14>Yang Chart I</size>
+记载一个简单的炼丹阵势，能够提升些许火力值。=A simple alchemy formation to increase firepower value.
+阴图·壹=<size\=14>Yin Chart I</size>
+记载一个简单的炼丹阵势，能够提升些许融合度。=A simple alchemy formation to increase fusion amount.
+清图·壹=<size\=14>Clear Chart I</size>
+记载一个简单的炼丹阵势，能够提升些许成丹值。=A simple alchemy formation to increase Dan quality.
+浊图·尘=<size\=14>Vague Dust Chart </size>
+记载一个简单的炼丹阵势，能够提升少量火力值，但影响药材溶合。=A simple alchemy formation capable of raising fire power value at the cost of fusion amount.
+浊图·黄=<size\=14>Vague Yellow Chart</size>
+记载一个简单的炼丹阵势，能够提升少量融合度，但影响丹药凝结。=A simple alchemy formation capable of raising fusion amount at the cost of Dan quality.
+浊图·地=<size\=14>Vague Field Chart</size>
+记载一个简单的炼丹阵势，能够提升成丹值，但影响火力聚集。=A simple alchemy formation capable of raising Dan quality at the cost of fire power value.
+阳图·贰=<size\=14>Yang Chart II</size>
+记载一个缭乱的炼丹阵势，能够提升少量火力值。=A dazzling alchemy formation to increase firepower value.
+阴图·贰=<size\=14>Yin Chart II</size>
+记载一个缭乱的炼丹阵势，能够提升少量融合度。=A dazzling alchemy formation to increase fusion amount.
+清图·贰=<size\=14>Clear Chart II</size>
+记载一个缭乱的炼丹阵势，能够提升少量成丹值。=A dazzling alchemy formation to increase Dan quality.
+阳图·叁=<size\=14>Yang Chart III</size>
+记载一个繁复的炼丹阵势，能够提升中量火力值。=An elaborate alchemy formation to increase firepower value.
+阴图·叁=<size\=14>Yin Chart III</size>
+记载一个繁复的炼丹阵势，能够提升中量融合度。=An elaborate alchemy formation to increase fusion amount.
+清图·叁=<size\=14>Clear Chart III</size>
+记载一个繁复的炼丹阵势，能够提升中量成丹值。=An elaborate alchemy formation to increase Dan quality.
+浊图·星=<size\=14>Vague Star Chart</size>
+记载一个繁复的炼丹阵势，能够提升中量火力值，但影响药材溶合。=An elaborate alchemy formation capable of raising fire power value at the cost of fusion amount.
+浊图·月=<size\=14>Vague Moon Chart</size>
+记载一个繁复的炼丹阵势，能够提升中量融合度，但影响丹药凝结。=An elaborate alchemy formation capable of raising fusion amount at the cost of Dan quality.
+浊图·日=<size\=14>Vague Sun Chart</size>
+记载一个繁复的炼丹阵势，能够提升中量成丹值，但影响火力聚集。=An elaborate alchemy formation capable of raising Dan quality at the cost of fire power value.
+阳图·肆=<size\=14>Yang Chart IV</size>
+记载一个繁复的炼丹阵势，能够提大量火力值。=A stellar alchemy formation to increase firepower value.
+阴图·肆=<size\=14>Yin Chart IV</size>
+记载一个繁复的炼丹阵势，能够提升大量融合度，但影响丹药凝结。=A stellar alchemy formation to increase fusion amount at the cost of Dan Quality.
+清图·肆=<size\=14>Clear Chart IV</size>
+记载一个繁复的炼丹阵势，能够提升大量成丹值。=A stellar alchemy formation to increase Dan quality.
+阳图·伍=<size\=14>Yiang Chart V</size>
+记载一个晦涩无比的阵势，几乎没人看得懂，但是据说能够提升巨量火力值。=An ancient unheard of alchemy formation to increase firepower value.
+阴图·伍=<size\=14>Yin Chart V</size>
+记载一个晦涩无比的阵势，几乎没人看得懂，但是据说能够提升巨量融合度。=An ancient unheard of alchemy formation to increase fusion amount.
+清图·伍=<size\=14>Clear Chart V</size>
+记载一个晦涩无比的阵势，几乎没人看得懂，但是据说能够提升巨量成丹值。=An ancient unheard of alchemy formation to increase Dan quality.
+浊图·玄=<size\=12>Vague Prophetic Chart</size>
+记载一个晦涩无比的阵势，几乎没人看得懂，但是据说能够提升巨量火力值，但会影响药材溶合。=An ancient unheard of alchemy formation capable of raising fire power value at the cost of fusion amount.
+浊图·天=<size\=12>Vague Heavens Chart</size>
+记载一个晦涩无比的阵势，几乎没人看得懂，但是据说能够提升巨量融合度，但影响丹药凝结。=An ancient unheard of alchemy formation capable of raising fusion amount at the cost of Dan quality.
+浊图·宙=<size\=12>Vague Universe Chart</size>
+记载一个晦涩无比的阵势，几乎没人看得懂，但是据说能够提升巨量成丹值，但影响火力聚集。=An ancient unheard of alchemy formation capable of raising Dan quality at the cost of fire power value.
 
 
 
