@@ -905,11 +905,23 @@ EA开放=EA Open
 
 ### Monsters - Boss (Size Reference in relation to Insights(Top Right)) (WIP)
 
+# Golden-eyed Beast
 
-### Monsters - Elite (Size Reference in relation to Insights(Top Right)) (WIP)
+金睛兽=<size\=16>Golden-eyed Beast</size>
 
+# ???(x3)
 
-### Monsters - Common (Size Reference in relation to Insights(Top Right)) (WIP)
+# Evil Scaly Dragon
+恶蛟=<size\=16>Evil Scaly Dragon</size>
+
+# ???(x7)
+
+# Ghost Talisman(Appears in Override Aswell around line 874)
+#符魔=Ghost Talisman
+
+# ???(x14)
+
+### Monsters - Common & Elite (Size Reference in relation to Insights(Top Right)) (WIP)
 
 ##Name
 ##Skill Name
@@ -941,7 +953,132 @@ EA开放=EA Open
 # White-Tiger Cub
 幼白虎=<size\=16>W-Tiger Cub</size>
 
+# Feral Wolf
+凶狼=<size\=16>Feral Wolf</size>
+群狼=<size\=14>Feral Wolf Pack</size>
+凶狼飞扑=<size\=14>Feral Wolf Swoop</size>
+凶狼尾=<size\=14>Feral Wolf Tail</size>
+凶狼的尾巴，无法释放的灵力会淤积在此处。=The tail of the Feral Wolf, the spiritual power that cannot be released will be stored in here.
+凶狼头骨=<size\=14>Feral Wolf Skull</size>
+凶狼头骨，是诸多仪式的材料，亦可以炼制成法宝。=A Feral Wolf Skull, a material for many rituals, can also be refined into artifacts.
 
+# Young Feral Wolf
+幼凶狼=<size\=16>Young Feral Wolf</size>
+凶狼毫毛=<size\=14>Feral Wolf Hair</size>
+柔软的兽毛。=Soft animal hair.
+
+# Sect Outcast
+天元宗弃徒=<size\=16>Sect Outcast</size>
+催动=<size\=14>Promote</size>
+灵金护盾=<size\=14>Spiritual Metal Shield</size>
+金煞意=<size\=14>Metal Fury Intent</size>
+煞金神光=<size\=14>Fierce Metal Divine Light</size>
+
+# Swift Female Thief
+女飞贼=<size\=16>Swift Female Thief</size>
+剑刺=<size\=14>sword thrust</size>
+灵炁化盾=<size\=14>Spiritual Qi Shield</size>
+雨润=<size\=14>Rainwater</size>
+混元一炁=<size\=14>Mixed Element Strike</size>
+
+# One-Eyed Bandit
+独眼大盗=<size\=16>One-Eyed Bandit</size>
+刀劈=<size\=14>Blade Slash</size>
+无相堪破=<size\=14>Whirlwind Slash</size>
+
+# Boulder Monster  (This is ??? for me soo unsure)
+大石怪=<size\=16>Boulder Monster</size>
+大拳拳=<size\=14>Big Fist</size>
+
+# Little Rock Monster
+小石怪=<size\=16>Stone Monster</size>
+小拳拳=<size\=14>Little Fist</size>
+
+
+# Flame Rat
+火光鼠=<size\=16>Flame Rat</size>
+撞击=<size\=14>Strike</size>
+凝聚火光=<size\=14>Flame Gathering</size>
+火光鼠皮=<size\=14>Flame Rat Pelt</size>
+火光鼠的皮，油亮油亮的。=The skin of the Flame Rat is shiny and oily.
+
+# Young Flame Rat
+幼火光鼠=<size\=16>Young Flame Rat</size>
+火光鼠毛=<size\=14>Flame Rat Fur</size>
+火光鼠的毫毛，上面沾着一些易燃的分泌物。=The hairs of the Flame Rat, covered with some flammable secretions.
+
+# ???
+
+# Oak Guardian
+槲花卫=<size\=16>Oak Guardian</size>
+荆棘藤=<size\=14>Thorny Vine</size>
+吸收鲜血=<size\=14>Absorbing blood</size>
+槲木枝=<size\=14>Oak branch</size>
+槲木的枝桠。=Branches from Oak tree.
+上古有大妖名为槲祖，能炼异族魂魄，夺其肉身。=In ancient times, there are Oak demons that can refine the souls of foreigners and take their flesh.
+椿木碎片=<size\=14>Father Wood chips</size>
+椿木的枝桠碎片。=Fragments of branches of Father wood.
+<color\=#9A0000>掉落来源:</color>小槲妖,槲花卫,槲叶卫(摇光林)=<color\=#9A0000>Drop Source:</color>Little Oak Monster, Oak Guardian, Oak Guardian (Shady Grove)
+
+# Little Oak Monster
+小槲妖=<size\=16>Little Oak Monster</size>
+
+# Black Blade Mantis
+黑刀螳=<size\=16>Black Blade Mantis</size>
+镰刀切割=<size\=14>Sickle cutting</size>
+飞翔=<size\=14>Flying</size>
+螳螂舞=<size\=14>Mantis Dance</size>
+螳螂鳌=<size\=14>Mantis Mandibles</size>
+刀螳螂的鳌，是它进食的口器，上面还有一些粘液。=The mandibles of a blade mantis, which is its mouthpiece for feeding, has some mucus on it.
+
+
+# Blade Mantis
+刀螳螂=<size\=16>Blade Mantis</size>
+螳螂爪=<size\=14>Mantis Blade</size>
+略锋利的螳螂爪，常有凡人用来当作攀爬工具。=The slightly sharp mantis blades are often used by mortals as climbing tools.
+
+
+# Mysterious Serpent
+玄蛇=<size\=16>Mysterious Serpent</size>
+水箭=<size\=14>Water Arrow</size>
+水生之体=<size\=14>Aquatic Body</size>
+玄蛇牙=<size\=14>Serpent Fang</size>
+玄蛇的毒牙，得小心上面的毒液。=The venomous teeth of the Xuan snake, have to be careful of the venom on it.
+<color\=#9A0000>掉落来源:</color>玄蛇(黑水潭)=<color\=#9A0000>Drop Source:</color>Mysterious Serpent (Blackwater Pool)
+#???(Drops I havent gotten)
+#???(Description)
+
+# ???
+# ???
+# ???
+# ???
+# ???
+
+# Reanimated Male Skeleton
+男修骷髅=<size\=16>Reanimated Male Skeleton</size>
+召唤骷髅=<size\=14>Summon Skeleton</size>
+汲取=<size\=14>Absorb</size>
+
+# Reanimated Female Skeleton
+女修骷髅=<size\=16>Reanimated Female Skeleton</size>
+
+
+# Evil Swordsman
+邪恶剑修=<size\=16>Evil Swordsman</size>
+血肉增生=<size\=14>Augmented Flesh</size>
+血婴残魂=<size\=14>Blood Infant Remnant Soul</size>
+还未真正见过此世便被炼化的魂魄碎片，靠近时能听到低声哭泣的呓语。=Fragments of souls that have been refined before they have actually seen this world can be heard murmuring in low tears as they approach.
+<color\=#9A0000>掉落来源:</color>姑获鸟,邪恶剑修,邪恶刀修(招摇山)=<color\=#9A0000>Drop Source:</color>Goofy Bird, Evil Sword Cultivator, Evil Blade Cultivator (Mount Zhaosi)
+
+
+# Evil Bladesman
+邪恶刀修=<size\=16>Evil Bladesman</size>
+
+
+# Evil Spearman
+邪恶枪修=<size\=16>Evil Spearman</size>
+
+# ??? (x 62)
 
 #Random Stuff -Zosrin
 
@@ -1107,7 +1244,70 @@ EA开放=EA Open
 佛子心火=Buddha's Son Heart Fire
 兜率紫火=Hoodoo Purple Fire
 
-
+## Materials(According to Page 8 in Items.xlsx (Materials)) 
+# Refine Dan (pg.#1)
+# WIP
+# Smithing (pg.#2)
+九嶷木=<size\=14>Jiuyi Wood</size>
+九嶷山上的树木，硬度与韧性兼具，在多种场合都可以用到。=The trees on Jiuyi Mountain are both hard and tough, and can be used in a variety of situations.
+紫檀木=<size\=14>Rosewood</size>
+紫黑色外皮的木头，内心为红色，坚硬无比。=The purple-black outer skin of the wood is red and hard inside.
+铁精=<size\=14>Iron Concentrate</size>
+先天铁精，通常十斤铁矿才可练出一斤铁精。=Iron Concentrate, usually ten pounds of Iron Concentrate to compress into Iron Ore
+麻线=<size\=14>Twine</size>
+用一种茎皮纤维植物制成的线，韧度有待考验。=A thread made from a stem bark fiber plant with a tenacity to be tested.
+粗麻布=<size\=14>Rough Linen</size>
+麻线编织的布，普通人常用来织衣。=The cloth woven with hemp thread is commonly used by ordinary people to weave clothes.
+精铁石=<size\=14>Fine Iron Ore</size>
+铁矿石，用来制作普通的武器。=Iron Ore, used to make ordinary weapons.
+陨石碎片=<size\=14>Meteorite Fragment</size>
+陨星拇指般大小的碎片，飞散到各地。=Fragments the size of a thumb that flew everywhere.
+蚕布=<size\=14>Silk Linen</size>
+用蚕丝制成的布，织成衣后光滑洁净，受到一些修士追捧。=Cloth made of silk, woven into clothes smooth and clean, sought after by some cultivatos.
+蚕丝=<size\=14>Silk</size>
+熟蚕结茧时所分泌丝液凝固而成的线。=The thread is made by the solidification of the silk liquid secreted by the mature silkworm during cocooning.
+紫英石=<size\=14>Amethyst</size>
+棱角分明的紫红色的石块，色重澈，能够增加法宝的灵炁亲和度。=The angular purple-red stone with heavy clear color can increase the spiritual air affinity of magic treasures.
+精蚕丝=<size\=14>Fine Silk</size>
+精制的蚕丝，十斤生丝里才能制出一斤精蚕丝。=Refined silk, ten pounds of raw silk in order to make a pound of fine silk.
+精蚕布=<size\=14>Fine silk Linen</size>
+精蚕丝织成的布，手头余裕的修士一般会选择这种材料。=Fine silk woven cloth, cultivators who have plenty of money on hand will usually choose this material.
+阴牝露=<size\=14>Yin Mare Dew</size>
+阴气浓重的山谷形成的露珠，只有夜晚才能采集。=The dew formed in the valley with heavy Yin energy can only be collected at night.
+星斗石=<size\=14>Stardust Ore</size>
+灰蓝色的矿石，里面有点点灵力光斑，宛若星辰。=Gray-blue ore with spots of spiritual light inside, like stars.
+清静露=<size\=14>Tranquil Dew</size>
+寺庙中一年一次、虔诚汇集形成的露珠，承载着清静无为念想。=The dewdrops formed in the temple once a year, gathered by devotion, carry the thought of tranquility and inactivity.
+升仙草=<size\=14>Asclepias</size>
+其貌不扬的小草，蕴含着大道法则。=The small, unattractive grass contains the laws of the Great Dao.
+土心决明=<size\=14>Earth Heart Vassia</size>
+深土之下数十年才能孕育出来的石决明，坚硬无比。=The stone determinants, which can only be bred for decades under the deep earth, are hard and incomparable.
+银柳露=<size\=14>Silver Willow Dew</size>
+初生的柳枝尖尖的露珠。=Dewdrops on the tips of newborn willow branches.
+金槐露=<size\=14>Pagoda Dew</size>
+金色槐树在灵炁滋养下形成的露珠。=Dewdrops formed by golden acacia trees nourished by spiritual air.
+棉布=<size\=14>Cotton</size>
+面纱织成的布，能织出柔软的内衬。=The face yarn is woven into the cloth to create a soft lining.
+棉线=<size\=14>Cotton Yarn</size>
+棉花搓纺而成的细长的线，可以任意曲折。=The cotton is spun into a long, thin thread that can be twisted at will.
+水月菁华=<size\=14>Aqua Moon Essence</size>
+每月月华最为强烈的时候，钟乳石洞涌出的泉水。=The spring that gushes out of the stalactite cave at the time of the strongest moonlight each month.
+青灵石=<size\=14>Lapis Lazuli</size>
+青丘地带产出的宝石，蕴含一股特别的灵力。=The gemstones produced in the Green Hill area contain a special spiritual power.
+泰灵砂=<size\=14>Tai Ling Sand</size>
+泰山凝结的灵石，在经年累月的风化作用下形成的碎屑。=The spirit stones condensed on Mount Tai, formed by the weathering effect of years and years of debris.
+龙须丝=<size\=14>Draconic Thread</size>
+龙族长须制成的线，不沾雨露。=The line made by the long beard of the dragon clan is not covered with rain dew.
+龙须织=<size\=14>Draconic Linen</size>
+龙须丝织成的布，防御力极佳。=The cloth woven by the dragon mustard is excellent defensive.
+灵炁团=<size\=14>Spiritual Air Mass</size>
+灵炁潮汐爆发时出现的，灵炁纠缠的气团。=Spiritual air tides appear when they erupt, tangled air masses of spiritual air.
+仙杏=<size\=14>Fairy Apricot</size>
+朱果=<size\=14>Vermillion Fruit</size>
+玉灵芝=<size\=14>Jade Lingzhi</size>
+突破材料。=Breakthrough material.
+# Monsters (pg.#3)
+# WIP
 
 
 
