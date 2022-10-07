@@ -127,3 +127,20 @@ r:"^城市任务收集(\d{1,2})$"=City Mission Collection $1
 r:"^门派商店(\d{1,2})$"=Sect Shop $1
 r:"^门派特殊资源(\d{1,2})$"=Sect Special Resources $1
 r:"^门派任务收集(\d{1,2})$"=Sect Mission Collection $1
+
+r:"(\d{1,2})级怪钱$"=Level $1 Odd Money
+r:"1品(\d{1,2})级道术术法$"=1 Item Level $1 Dao Art Spell
+r:"探索点宝物房(\d{1,2})$"=Exploration Point Treasure Room $1
+r:"探索点高宝房(\d{1,2})$"=Exploration Point High Treasure Room $1
+r:"仙人洞府通关奖励(\d{1,2})$"=Immortal Cave Pass Reward $1
+r:"仙人洞府进阶奖励(\d{1,2})$"=Immortal Cave Pass High Reward $1
+r:"神秘地宫通关奖励(\d{1,2})$"=Mysterious Palace Pass Reward $1
+r:"神秘地宫进阶奖励(\d{1,2})$"=Mysterious Palace High Reward $1
+r:"上古遗迹通关奖励(\d{1,2})$"=Ancient Ruins Pass Reward $1
+r:"上古遗迹进阶奖励(\d{1,2})$"=Ancient Ruins High Reward $1
+r:"探索点杂物房(\d{1,2})$"=Exploration Point Miscellaneous Room $1
+r:"(\d{1,2})(-)(\d{1,2})档金钱$"=$1$2$3 Money
+
+
+
+
