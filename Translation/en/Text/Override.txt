@@ -1246,7 +1246,168 @@ EA开放=EA Open
 
 ## Materials(According to Page 8 in Items.xlsx (Materials)) 
 # Refine Dan (pg.#1)
-# WIP
+补血草=<size\=14>Blood Tonic Herb</size>
+山中常见的草药，有补血效之效。=A common herb in the mountains, it has the effect of tonic blood.
+益血花=<size\=14>Blood Flowing Flower</size>
+山中常见的草药，有舒筋活络之效。=A common herb in the mountains, it has a soothing effect.
+天麻=<size\=14>Gastrodia Elata</size>
+林中干燥的块茎，有息风止痉之效。=The dried tubers of the forest have a wind-relieving and antispasmodic effect.
+金纹草=<size\=14>Metalweed</size>
+蕴含些许金灵炁的小草。=A small grass that contains some metal qi.
+木纹草=<size\=14>Woodweed</size>
+蕴含些许木灵炁的小草。=A small grass that contains some wood qi.
+水纹草=<size\=14>Waterweed</size>
+蕴含些许水灵炁的小草。=A small grass containing some water qi.
+火纹草=<size\=14>Fireweed</size>
+蕴含些许火灵炁的小草。=A small grass that contains some fire qi.
+土纹草=<size\=14>Earthweed</size>
+蕴含些许土灵炁的小草。=A small grass that contains some earth qi.
+金御草=<size\=14>Metal Resist Grass</size>
+能阻碍金灵炁聚集的小草。=Small grass that can hinder the gathering of metal qi.
+木御草=<size\=14>Wood Resist Grass</size>
+能阻碍木灵炁聚集的小草。=Small grass that can hinder the gathering of wood qi.
+水御草=<size\=14>Water Resist Grass</size>
+能阻碍水灵炁聚集的小草。=Small grass that can hinder the gathering of water qi.
+火御草=<size\=14>Fire Resist Grass</size>
+能阻碍火灵炁聚集的小草。=Small grass that can hinder the gathering of fire qi.
+土御草=<size\=14>Earth Resist Grass</size>
+能阻碍土灵炁聚集的小草。=Small grass that can hinder the gathering of earth qi.
+利目藤=<size\=14>Sharp Eye Vine</size>
+山中藤蔓的异种，有利目之效。=An exotic species of mountain vine with a beneficial effect on the eyes.
+碎形花=<size\=14>Fragmentary Flower</size>
+锋利的奇花，小心被割伤。=Be careful of being cut by the sharp and exotic flowers.
+魅影草=<size\=14>Phantom Grass</size>
+阴气聚集的地方才能生长的小草。=A small grass that can only grow where Yin energy gathers.
+增力参=<size\=14>Booster Ginseng</size>
+山中生长的土参异种，有强壮滋补的功效。=The earth ginseng exotic species grown in the mountains has strong and nourishing effects.
+顺气露=<size\=14>Pleasant Dew</size>
+清晨的花露精华。=Early morning flower dew essence.
+疾行果=<size\=14>Dash Fruit</size>
+淡黄色的果实，如枣大小。=Pale yellow fruit, the size of a date.
+凝血草=<size\=14>Blood Clotting Herb</size>
+灵炁浓郁的地方生长的小花，有凝血之效。=The small flowers that grow in places where the spiritual air is dense have the effect of clotting blood.
+瑞血花=<size\=14>Lucky Blood Flower</size>
+灵炁浓郁的地方生长的小花，有促进气血之效。=The small flowers that grow in places where the spiritual air is dense have the effect of promoting qi and blood.
+芝兰草=<size\=14>Orchid Grass</size>
+灵炁化形的芝草，十分平和，能与任何灵炁融合。=Spiritual air in the form of sesame grass is very calm and can fuse with any spiritual air.
+金厉花=<size\=14>Metal Severe Flower</size>
+金灵炁聚集之地生长的花，隐有金戈之声。=The flowers that grow in the place where the golden qi gathers have a vague sound of golden golems.
+木厉花=<size\=14>Wood Severe Flower</size>
+木灵炁聚集之地生长的花，靠近能嗅到清香。=The flowers that grow in the place where the wood qi gathers can be smelled close enough to smell the fragrance.
+水厉花=<size\=14>Water Severe Flower</size>
+谁灵炁聚集之地生长的花，触摸有清凉之意。=The flowers that grow in the place where the qi gathers have a coolness to touch.
+火厉花=<size\=14>Fire Severe Flower</size>
+火灵炁聚集之地生长的花，能感到微弱热度。=Flowers that grow in places where fire qi gathers can feel faint heat.
+土厉花=<size\=14>Earth Severe Flower</size>
+土灵炁聚集之地生长的花，周边有许多伴生物。=Flowers that grow in places where earth qi gathers are surrounded by many companion organisms.
+金妨露=<size\=14>Metal Exacting Dew</size>
+能驱散金灵炁的朝露，只有在洞天福地里才能生长。=The morning dew, which can dispel the golden qi, can only grow in the cave.
+木妨露=<size\=14>Wood Exacting Dew</size>
+能驱散木灵炁的朝露，只有在洞天福地里才能生长。=The morning dew that can dispel the wood qi can only grow in the cave.
+水妨露=<size\=14>Water Exacting Dew</size>
+能驱散水灵炁的朝露，只有在洞天福地里才能生长。=The morning dew, which can dispel the water qi, can only grow in the cave.
+火妨露=<size\=14>Fire Exacting Dew</size>
+能驱散火灵炁的朝露，只有在洞天福地里才能生长。=The morning dew, which can dispel the fire qi, can only grow in the cave.
+土妨露=<size\=14>Earth Exacting Dew</size>
+能驱散土灵炁的朝露，只有在洞天福地里才能生长。=The morning dew, which can dispel the earth qi, can only grow in the cave.
+灵元芝=<size\=14>Spirit Lingzhi</size>
+吸满纯粹灵炁的灵芝，不停有灵炁化作液体滴落。=The Lingzhi, which is full of pure spiritual air, keeps turning spiritual air into liquid drops.
+养元果=<size\=14>Nourishing Fruit</size>
+灵炁几近凝液，入口即化，蕴含浓郁灵炁。=The qi is almost condensed liquid, which melts in the mouth and contains rich spiritual air.
+神效草=<size\=14>Miracle Herb</size>
+神农百草经中记载的草药，对加快血气运转有好处。=The herbs recorded in the Shennong Hundred Herbs Classic are good for speeding up the operation of blood energy.
+灵参=<size\=14>Spiritual Ginseng</size>
+蕴含大量灵炁的人参，通常有野兽守护。=Ginseng that contains a lot of qi is usually guarded by beasts.
+金殇藤=<size\=14>Metal Mourning Vine</size>
+沼泽地生长的奇特藤蔓，一不留心就会被金灵炁所伤。=The peculiar vines growing in the swamp can be injured by the metal qi if you are not careful.
+木殇藤=<size\=14>Wood Mourning Vine</size>
+沼泽地生长的奇特藤蔓，一不留心就会被木灵炁所伤。=The peculiar vines growing in the swamp can be injured by wood qi if you are not careful.
+水殇藤=<size\=14>Water Mourning Vine</size>
+沼泽地生长的奇特藤蔓，一不留心就会被水灵炁所伤。=The peculiar vines that grow in the swamp can be injured by water qi if you are not careful.
+火殇藤=<size\=14>Fire Mourning Vine</size>
+沼泽地生长的奇特藤蔓，一不留心就会被火灵炁所伤。=The peculiar vines growing in the swamp can be injured by fire qi if you are not careful.
+土殇藤=<size\=14>Earh Mourning Vine</size>
+沼泽地生长的奇特藤蔓，一不留心就会被土灵炁所伤。=The peculiar vines growing in the swamp can be injured by the earth qi if you are not careful.
+金敕藤=<size\=14>Metal Seal Vine</size>
+溪边生长的奇特藤蔓，因蕴含金灵炁，寻常人无法靠近。=The peculiar vine growing by the stream, because it contains gold qi, ordinary people can not approach.
+木敕藤=<size\=14>Wood Seal Vine</size>
+溪边生长的奇特藤蔓，因蕴含木灵炁，寻常人无法靠近。=Strange vines growing by the stream, because of the wood qi contained, ordinary people can not approach.
+水敕藤=<size\=14>Water Seal Vine</size>
+溪边生长的奇特藤蔓，因蕴含水灵炁，寻常人无法靠近。=The peculiar vines that grow by the stream, because they contain water qi, ordinary people can not approach.
+火敕藤=<size\=14>Fire Seal Vine</size>
+溪边生长的奇特藤蔓，因蕴含火灵炁，寻常人无法靠近。=The peculiar vines that grow by the stream, because they contain fire qi, ordinary people can not approach.
+土敕藤=<size\=14>Earth Seal Vine</size>
+溪边生长的奇特藤蔓，因蕴含土灵炁，寻常人无法靠近。=The peculiar vines growing by the stream, because they contain earth qi, ordinary people can not approach.
+天目玄根=<size\=14>Sky Eye Root</size>
+崖壁上生长的草，其根须蕴含大量灵炁。=The grass that grows on the cliff face has roots that contain a lot of qi.
+心无灵叶=<size\=14>Heartless Leaves</size>
+传说是上古神祇血液所化，无色纯粹之灵叶。=Legend has it that it is a colorless and pure spiritual leaf made from the blood of ancient gods.
+虚灵芝=<size\=14>Void Lingzhi</size>
+虚空物质侵染的芝草，蕴含虚空法则。=Void matter infested with sesquiterpenes, containing the laws of emptiness.
+八角天魁=<size\=14>Octagonal Sun Leaves</size>
+极阳之地生产的魁叶，能感受得到里面氤氲的力量。=The Kui leaves produced in the land of extreme sun can feel the dense power inside.
+源气参=<size\=14>Uneven Source Qi</size>
+本源之气在落地前开出的花朵，蕴含些许本源法则。=Origin Qi blossoms before it hits the ground, containing some origin laws.
+神行魂木=<size\=14>Soul Wood</size>
+死去的游魂寄生的木头，生前没有留下，死后也无法带走。=The dead wandering souls parasitic wood, not left behind in life, cannot be taken away after death.
+生肌草=<size\=14>Muscle Repairing Herb</size>
+神农百草经中记载的草药，是一种疗伤圣品的材料。=The herb recorded in Shennong Hundred Herb Classic is a material for healing holy wounds.
+地太岁=<size\=14>Ground Jupiter</size>
+肉芝状如肉，十分稀有，久服轻身不老。=Flesh ganoderma-like meat, very rare, long to take light body does not age.
+肉山苓=<size\=14>Fleshy Hill Fungus</size>
+神农百草经中记载的草药，大而柔软，如同活物。=The herbs recorded in the Shennong Bacchus Classic are large and soft, like living things.
+奇茸首乌=<size\=14>Odd Fleece Flower</size>
+在不见天日的深渊才会生长的首乌，上面长满发光茸毛，灵力磅礴。=Only in the sunless abyss grows the chief wolf, covered with glowing fuzzy hair and majestic spiritual power.
+锐金花=<size\=14>Forging Metal Flower</size>
+灵炁异变成煞气，金煞之地才会生长的花。=Qi is transformed into fury, the flower formed only in metal abundant areas.
+乙木藤=<size\=14>Winding Wood Vine</size>
+灵炁异变成煞气，木煞之地才会生长的藤。=Qi is transformed into fury, the vine formed only in wood abundant areas.
+壬水露=<size\=14>Spiritual Water Dew</size>
+灵炁异变成煞气，水煞之地才会形成的水。=Qi is transformed into fury, the dew is formed only in water abundant areas.
+丙火草=<size\=14>Radiant Fire Grass</size>
+灵炁异变成煞气，火煞之地才会生长的草。=Qi is transformed into fury, the grass is formed only in fire abundant areas.
+戊土石=<size\=14>Towering Earth Ore</size>
+灵炁异变成煞气，土煞之地才会形成的泥土。=Qi is transformed into fury, the clay formed only in the earth abundant areas.
+灭金果=<size\=14>Extinguish Metal Fruit</size>
+金煞之地生长的异果，果实生长的附近一般充满危险。=A strange fruit grown in metal filled land, the vicinity is full of danger.
+灭木果=<size\=14>Extinguish Wood Fruit</size>
+木煞之地生长的异果，果实生长的附近一般充满危险。=A strange fruit grown in metal filled land, the vicinity is full of danger.
+灭水果=<size\=14>Extinguish Water Fruit</size>
+水煞之地生长的异果，果实生长的附近一般充满危险。=A strange fruit grown in metal filled land, the vicinity is full of danger.
+灭火果=<size\=14>Extinguish Fire Fruit</size>
+火煞之地生长的异果，果实生长的附近一般充满危险。=A strange fruit grown in metal filled land, the vicinity is full of danger.
+灭土果=<size\=14>Extinguish Earth Fruit</size>
+土煞之地生长的异果，果实生长的附近一般充满危险。=A strange fruit grown in metal filled land, the vicinity is full of danger.
+还魂果=<size\=14>Rejuvenating fruit</size>
+神农百草经中记载着，绝巅之上生长的朱红色异果，含有巨大药效。=It is written in the Shennong Hundred Herb Classic that the vermillion fruits growing on top of the extinct peak contain tremendous medicinal effects.
+玉石兰芝=<size\=14>Jade Orchid</size>
+在玉石中生长出来的石草，在表面隐隐能看到灵力的脉络。=The stone grass that grows out of the jade stone, the veins of spiritual energy can be faintly seen on the surface.
+天灵太岁=<size\=14>Heavenly Spirit Jupiter</size>
+雪山之中生长的太岁，吸收大量的月之精华，有延年益寿的功效。=The taiyans grown in the snowy mountains absorb a large amount of moon essence and have the effect of prolonging life.
+太乙玄水=<size\=14>Mysterious Mountain Drops</size>
+万年石钟乳滴落的水，蕴含着山之精华。=The water dripping from the 10,000-year-old stone stalactites contains the essence of the mountain.
+玉都神光=<size\=14>Jade Dusk Divine Light</size>
+蕴含太阳神光与月亮神光的灵炁流在黄昏交际时纠缠形成的玉都神光。=The Yudu divine light formed by the entanglement of the qi streams containing the divine light of the sun and the divine light of the moon at the turn of dusk.
+通幽藏花=<size\=14>Abyss Hidden Flowers</size>
+深渊下的生长的花朵，吸收诸多阴气与怨气，红如滴血。=The flowers growing under the abyss, absorbing many yin and grievances, are as red as dripping blood.
+玄天星砂=<size\=14>Black Sky Star Gravel</size>
+陨星撞击在地上的碎片，与灵炁交缠形成了新的砂石。=The debris from the meteorite impacting on the ground intertwined with the qi to form new gravel.
+虚灵玉根=<size\=14>Void Spirit Jade Root</size>
+被虚空能量浸染的根须，只能在深远底下找到。=Roots that have been impregnated by the energy of the void can only be found far below.
+源炁团=<size\=14>Tangled Qi Mass</size>
+五行灵炁纠缠的气团，蕴含磅礴的灵力。=A tangled mass of five elements of qi, containing majestic spiritual power.
+培元果=<size\=14>Cultivation Fruit</size>
+在日晒雨淋下吸收了一些灵炁，有固气培元的功效。=In the sun and rain absorbed some qi, there is the effect of consolidation of Qi and cultivation.
+蕴道果=<size\=14>Aculmutive Dao Fruit</size>
+吸收了日月精华的果实，食用后对感悟大道有帮助。=Fruits that have absorbed the essence of the sun and the moon are helpful in perceiving the Great Dao when consumed.
+融元芝=<size\=14>Harmonious Lingzhi</size>
+蕴含大量灵炁的灵芝，不可多得的珍品。=The Lingzhi, which contains a large amount of qi, is a rare and incomparable treasure.
+天星龙葵=<size\=14>Starry Sky Nightshade</size>
+叶片上布满灵力斑点的龙葵花，夜晚中亮若星空。=The lobelia, whose leaves are covered with spiritual spots, is as bright as a starry sky in the night.
+玉楼凌霄花=<size\=14>Jade Branching Trumpet Vine</size>
+根茎沾染灵炁的异种花，药效强劲。=The roots and stems are tainted with the qi of the exotic flowers, with powerful medicinal effects.
+千叶天南星=<size\=14>Chiba Amaranth</size>
+每一年长出一片叶子，只有十年以上才能被称作「千叶」。=Each year a leaf grows, and only if it is more than ten years old can it be called "Chiba".
 # Smithing (pg.#2)
 九嶷木=<size\=14>Jiuyi Wood</size>
 九嶷山上的树木，硬度与韧性兼具，在多种场合都可以用到。=The trees on Jiuyi Mountain are both hard and tough, and can be used in a variety of situations.
