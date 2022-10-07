@@ -1522,4 +1522,15 @@ EA开放=EA Open
 记载一个晦涩无比的阵势，几乎没人看得懂，但是据说能够提升巨量成丹值，但影响火力聚集。=An ancient unheard of alchemy formation capable of raising Dan quality at the cost of fire power value.
 
 
+#Extralines Corresponding to RegularExpressions.txt lines 131
+1品1级佩囊=1 product level 1 peyote
+{所在区域}宝物房={Location} Treasure Room
+{所在区域}高宝房={Location}High Treasure Room
+{所在区域}仙人洞府通关奖励={Location} Immortal Cave Pass Reward
+{所在区域}仙人洞府进阶奖励={Location} Immortal Cave High Reward
+{所在区域}神秘地宫通关奖励={Location} Mysterious Palace Pass Reward
+{所在区域}神秘地宫进阶奖励={Location} Mysterious Palace High Reward
+{所在区域}上古遗迹通关奖励={Location} Ancient Ruins Pass Reward
+{所在区域}上古遗迹进阶奖励={Location} Ancient Ruins High Reward
+{所在区域}杂物房={Location} Miscellaneous Room
 
