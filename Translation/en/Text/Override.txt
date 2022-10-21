@@ -1,4 +1,4 @@
-﻿#This file is for text override only, all regular expressions please use the RegularExpressions.txt file
+#This file is for text override only, all regular expressions please use the RegularExpressions.txt file
 设置=Settings
 
 显示设置=<size\=20>Display Settings</size>
@@ -926,8 +926,6 @@ EA开放=EA Open
 ##Name
 ##Skill Name
 ##Skill Descriptions
-##Drops Name
-##Drops Descriptions
 ##Ignore Repeats
 
 # Fierce Tiger
@@ -935,14 +933,6 @@ EA开放=EA Open
 撕咬=<size\=14>Bite</size>
 百兽之王=<size\=14>King of All Beasts</size>
 虎扑=<size\=14>Tiger's Mark</size>
-虎须=<size\=14>Tiger Whiskers</size>
-虎的毛须，长而韧。=Whiskers of a tiger are long and tough.
-虎皮=<size\=14>Tiger Pelt</size>
-柔软的兽皮。=Soft animal skin.
-虎牙=<size\=14>Tiger Fang</size>
-虎的牙齿。=Tiger's teeth.
-虎骨=<size\=14>Tiger Bone</size>
-拥有奇妙作用的虎骨，受到很多男性修士青睐。=A Tiger bone, which has wonderful effects, is favored by many male cultivators.
 
 # Fierce-Tiger Cub
 幼虎=<size\=16>F-Tiger Cub</size>
@@ -957,15 +947,10 @@ EA开放=EA Open
 凶狼=<size\=16>Feral Wolf</size>
 群狼=<size\=14>Feral Wolf Pack</size>
 凶狼飞扑=<size\=14>Feral Wolf Swoop</size>
-凶狼尾=<size\=14>Feral Wolf Tail</size>
-凶狼的尾巴，无法释放的灵力会淤积在此处。=The tail of the Feral Wolf, the spiritual power that cannot be released will be stored in here.
-凶狼头骨=<size\=14>Feral Wolf Skull</size>
-凶狼头骨，是诸多仪式的材料，亦可以炼制成法宝。=A Feral Wolf Skull, a material for many rituals, can also be refined into artifacts.
 
 # Young Feral Wolf
 幼凶狼=<size\=16>Young Feral Wolf</size>
-凶狼毫毛=<size\=14>Feral Wolf Hair</size>
-柔软的兽毛。=Soft animal hair.
+
 
 # Sect Outcast
 天元宗弃徒=<size\=16>Sect Outcast</size>
@@ -999,13 +984,9 @@ EA开放=EA Open
 火光鼠=<size\=16>Flame Rat</size>
 撞击=<size\=14>Strike</size>
 凝聚火光=<size\=14>Flame Gathering</size>
-火光鼠皮=<size\=14>Flame Rat Pelt</size>
-火光鼠的皮，油亮油亮的。=The skin of the Flame Rat is shiny and oily.
 
 # Young Flame Rat
 幼火光鼠=<size\=16>Young Flame Rat</size>
-火光鼠毛=<size\=14>Flame Rat Fur</size>
-火光鼠的毫毛，上面沾着一些易燃的分泌物。=The hairs of the Flame Rat, covered with some flammable secretions.
 
 # ???
 
@@ -1042,8 +1023,6 @@ EA开放=EA Open
 玄蛇=<size\=16>Mysterious Serpent</size>
 水箭=<size\=14>Water Arrow</size>
 水生之体=<size\=14>Aquatic Body</size>
-玄蛇牙=<size\=14>Serpent Fang</size>
-玄蛇的毒牙，得小心上面的毒液。=The venomous teeth of the Xuan snake, have to be careful of the venom on it.
 <color\=#9A0000>掉落来源:</color>玄蛇(黑水潭)=<color\=#9A0000>Drop Source:</color>Mysterious Serpent (Blackwater Pool)
 #???(Drops I havent gotten)
 #???(Description)
@@ -1468,7 +1447,71 @@ EA开放=EA Open
 玉灵芝=<size\=14>Jade Lingzhi</size>
 突破材料。=Breakthrough material.
 # Monsters (pg.#3)
-# WIP
+牙=<size\=14>Teeth</size>
+爪=<size\=14>Claw</size>
+皮毛=<size\=14>Fur</size>
+甲质=<size\=14>Scales</size>
+器官=<size\=14>Organs</size>
+骨=<size\=14>Bones</size>
+# The Essences have a corresponding Regex in RegularExpressions.txt lines 44-47
+妖兽修炼出的精气，如米粒般大小，飘渺分散。=Essence cultivated by Demonic Beasts the size of rice grains drifting to the air.
+妖兽修炼出的稀有精气，乃本源的精气之一。=Rare essence cultivated by Demonic beasts is one of the essence pertaining to origin.
+妖兽修炼出的精气，如拳头般大小的精气，已有凝聚成华之势。=Demonic Beasts cultivated essence as large as a fist has coalesced into the momentum of Hua.
+妖兽修炼出的稀有精气，如拳头般大小的精气，已有凝聚成华之势。=Rare Demonic Beast cultivated essence as large as a fist has coalesced into the momentum of Hua.
+妖兽修炼出的精气，如头颅般大小的精气，已快凝结成实体。=The essence cultivated by a Demonic Beast, the size of a head, has almost condensed into an entity.
+妖兽修炼出的稀有精气，如头颅般大小的精气，已快凝结成实体。=The rare essence cultivated by a Demonic Beast, as size as a head, has almost condensed into an entity.
+神髓=<size\=14>Divine Marrow</size>
+远古的血脉遗留下来的产物，被修士认为具有神性。=The product of an ancient bloodline legacy, considered by monks to be of divine nature.
+虚丹=<size\=14>Void Elixer</size>
+防止精气逸散的虚丹，没有神智的妖兽比人族更早地领悟了虚空的奥妙。=Preventing the escape of essence of the virtual Dan, no divine intelligence of the demonic beasts than the human race earlier to understand the wonders of the void.
+内丹=<size\=14>Inner Elixer</size>
+凝实的内丹，蕴含妖兽一身的修炼精华。=The solid inner pellet contains all the cultivation essence of the demon beast.
+凝炼的金属性灵炁精华，几乎趋近大道本质。=The condensed metal-attribute qi essence almost converges to the essence of the Great Dao.
+凝炼的木属性灵炁精华，几乎趋近大道本质。=The condensed wood-attribute qi essence almost converges to the essence of the Great Dao.
+凝炼的水属性灵炁精华，几乎趋近大道本质。=The condensed water-attribute qi essence almost converges to the essence of the Great Dao.
+凝炼的火属性灵炁精华，几乎趋近大道本质。=The condensed fire-attribute qi essence almost converges to the essence of the Great Dao.
+凝炼的土属性灵炁精华，几乎趋近大道本质。=The condensed earth-attribute qi essence almost converges to the essence of the Great Dao.
+凝炼的阴属性灵炁精华，几乎趋近大道本质。=The condensed Yin attribute qi essence almost converges to the essence of the Great Dao.
+凝炼的阳属性灵炁精华，几乎趋近大道本质。=The condensed Yang attribute qi essence almost converges to the essence of the Great Dao.
+须弥子=<size\=14>Sumeru</size>
+妖兽气海中孕育的神奇物质，数量极为稀少。=The amount of magical substances bred in the demon beast's sea of qi is extremely rare.
+金睛兽牙=<size\=14>Golden-Eye Beast Fang</size>
+金睛兽的牙齿，比较坚硬。=The teeth of the golden-eyed beast are relatively hard.
+金睛兽爪=<size\=14>Golden-Eye Beast Claw</size>
+金睛兽的利爪，帮助它撕开猎物。=The golden-eyed beast's sharp claws help it tear apart its prey.
+金睛兽毛=<size\=14>Golden-Eye Beast Hair</size>
+柔软的兽毛。=Soft animal hair.
+金睛兽覆甲=<size\=14>Golden-Eye Beast Over Armor</size>
+随着妖力的加深，在金睛兽表面析出的坚固物质。=As the demonic power deepens, the solid substance precipitated on the surface of the golden-eyed beast.
+金睛兽皮=<size\=14>Golden-Eye Animal Skin</size>
+柔韧，蕴含妖力。=Pliable and contains demonic power.
+虎须=<size\=14>Tiger Whiskers</size>
+虎的毛须，长而韧。=Whiskers of a tiger are long and tough.
+虎皮=<size\=14>Tiger Pelt</size>
+柔软的兽皮。=Soft animal skin.
+虎牙=<size\=14>Tiger Fang</size>
+虎的牙齿。=Tiger's teeth.
+虎骨=<size\=14>Tiger Bone</size>
+拥有奇妙作用的虎骨，受到很多男性修士青睐。=A Tiger bone, which has wonderful effects, is favored by many male cultivators.
+玄蛇牙=<size\=14>Serpent Fang</size>
+玄蛇的毒牙，得小心上面的毒液。=The venomous teeth of the Xuan snake, have to be careful of the venom on it.
+玄蛇囊=<size\=14>Serpent Sac</size>
+玄蛇储存毒液的囊，最常用的方法是将里面的毒液涂到匕首上。=The most common method of storing venom in the capsule of the Gentoo is to apply the venom inside to the dagger.
+凶狼毫毛=<size\=14>Feral Wolf Hair</size>
+凶狼尾=<size\=14>Feral Wolf Tail</size>
+凶狼的尾巴，无法释放的灵力会淤积在此处。=The tail of the Feral Wolf, the spiritual power that cannot be released will be stored in here.
+凶狼头骨=<size\=14>Feral Wolf Skull</size>
+凶狼头骨，是诸多仪式的材料，亦可以炼制成法宝。=A Feral Wolf Skull, a material for many rituals, can also be refined into artifacts.
+火光鼠毛=<size\=14>Flame Rat Fur</size>
+火光鼠的毫毛，上面沾着一些易燃的分泌物。=The hairs of the Flame Rat, covered with some flammable secretions.
+火光鼠皮=<size\=14>Flame Rat Pelt</size>
+火光鼠的皮，油亮油亮的。=The skin of the Flame Rat is shiny and oily.
+软蟹壳=Soft Crab Shell
+软蟹钳=Soft crab pincers
+幼虾须=Young shrimp Wanders
+红虾枪=Red Shrimp Spear
+
+
 
 # These are the pill formations found on Item.xlsx Page #5 
 品质=Quality
