@@ -6779,11 +6779,6 @@ luamanager.ShowInfomation(\\"解锁涂山婉「收徒」！\\")\r\nluamanager.Cl
 异火掉落集=Foreign fire drop set
 大力镐=Power Pick
 五行结晶=Five Elements Crystals
-金之结晶=Crystals of Gold
-木之结晶=Crystallization of Wood
-水之结晶=Water Crystals
-火之结晶=Crystals of Fire
-土之结晶=Crystals of Earth
 云梦矿石=Cloud Dream Ore
 神农岭矿石=Shennongling Ore
 轩辕丘矿石=Xuan Yuan Qiu Ore
@@ -6865,11 +6860,6 @@ luamanager.ShowInfomation(\\"解锁涂山婉「收徒」！\\")\r\nluamanager.Cl
 海之角高宝1=Cape of the Sea High Treasure 1
 好龙道人=Good Dragon Daoist
 小金睛兽=Little Golden Eye Beast
-金睛兽牙=Golden Eye Beast Teeth
-金睛兽爪=Golden Eye Beast Claw
-金睛兽毛=Golden Eye Beast Hair
-金睛兽皮=Golden Eye Animal Skin
-金睛兽覆甲=Golden Eye Beast Over Armor
 槲木=Heaven
 槲叶卫=Heaven Guard
 槲木孢子=Quercus sp.
@@ -6879,21 +6869,14 @@ luamanager.ShowInfomation(\\"解锁涂山婉「收徒」！\\")\r\nluamanager.Cl
 蛟龙筋=Dragon Tendon
 蛟龙珠=Dragon pearl
 蛟龙精血=Dragon's essence blood
-玄蛇囊=Xuan Snake Capsule
+
 山神之怨=The Grudge of the Mountain God
 怨气碎片=Grievance Fragments
 智齿=wisdom teeth
 猿王皮=Ape King Skin
 幼虎=Tiger Cub
-虎须=tiger's Wanders
-虎皮=Tiger Skin
-猛虎=Fierce Tiger
-虎牙=Tigers
-虎骨=Tiger Bone
-幼白虎=Young White Tiger
-软蟹壳=Soft Crab Shell
-软蟹钳=Soft crab pincers
-幼虾须=Young shrimp Wanders
+
+
 蜈蚣须=Centipede Wanders
 蜈蚣足=Centipede foot
 紫硬毛=Purple hard hair
@@ -7302,11 +7285,7 @@ luamanager.ShowInfomation(\\"解锁涂山婉「收徒」！\\")\r\nluamanager.Cl
 x之精气=Essence of x
 x之精粹=The Essence of x
 x之结晶=Crystallization of x
-神髓=The Divine Essence
-虚丹=virtual dan
-内丹=inner elixir
 x行本源=x line origin
-须弥子=Sumeru
 低级形态精英=Low-level form elite
 中级形态普通=Intermediate form ordinary
 中级形态精英=Intermediate Form Elite
@@ -13923,53 +13902,10 @@ x晶丹=xJingDan
 天蚕结茧时分泌的丝液凝固而成的线。=The silk liquid secreted by the silkworm during cocooning solidifies into a thread.
 天蚕丝织成的布，冬暖夏凉，光滑如缎。=Heavenly silk woven cloth, warm in winter and cool in summer, smooth as satin.
 精气=Essence
-妖兽修炼出的精气，如米粒般大小，飘渺分散。=The essence cultivated by the demon beast is as big as a grain of rice and drifting and scattered.
 怪物通用掉落=Monster generic drop
-阴之精气=Essence of Yin
-妖兽修炼出的稀有精气，乃本源的精气之一。=The rare essence cultivated by demonic beasts is one of the essence of the origin.
-阳之精气=The Essence of Yang
-妖兽修炼出的精气，如拳头般大小的精气，已有凝聚成华之势。=Demon beasts cultivate the essence, such as fist-sized essence, has coalesced into the momentum of Hua.
-阴之精粹=Essence of Yin
-妖兽修炼出的稀有精气，如拳头般大小的精气，已有凝聚成华之势。=Demon beasts cultivate rare essence, such as the size of a fist, has coalesced into the momentum of Hua.
-阳之精粹=The Essence of Yang
-妖兽修炼出的精气，如头颅般大小的精气，已快凝结成实体。=The essence cultivated by the demon beast, the size of a head, has almost condensed into an entity.
-阴之结晶=Crystallization of Yin
-妖兽修炼出的稀有精气，如头颅般大小的精气，已快凝结成实体。=The rare essence cultivated by the demon beast, as big as a head, has almost condensed into an entity.
-阳之结晶=Crystallization of Yang
-远古的血脉遗留下来的产物，被修士认为具有神性。=The product of an ancient bloodline legacy, considered by monks to be of divine nature.
-防止精气逸散的虚丹，没有神智的妖兽比人族更早地领悟了虚空的奥妙。=Preventing the escape of essence of the virtual Dan, no divine intelligence of the demonic beasts than the human race earlier to understand the wonders of the void.
-凝实的内丹，蕴含妖兽一身的修炼精华。=The solid inner pellet contains all the cultivation essence of the demon beast.
-金行本源=Gold Origin
-凝炼的金属性灵炁精华，几乎趋近大道本质。=The condensed metallic spiritual air essence almost converges to the essence of the Great Dao.
-木行本源=Wood Origin
-凝炼的木属性灵炁精华，几乎趋近大道本质。=The condensed wood-attribute spiritual air essence almost converges to the essence of the Great Dao.
-水行本源=Waterborne Origin
-凝炼的水属性灵炁精华，几乎趋近大道本质。=The condensed water-attribute spiritual air essence almost converges to the essence of the Great Dao.
-火行本源=Fire Origin
-凝炼的火属性灵炁精华，几乎趋近大道本质。=The condensed fire-attribute spiritual air essence almost converges to the essence of the Great Dao.
-土行本源=Earth Origin
-凝炼的土属性灵炁精华，几乎趋近大道本质。=The condensed earth-attribute spiritual air essence almost converges to the essence of the Great Dao.
-阴行本源=Yin Elemental Source
-凝炼的阴属性灵炁精华，几乎趋近大道本质。=The condensed Yin attribute spiritual air essence almost converges to the essence of the Great Dao.
-阳行本源=Yang Xing Origin
-凝炼的阳属性灵炁精华，几乎趋近大道本质。=The condensed Yang attribute spiritual air essence almost converges to the essence of the Great Dao.
-妖兽气海中孕育的神奇物质，数量极为稀少。=The amount of magical substances bred in the demon beast's sea of qi is extremely rare.
-牙=Teeth
 怪物材料=Monster Materials
-金睛兽的牙齿，比较坚硬。=The teeth of the golden-eyed beast are relatively hard.
-爪=Claw
-金睛兽的利爪，帮助它撕开猎物。=The golden-eyed beast's sharp claws help it tear apart its prey.
-皮毛=Fur
-甲质=nail quality
-随着妖力的加深，在金睛兽表面析出的坚固物质。=As the demonic power deepens, the solid substance precipitated on the surface of the golden-eyed beast.
-柔韧，蕴含妖力。=Pliable and contains demonic power.
-虎的毛须，长而韧。=The Wanders of the tiger are long and tough.
-柔软的兽皮。=Soft animal skin.
-虎的牙齿。=Tiger's teeth.
-骨=Bone
-拥有奇妙作用的虎骨，受到很多男性修士青睐。=The tiger bone, which has wonderful effects, is favored by many male cultivators.
-器官=Organs
-玄蛇储存毒液的囊，最常用的方法是将里面的毒液涂到匕首上。=The most common method of storing venom in the capsule of the Gentoo is to apply the venom inside to the dagger.
+
+
 软软的蟹壳，看上去不怎么坚固。=Soft crab shells that don't look very sturdy.
 软软的蟹钳，看上去不怎么坚固。=Soft crab pincers that don't look very sturdy.
 青色的幼虾须，用途广泛，亦可入药=Young green shrimp Wanders, which are widely used and can also be used as medicine
@@ -29518,4 +29454,6 @@ Fei的背包=Fei's backpack.
 2022年9月26日18时=26 September 2022, 18:00
 更新V0.60.009.07:\n1. 修复背包和仓库在搜索物品时，移动物品会导致物品复制的问题=Update V0.60.009.07: 1. Fix an issue where moving items in the backpack and warehouse causes them to be duplicated when searching for them
 2022年9月24日16时=24 September 2022, 16:00
-蕴含少量水灵气的丹药。\n（可在突破时作为主丹，为人物提供灵力）=An elixir containing a small amount of water aura. (Can be used as a main elixir to provide a character with spiritual energy during a breakthrough)
+蕴含少量水灵气的丹药。\n（可在突破时作为主丹，为人物提供灵力）=An elixir containing a small amount of water aura. (Can be used as a main elixir to provide a character with spiritual energy during a breakthrough)<color\=#9A0000>掉落来源:</color>幼虎,猛虎,白虎,幼白虎(九嶷山谷)=<color\=#9A0000>Drop Source:</color>Young Tiger, Fierce Tiger, White Tiger, Young White Tiger (Jiuyi Mountain Valley)
+<color\=#9A0000>掉落来源:</color>猛虎,白虎(九嶷山谷)=<color\=#9A0000>Drop Source:</color>Fierce Tiger, White Tiger (Jiuyi Mountain Valley)
+<color\=#9A0000>掉落来源:</color>金睛兽(九嶷山谷)=<color\=#9A0000>Drop Source:</color>Golden-eyed Beast (Jiuyi Mountain Valley)<color\=#9A0000>掉落来源:</color>幼虎,猛虎,白虎,幼白虎(九嶷山谷)=<color\=#9A0000>Drop Source:</color>Young Tiger, Fierce Tiger, White Tiger, Young White Tiger (Jiuyi Mountain Valley)
