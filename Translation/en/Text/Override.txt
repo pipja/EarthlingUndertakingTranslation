@@ -1506,12 +1506,225 @@ EA开放=EA Open
 火光鼠的毫毛，上面沾着一些易燃的分泌物。=The hairs of the Flame Rat, covered with some flammable secretions.
 火光鼠皮=<size\=14>Flame Rat Pelt</size>
 火光鼠的皮，油亮油亮的。=The skin of the Flame Rat is shiny and oily.
-软蟹壳=Soft Crab Shell
-软蟹钳=Soft crab pincers
-幼虾须=Young shrimp Wanders
-红虾枪=Red Shrimp Spear
-
-
+软蟹壳=<size\=14>Soft Crab Carapace</size>
+软软的蟹壳，看上去不怎么坚固。=Soft crab shells that don't look very sturdy.
+软蟹钳=<size\=14>Soft crab Pincers</size>
+软软的蟹钳，看上去不怎么坚固。=Soft crab pincers that don't look very sturdy.
+幼虾须=<size\=14>Young Shrimp Whiskers</size>
+青色的幼虾须，用途广泛，亦可入药=Young green shrimp Whiskers, which are widely used and can also be used as medicine
+红虾枪=<size\=14>Red Shrimp Spear</size>
+红色虾枪，有淡淡的水灵炁。=Red shrimp lance with faint water spirit air.
+螳螂爪=<size\=14>Mantis Blade</size>
+略锋利的螳螂爪，常有凡人用来当作攀爬工具。=The slightly sharp mantis blades are often used by mortals as climbing tools.
+螳螂鳌=<size\=14>Mantis Mandibles</size>
+刀螳螂的鳌，是它进食的口器，上面还有一些粘液。=The mandibles of a blade mantis, which is its mouthpiece for feeding, has some mucus on it.
+山神之怨=<size\=14>Mountain God's Grudge</size>
+为——什——么——。=Why - why - why -.
+姑获鸟羽=<size\=14>Ghost Bird Feather</size>
+姑获鸟精心打理的羽毛，脱离了主人后依旧光彩照人。=The well-tended feathers of the gourami bird are still radiant after being separated from its owner.
+姑获鸟喙=<size\=14>Ghost Bird Beak</size>
+姑获鸟妖身现形后，被折断的鸟喙，有诸多妙用。=After the demon body of the Gulo bird appears, the beak that was broken off, has many wonderful uses.
+血婴残魂=<size\=14>Blood Infant Remnant Soul</size>
+还未真正见过此世便被炼化的魂魄碎片，靠近时能听到低声哭泣的呓语。=Fragments of souls that have been refined before they have actually seen this world can be heard murmuring in low tears as they approach.
+妖神之血=<size\=14>Demon God Blood</size>
+曾是五方神树中的最年幼者，被堕落的守卫觊觎妖神血契，强行寄生后凝聚的血液精华。=Once the youngest of the five divine trees, the blood essence condensed after being forcibly parasitized by the fallen guards who coveted the demon god's blood pact.
+槲木枝=<size\=14>Oak branch</size>
+槲木的枝桠。=Branches from Oak tree.
+上古有大妖名为槲祖，能炼异族魂魄，夺其肉身。=In ancient times, there are Oak demons that can refine the souls of foreigners and take their flesh.
+椿木碎片=<size\=14>Father Wood chips</size>
+椿木的枝桠碎片。=Fragments of branches of Father wood.
+槲木孢子=<size\=14>Quercus Spores</size>
+槲木妖力凝结的邪恶孢子，能入侵异族的识海。=The evil spores condensed by the demonic power of Heaven can invade the sea of consciousness of the fey.
+蛟龙爪=<size\=14>Dragon Claw</size>
+蛟龙之爪，可开金裂石。=The claws of the dragon can open the gold and crack the stone.
+蛟龙鳞=<size\=14>dragon Scales</size>
+蛟龙之鳞，对灵力有不错的抗性。=The scales of the dragon have a good resistance to spiritual power.
+蛟龙筋=<size\=14>Dragon Tendon</size>
+蛟龙筋，强韧异常，曾被诸多名弓作为弓弦材料。=The dragon tendon, which is exceptionally strong, has been used as bowstring material by many bows.
+蛟龙珠=<size\=14>Dragon pearl</size>
+传说得自蛟龙颔下或口中，蕴藏着蛟龙精华。=Legend has it that it comes from the jaws or mouth of the dragon, which contains the essence of the dragon.
+蛟龙精血=<size\=14>Dragon's essence blood</size>
+蛟，龙属，无角曰蛟，蛟龙妖血，妖力充沛。=Jiao, the dragon genus, no horns said Jiao, Jiao dragon demon blood, demon power is abundant.
+怨气碎片=<size\=14>Resentment Fragments</size>
+从小被封闭在罐子中豢养的血婴，在深夜散发出的骇人哭泣，双目流出的血泪点点滴落，终于化成了怨气的碎片。=The essence, which has been kept in a jar since inception, radiates lurid cries in the dead of night, and the blood tears flowing from his eyes drip down in drips, finally turning into pieces of resentment.
+智齿=<size\=14>Wisdom Teeth</size>
+用痛疼换来的智慧之象征，捣蛋的猿猴曾经深受其害。=The symbol of wisdom exchanged for pain and suffering, the mischievous apes used to suffer from it.
+猿王皮=<size\=14>Ape King Skin</size>
+山中无老虎，猴子当大王。=There is no tiger in the mountain, the monkey is the king.
+蜈蚣须=<size\=14>Centipede Whiskers</size>
+修炼成精怪的蜈蚣的须，千万不要用手去碰。=Centipede cultivated into an elite beard, do not touch with your hands.
+蜈蚣足=<size\=14>Centipede Foot</size>
+粗壮、肥美的蜈蚣足。=Sturdy, fat centipede feet.
+紫硬毛=<size\=14>Purple Stiff Hair</size>
+僵尸身上的紫色硬毛，令人震惊的是它竟然没有什么气味。=The zombie has stiff purple hair on its body, and shockingly it has little smell.
+绿硬毛=<size\=14>Green Stiff Hair</size>
+僵尸身上的绿色硬毛，令人震惊的是它竟然没有什么气味。=The zombie has stiff green hair on its body, and shockingly it has little smell.
+尸鬼精魂=<size\=14>Ghoul Spirit</size>
+死去的尸体吸收天地怨念化成尸鬼，他们的生前必定有一个惨烈的故事。=The dead bodies absorb the resentment of heaven and earth into ghouls, and they must have had a tragic story before they were born.
+尸王核=<size\=14>Corpse Core</size>
+成长完全的尸鬼的核心，里面有污浊的灵炁流动。=The core of a fully grown ghoul, with tainted spiritual air flowing inside.
+赤神精=<size\=14>Red God Essence</size>
+落入大地的红色精气，竟然唤醒了死者们的神智。=The red essence that fell into the earth surprisingly awakened the gods of the dead.
+赤神炁=<size\=14>Red God Air</size>
+苏醒的死者们凭借其施展法术，传说是落入沙漠中的古老灵炁。=The awakened dead cast spells by virtue of it, and the legend is that it is an ancient spirit air that fell into the desert.
+赤神发=<size\=14>Red God Hair</size>
+不知名的发须在岁月的流转中变得坚硬，有死者将它捡起并打磨成兵刃。=The unknown hair Wanders become hardened in the flow of years, and some of the dead pick it up and polish it into blades.
+赤神玉=<size\=14>Red God Jade</size>
+赤色的玉质物品，形态似骨，上面散发出古老气息的灵炁。=Red-colored jade items, the form of which resembles bone, on which emits the ancient breath of spiritual air.
+恶龟爪=<size\=14>Evil Turtle Claw</size>
+恶龟的爪子，不过不慎被抓到……。=The claws of the evil turtle, but inadvertently caught .......
+硬龟壳=<size\=14>Hard Turtle Shell</size>
+十分坚硬的甲壳，刀枪不入。=Very hard armor, swords and Spears.
+夜叉硬毛=<size\=14>Nightstick Stiff Hair</size>
+成年夜叉生长出的硬毛，坚硬而细小，不少人用来制作阴损的法宝。=Adult nightcrawlers grow stiff hairs, hard and fine, which many people use to make large damage spells.
+变化玉=<size\=14>Jade of Change</size>
+三眼夜叉的额眼，按照它们氏族的说法，此言通阴阳晓变化，乃上古天眼……。=The frontal eye of the three-eyed nightstick, according to their clan, this word through the yin and yang know change, is the ancient eye of heaven .......
+虚空碎片=<size\=14>Void Fragments</size>
+四不相体内如核一般的器官，由于先天的缺陷，打破了体内灵炁流转的平衡，导致整个族群出现了异形体的惨剧。=The nucleus-like organs in the body of the Four Nothings, due to congenital defects, broke the balance of the flow of spiritual air in the body, resulting in the tragic emergence of ectoplasmic bodies in the entire group.
+精魂鬼=<size\=14>Soul Ghost</size>
+不知道从何时开始出现在星陨湖中，虚空能量的小结晶，靠近时能够听到阵阵呢喃。=I do not know when it began to appear in the star meteor lake, the small crystals of void energy, close to be able to hear a burst of murmuring.
+精气团=<size\=14>Mass of Essence</size>
+鬼魂死后留下的产物，仍保留着死者的记忆，似乎能够增强人精力。=The product left behind after the death of a ghost still retains the memory of the deceased and seems to be able to enhance human energy.
+神气团=<size\=14>Mass of Vigor</size>
+鬼魂死后留下的产物，据说是作为死者在肉身腐烂的情况下还能运转思维的根据。=The product left behind by the ghost after death is said to serve as the basis for the deceased's ability to run his mind despite his decaying flesh.
+怨气团=<size\=14>Mass of Grievance</size>
+怨气凝聚纠缠而成的团状体。=Grievances coalesce and entangle into a mass.
+凶猿牙=<size\=14>Fierce Ape Teeth</size>
+凶猿的利牙，凝聚着凶煞之力，假使凡人轻易触碰它导致被凶煞所伤，免不了大病一场。=The sharp teeth of the fierce ape, cohesive with the power of the fierce fury, if mortals easily touch it led to be fierce fury injury, inevitably a serious illness.
+凶猿精血=<size\=14>Fierce Ape Blood Essence</size>
+刚阳的精血，此物曾被认为是大补之物，导致红毛凶猿遭到滥杀。=The essence blood of Gonyang, which was once considered a great tonic, led to the indiscriminate killing of the red-haired ferocious apes.
+桃花枝=<size\=14>Peach Blossom Branch</size>
+带桃花苞的细枝，边缘具细锯齿，两面无毛。=Fine branches with peach bracts, margin serrulate, both surfaces glabrous.
+桃花根=<size\=14>Peach Blossom Root</size>
+桃花根须，里面蕴含了桃花妖修炼的精华。=The peach blossom root beard, which contains the essence of the peach blossom demon cultivation.
+石猴毫毛=<size\=14>Stone Monkey Hairs</size>
+轻渺的毫毛，石猴的诞生与故乡一直来都是一个谜团，可以知道的是自它诞生以来显现出了一切生灵的特征。=The birth and homeland of the stone monkey has always been a mystery, but what is known is that since its birth it has revealed the characteristics of all living beings.
+石猴精血=<size\=14>Stone Monkey Blood Essence</size>
+在包含灵炁的精血中，似乎还蕴含了其他东西。=In the essence blood that contains spiritual air, it seems to contain something else.
+虚空结晶=<size\=14>Void Crystals</size>
+虚空能量凝结而成的小结晶，对生物拥有可怕的异化作用，曾一度被邪恶修士作为御敌手段使用。=The small crystals condensed from void energy have a terrifying alienating effect on creatures and were once used by evil monks as a means of defense against the enemy.
+天魔触须=<size\=14>Heavenly Demon Feelers</size>
+未知生物的触须，它的一切构造与平时所见的生物都不同。=The tentacles of the unknown creature, everything about its construction is different from the creatures normally seen.
+鲮鲤须=<size\=14>Pangolin Beard</size>
+鲮鲤的触须，其鲜嫩而富有弹性的口感，让许多修士对它痴迷不已。=The tentacles of the pangolin, with its tender and elastic texture, have made many cultivators obsessed with it.
+鲮鲤鳞片=<size\=14>Pangolin Scales</size>
+鲮鲤的鳞片，常常研磨成粉末入药，食用着可以清肝明目。=The scales of pangolin are often ground into powder for medicine, which can be consumed to clear the liver and improve eyesight.
+夜游素=<size\=14>Nocturnal Element</size>
+从夜游猫的唾液提取出来的透明物质，服用者可以保持整夜的亢奋。=A clear substance extracted from the saliva of night cats, the taker can stay aroused all night long.
+猫游珠=<size\=14>Nocturnal Cat Bead</size>
+褐色的圆石，因为灵炁淤积而成，依附在夜游猫体内的器官上，气味浓烈。=The brown round stones, made from the siltation of spiritual air, cling to the organs in the body of the night wandering cats with a strong smell.
+火狼爪=<size\=14>Fire Wolf Claw	
+赤红色的利爪，用力摩擦后会生出些许的火苗。=Red-red sharp claws, the force of friction will produce a little fire.
+火狼牙=<size\=14>Fire Wolf Teeth</size>
+蕴含火灵炁的狼牙。=A wolf's tooth that contains fire spirit air.
+焱精碎片=<size\=14>Amazing Essence Fragment</size>
+红色的小碎片，蕴含火灵炁。=Small red fragments containing fire spirit air.
+焱精=<size\=14>Amazing Essence</size>
+带着火焰之力的红色矿石。=The red ore with the power of flame.
+麒麟爪=<size\=14>Qilin Claw</size>
+神奇的利爪，在火焰中会变得更加锋利。=Magical sharp claws that become even sharper in the flames.
+火仙核=<size\=14>Fire Immortal Core</size>
+麒麟体内的核，决定了其灵炁性质，亦决定了它的形态。=The nucleus inside the qilin determines the nature of its spiritual air, and also determines its form.
+槲树心=<size\=14>Qilin Heart</size>
+传说中修炼成仙的槲树体内才有可能孕育出的奇物。=The legendary Heaven that is cultivated to become an immortal is the only one that can breed a strange thing inside.
+槲神精血=<size\=14>Heaven Bead Essence</size>
+蕴含槲神的的能量。=Contains the energy of Heaven.
+怨虎牙=<size\=14>Resentment Tiger Teeth</size>
+怨念缠绕的黑色牙齿，边缘锋利，入手冰凉。=The black teeth entwined with resentment have sharp edges and are cold to the touch.
+怨虎骨=<size\=14>Resentment Tiger Bones</size>
+怨念缠绕的黑色骨头，摸上去如玉石质地一般。=The black bones entwined with resentment, touching like jade texture.
+黑熊皮=<size\=14>Black Bear Skin</size>
+蕴含些许灵炁的黑熊皮。虽已踏上修炼之道，但最终还是沦落同野兽一般的下场。=The black bear skin that contains some spiritual air. Although he has embarked on the path of cultivation, but eventually fell into the same beast general end.
+黑熊胆=<size\=14>Black Bear Bile</size>
+灵炁浸染的黑熊胆。虽已踏上修炼之道，但最终还是沦落同野兽一般的下场。=The black bear bile impregnated with spiritual air. Although he has embarked on the path of cultivation, but ultimately fell into the same beast general end.
+豹狰爪=<size\=14>Leopard Predator Claw</size>
+豹狰的利爪，有碎金裂石之威。=Leopard Predator's sharp claws have the power to shatter gold and crack stone.
+狰珠=<size\=14>Predator Beads</size>
+豹狰修炼了五百年的精华凝结成赭黄色的珠，可以看到内部的灵炁流转不息。=Leopard Predator cultivated the essence of five hundred years condensed into ochre-yellow beads, you can see the internal flow of spiritual air endlessly.
+硬蟹壳=<size\=14>Hard Crab Shell</size>
+无法被身体吸收的物质析出在身体的表面，在灵炁的滋养下逐渐形成厚厚的壳。=The substance that cannot be absorbed by the body precipitates on the surface of the body and gradually forms a thick shell under the nourishment of spiritual air.
+硬虾枪=<size\=14>Hard Shrimp Spear</size>
+无法被身体吸收的物质析出在身体的表面，在灵炁的滋养下逐渐形成坚硬的外骨骼。=The substances that cannot be absorbed by the body are precipitated on the surface of the body and gradually form a hard exoskeleton under the nourishment of spiritual air.
+灵龟壳=<size\=14>Spiritual Turtle Shell</size>
+刻画着古朴纹路的龟壳，那是灵炁运转路线的投射。=The tortoise shell carved with ancient patterns, that is the projection of the spiritual air operation route.
+毒蛙腺=<size\=14>Poison Frog Glands</size>
+毒蛙背部上细小的腺体，上面还残留的剧烈的毒性，普通人沾之极死。=Tiny glands on the back of the poisonous frog, the top of the residual intense toxicity, ordinary people dip the extremely dead.
+妖王鳞=<size\=14>Demon King Scale</size>
+妖气蓬勃的蛇鳞，是在雷劫中化龙失败的蛇所褪。=The demonic aura flourishing snake scales are faded by the snake that failed to transform into a dragon in the thunder tribulation.
+妖王血=<size\=14>Demon King Blood</size>
+紫黑色的血液，蕴含了妖王的精华。化龙失败的蛇之王，在怨念与不甘中诅咒天道，污浊的意志纷纷化为头颅与兽足，并发誓永世不求为龙。=The purple-black blood contains the essence of the demon king. The king of snakes, who failed to turn into a dragon, cursed the heavenly dao in resentment and resignation, tainted his will to turn into his head and beast feet one after another, and vowed never to seek to be a dragon in eternity.
+灵狐毫=<size\=14>Ling Fox Milli</size>
+蕴含灵炁的狐毫，轻若无物。=The fox's hair, which contains spiritual air, is as light as nothing.
+灵狐怨念=<size\=14>Spiritual Fox Grudge</size>
+狐族死前怨念所化的黑色雾絮，心志不坚者触之会陷入疯狂。=The foxes' grievances turned into black fog before they died, and those who are not strong-minded will fall into madness when they touch it.
+灵狐心=<size\=14>Ling Fox Heart</size>
+获得气运青睐的灵狐因此获得了玲珑心，早早地踏上了修炼之道。=The spirit fox who gained the favor of qi luck thus obtained the lingering heart and set out on the path of cultivation early.
+九尾狐眼眸=<size\=14>Nine-tailed Fox Eyes</size>
+通透无暇的灵狐眸，如同宝石一般美丽。=The translucent and flawless spirit fox eyes are as beautiful as a gemstone.
+古妖精魂=<size\=14>Ancient Demon Spirit</size>
+古妖一族的精魂，令人诧异的是其既感受不到生前的情绪，又无法发现死者的记忆，只有一些纯粹的灵炁按照特定的规则运行。=The essence of the ancient demon clan, surprisingly its neither feel the emotions of the living, nor can discover the memories of the dead, only some pure spiritual air according to specific rules.
+古妖怨念=<size\=14>Ancient Demon Resentment</size>
+明黄色的灵炁碎片上环绕这强烈而浓郁的黑色怨念，似乎永远不会消散。=The bright yellow spiritual air fragments surrounded by this strong and dense black resentment, seems to never dissipate.
+古妖核=<size\=14>Ancient Demon Core</size>
+古妖一族的内丹，上面布满玄奥的纹路，在岁月的风化下，逐渐与周围的物质结合，凝结成妖核，靠近时仿佛能听到阵阵的呼喊声。=The inner pellet of the ancient demon clan, covered with arcane patterns, gradually combines with the surrounding matter under the weathering of the years and condenses into a demon nucleus, as if one can hear a guttural cry when approaching.
+鬼鲼软骨=<size\=14>Ghost Ray Cartilage</size>
+鬼蝠鲼的软骨，支撑起整个身体，亦是灵炁流转的通道。=The cartilage of the ghost manta ray supports the whole body and is also a channel for the flow of spiritual air.
+鬼鲼鳍=<size\=14>Ghost Ray Fins</size>
+鬼蝠鲼的软骨，起到平衡身体的作用。=The fins of the ghost manta serves to balance the body.
+灵囊=<size\=14>Spiritual Sac</size>
+妖水母储存灵炁的地方，当遇到危险时会喷出灵炁流逃跑。=The place where the demon jellyfish stores spiritual air, and when in danger will spew out a stream of spiritual air to escape.
+巴蛇毒液=<size\=14>Clinging Venom</size>
+至阴至邪的大蛇毒液，据说只需一小滴便能融化一头大象。=The most yin and evil serpent venom is said to be able to melt an elephant with just a small drop.
+蛇王牙=<size\=14>King Snake Tooth</size>
+无法抵抗天命的化龙者们最终都选择了静默，并选择了各自的进化方式。=Unable to resist the Mandate of Heaven, the dragon transformers eventually chose to be silent and chose their own way of evolution.
+颙鸟羽=<size\=14>Grand Bird Feather</size>
+颙鸟的尾羽，传说是带来干旱的不祥之物。=The tail feathers of the majestic bird are said to be inauspicious for bringing drought.
+颙鸟冠=<size\=14>Grand Bird Crown</size>
+颙鸟的隐冠，亦是其储存灵炁的器官，平时被覆盖的羽毛很好地隐藏了起来。=The majestic bird's hidden crown, which is also its organ for storing spiritual air, is usually well hidden by the covered feathers.
+狡豹牙=<size\=14>Cunning leopard Teeth</size>
+据说是豹狰近亲的狡豹，锋利的牙齿是不少修士炼制法宝的选择。=It is said to be a cunning leopard that is a close relative of the Leopard Predator, and its sharp teeth are the choice of many cultivators for refining magic treasures.
+狡豹角=<size\=14>Cunning Leopard Horn</size>
+据说是豹狰近亲的狡豹，坚硬的角能将敌人开膛破肚。=It is said to be a cunning leopard that is a close relative of the leopard Predator, and its hard horns are capable of disemboweling the enemy.
+帝江之羽=<size\=14>Feather of the Imperial River</size>
+曾是被枭首的瑞兽，断头后死而不僵，从伤口处长出满是羽毛的“伪首”，每一根羽毛皆是纯粹灵炁。=It was once a beast whose head was cut off, but after it died, a "pseudo-head" full of feathers grew out of the wound, each feather is pure spiritual air.
+帝江之音=<size\=14>Voice of the Imperial River</size>
+失去头颅后强烈的求生意志所显化的能量，包含着帝江的记忆，据说能凭借此物通过特殊方法看到过去的景象。=The energy manifested by the strong will to live after the loss of the head contains the memory of Di Jiang, and it is said to be able to see the past through special methods with this object.
+类兽发=<size\=14>Beast-Like Hair</size>
+如同人发一般的发须，握在手中能够平复人的情绪。=The hair is like human hair, and when held in the hand, it can calm people's emotions.
+类兽髓=<size\=14>Beast-Like Marrow</size>
+曾被古代先民用来炼制“使人不会产生妒忌之心的秘药”的材料，如墨一般漆黑，呈碎渣模样。=The material that was used by the ancient ancestors to make "a secret medicine to prevent jealousy" is as black as ink and has the appearance of crumbs.
+犰狳幼爪=<size\=14>Young Armadillo Claw</size>
+犰狳用来挖地的爪子，上面附着其特有的灵力，使得挖地变得轻松。=The claws used by armadillos to dig the ground have their unique spiritual power attached to them, making digging easy.
+犰狳精血=<size\=14>Armadillo Blood Essence</size>
+碧绿的精血，蕴含浓郁的土灵力。=The turquoise essence blood contains dense earth spiritual power.
+纯粹灵炁=<size\=14>Pure Spiritual Air</size>
+纯粹形式的灵炁，诞生于心灵高洁的生物的体内。=The pure form of spiritual air is born in the body of a creature of high spirituality.
+影珠=<size\=14>Shadow Pearl</size>
+古代先民牺牲所有，梦想着炼制出纯粹灵炁，最后得到的却是虚无中诞生的物品。=Ancient ancestors sacrificed everything and dreamed of refining pure spiritual air, but what they ended up with was an item born out of nothingness.
+普通妖魂=<size\=14>Ordinary Demon Soul</size>
+普通妖怪的其中一缕魂魄，虽然微弱，但是亦有妙用。=One of the wisps of the soul of an ordinary demon, although weak, but also has a wonderful use.
+血蝠妖魂=<size\=14>Blood Bat Demon Soul</size>
+血蝠的其中一缕魂魄，虽然微弱，但是亦有妙用。=One of the strands of the blood bat's soul, although weak, also has a wonderful use.
+百炼精血=<size\=14>Hundred Refined Essence Blood</size>
+血蝠收集炼化的百种生灵之血，据说有延缓衰老的功效。=The blood of a hundred kinds of living creatures collected and refined by the blood bats is said to have the effect of slowing down the aging process.
+蛊雕利爪=<size\=14>Insanity Carving Talons</size>
+蛊雕之爪，让无数修士胆寒。=The claws of the compelling eagle have chilled countless cultivators.
+夺魂喙=<size\=14>Soul-Snatching Beak</size>
+洪荒时期为祸的食人恶兽蛊雕修炼的喙，上面凝聚着伤人魂魄的恶煞。=Flood period for the scourge of man-eating vicious beast compulsion eagle cultivated beak, above the cohesion of the evil fury that hurts the soul.
+精灵碎片=<size\=14>Fairy Fragments</size>
+灵炁所化的精灵的碎片，它们从大道中诞生，却再也无法回归大道。=Fragments of spirits made of spiritual air, which are born from the Great Way but can never return to it.
+独脚鸟羽=<size\=14>One-Legged Bird Feather</size>
+以双脚速度之快而得名的飞鸟因帮助囚犯越狱，故而被神皇降下神罚，削去一足，从此世代背负着【背叛者】的称号。=To the speed of the feet and the name of the bird to help prisoners escape from prison, so the God Emperor sent down a divine punishment, cut off a foot, from then on for generations to carry the title of [betrayer].
+独脚鸟冠=<size\=14>One-Legged Bird Crown</size>
+以双脚速度之快而得名的飞鸟因帮助囚犯越狱，故而被神皇降下神罚，削去一足，从此世代背负着【背叛者】的称号。=To the speed of the feet and the name of the bird to help prisoners escape from prison, so the God Emperor sent down a divine punishment, cut off a foot, from then on for generations to carry the title of [betrayer].
+夔牛皮=<size\=14>Mythical Bull Skin</size>
+流波之山有异兽状如牛，苍身而无角，一足，出入水则必有风雨，其光如日月，其声如雷，其名曰夔。=Flowing waves of the mountain has a foreign beast like a cow, pale body and no horns, a foot, in and out of the water will have the wind and rain, its light like the sun and moon, its sound like thunder, its name is Kui.
+夔牛角=<size\=14>Mythical Bull Horn</size>
+流波之山有异兽状如牛，苍身而无角，一足，出入水则必有风雨，其光如日月，其声如雷，其名曰夔。=Flowing waves of the mountain has a foreign beast like a cow, pale body and no horns, a foot, in and out of the water will have the wind and rain, its light like the sun and moon, its sound like thunder, its name is Kui.
+辟水兽鳞片=<size\=14>Water-Repelling Beast Scales</size>
+辟水兽的鳞片，服下可以短暂获得水下呼吸的能力。=The scales of the water repelling beast can be taken to gain the ability to breathe underwater for a short time.
+辟水兽精华=<size\=14>Water-Repelling Beast Essence</size>
+辟水兽的精华，许多秘药的药引，可惜许多配方都已失传。=The essence of the water repelling beast, the medicinal guide for many secret medicines, unfortunately many Recipes have been lost.
 
 # These are the pill formations found on Item.xlsx Page #5 
 品质=Quality
