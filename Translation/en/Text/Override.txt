@@ -1577,3 +1577,16 @@ EA开放=EA Open
 {所在区域}上古遗迹进阶奖励={Location} Ancient Ruins High Reward
 {所在区域}杂物房={Location} Miscellaneous Room
 
+
+## Spell and Inner Arts
+#Fire by YiZhuYe
+丙火咒法=<size\=12>Heavenly Fire Incantations</size>
+火杀咒法=<size\=12>Killing Fire Incantations</size>
+丙焱咒法=<size\=12>Heavenly Blaze Incantations</size>
+烈阳咒法=<size\=12>Virtuous Sun Incantations</size>
+劫火焚诀=<size\=12>Hellfire Immolation Art</size>
+三明离火术=<size\=12>SanMing Flame Technique</size>
+业火焚焱诀=<size\=12>Karmic Inferno Art</size>
+归虚神火诀=<size\=12>Returning Void Divine Fire Skill</size>
+三昧真火咒法=<size\=12>Samadhi True Fire Incantation</size>
+九幽焱诀=<size\=12>Nine Nether Blaze Art</size>
