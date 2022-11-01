@@ -43,6 +43,9 @@ sr:"^悟性大于([+-\=]?[\d\.]+%?)$"=Minimum Perception $1
 
 sr:"^([\p{L}]{1})之精气$"=<size\=12>$1 Essence</size>
 sr:"^([\p{L}]{1})之精粹$"=<size\=14>Pure $1 Essence</size>
+sr:"^([\p{L}]{1})之结晶$"=<size\=14>$1 Crystal</size>
+sr:"^([\p{L}]{1})行本源$"=<size\=14>$1 Origin</size>
+
 
 ###Blueprints, this may potentially break unfortunately
 
