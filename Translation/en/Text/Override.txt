@@ -561,7 +561,114 @@ EA开放=EA Open
 当前气运=<size\=13>Current Luck</size>
 升级门派=<size\=20>Upgrade Sect</size>
 消耗气运=<size\=13>Luck Consumption</size>
-
+远程易物=Remote Bartering
+二级门派=2nd Level Sect
+扩建门派，门派人数上限+3，可邀请客卿数+1=Expand the sect, the maximum number of sect members +3, the number of invited guests +1
+提升门派等级到二级 、提升门派最大弟子数量至12人 、提升门派最大客卿数量至2人 =<size\=14>Raise the sect level to level 2, raise the maximum number of disciples to 12, raise the maximum number of guests to 2 </size>
+三级门派=3rd Level Sect
+提升门派等级到三级 、提升门派最大弟子数量至15人 、提升门派最大客卿数量至3人 =<size\=14>Raise the sect level to 3, raise the maximum number of disciples to 15, raise the maximum number of guests to 3 </size>
+四级门派=4th Level Sect
+提升门派等级到四级 、提升门派最大弟子数量至18人 、提升门派最大客卿数量至4人 =<size\=14>Raise the sect level to level 4, raise the maximum number of disciples to 18, raise the maximum number of guests to 4 </size>
+需要2600点气运=It takes 2600 luck points.
+五级门派=5th Level Sect
+提升门派等级到五级 、提升门派最大弟子数量至21人 、提升门派最大客卿数量至5人 =<size\=14>Raise the sect level to 5, raise the maximum number of disciples to 21, raise the maximum number of guests to 5 </size>
+前置节点未解锁\n门派等级不足，需要达到4级\n需要3800点气运=Predecessor node unlocked sect level is not enough, need to reach level 4 need 3800 luck points
+六级门派=6th Level Sect
+提升门派等级到六级 、提升门派最大弟子数量至24人 、提升门派最大客卿数量至6人 =<size\=14>Raise the sect level to level 6, raise the maximum number of disciples to 24, raise the maximum number of guests to 6 </size>
+前置节点未解锁\n门派等级不足，需要达到5级\n需要5000点气运=Predecessor node unlocked sect level is not enough, need to reach level 5 need 5000 luck points
+七级门派=7th Level Sect
+提升门派等级到七级 、提升门派最大弟子数量至27人 、提升门派最大客卿数量至7人 =<size\=14>Raise the sect level to 7, raise the maximum number of disciples to 27, raise the maximum number of guests to 7 </size>
+前置节点未解锁\n门派等级不足，需要达到6级\n需要6200点气运=Predecessor node unlocked sect level is not enough, need to reach level 6 need 6200 luck points
+八级门派=8th Level Sect
+提升门派等级到八级 、提升门派最大弟子数量至30人 、提升门派最大客卿数量至8人 =<size\=14>Raise the sect level to 8, raise the maximum number of disciples to 30, raise the maximum number of guests to 8 </size>
+前置节点未解锁\n门派等级不足，需要达到7级\n需要7400点气运=Predecessor node unlocked sect level is not enough, need to reach level 7 need 7400 luck points
+增设丹炉=Adding Dan Furnace
+增设丹炉·壹=<size\=20>Adding Dan Furnace - I</size>
+增设丹炉·贰=<size\=20>Adding Dan Furnace - II</size>
+增设丹炉·叁=<size\=20>Adding Dan Furnace - III</size>
+凡阶阵势=<size\=16>Ordinary Order Formation</size>
+黄阶阵势=<size\=16>Skilled Order Formation</size>
+玄阶阵势=<size\=16>Mysterious Order Formation</size>
+地阶阵势=<size\=16>Ground Order Formation</size>
+天阶阵势=<size\=16>Heavenly Order Formation</size>
+增设炼器池=Adding Refining Pool
+增设炼器池·壹=<size\=20>Adding Refining Pool - I</size>
+增设炼器池·贰=<size\=20>Adding Refining Pool - II</size>
+增设炼器池·叁=<size\=20>Adding Refining Pool - III</size>
+前置节点未解锁\n门派等级不足，需要达到6级\n需要1000点气运=Predecessor node unlocked sect level is not enough, need to reach level 6 need 1000 luck points
+开垦新地·壹=<size\=18>Reclaiming New Land - I</size>
+开垦新地·贰=<size\=18>Reclaiming New Land - II</size>
+开垦新地·叁=<size\=18>Reclaiming New Land - III</size>
+开垦新地·肆=<size\=18>Reclaiming New Land - IV</size>
+开垦新地·伍=<size\=18>Reclaiming New Land - V</size>
+开垦新地·陆=<size\=18>Reclaiming New Land - VI</size>
+前置节点未解锁\n门派等级不足，需要达到8级\n需要2000点气运=Predecessor node unlocked sect level is not enough, need to reach level 8 need 2000 luck points
+增设阅书位·壹=<size\=16>Additional Book Reading Spot - I</size>
+增设阅书位·贰=<size\=16>Additional Book Reading Spot - II</size>
+增设阅书位·叁=<size\=16>Additional Book Reading Spot - III</size>
+需要1000点气运=Requires 1,000 luck points
+藏经阁正中的开悟宝塔将使阅书的弟子悟性+5=The enlightenment pagoda in the middle of the scripture pavilion will give the disciple reading the book +5 perception
+提供额外悟性+5 =Provides an additional +5 to Perception 
+开悟宝塔·壹=Enlightenment Pagoda - I
+开悟宝塔·贰=Enlightenment Pagoda - II
+前置节点未解锁\n需要300点气运=Predecessor node not unlocked\nRequires 300 Qi points
+开悟宝塔·叁=Enlightenment Pagoda - III
+前置节点未解锁\n门派等级不足，需要达到4级\n需要400点气运=Predecessor node unlocked sect level is not enough, need to reach level 4 need 400 luck points
+开悟宝塔·肆=Enlightenment Pagoda - IV
+前置节点未解锁\n门派等级不足，需要达到5级\n需要500点气运=Predecessor node unlocked sect level is not enough, need to reach level 5 need 500 points of luck points
+开悟宝塔·伍=Enlightenment Pagoda - V
+前置节点未解锁\n门派等级不足，需要达到6级\n需要600点气运=Predecessor node unlocked sect level is not enough, need to reach level 6 need 600 luck points
+开悟宝塔·陆=Enlightenment Pagoda - VI
+前置节点未解锁\n门派等级不足，需要达到7级\n需要700点气运=Predecessor node unlocked sect level is not enough, need to reach level 7 need 700 luck points
+开悟宝塔·柒=Enlightenment Pagoda - VII
+前置节点未解锁\n门派等级不足，需要达到8级\n需要800点气运=Predecessor node unlocked sect level is not enough, need to reach level 8 need 800 luck points
+开悟宝塔·捌=Enlightenment Pagoda - VII
+为道场进行扩建，可额外容纳3个弟子同时修炼=Expansion of the dojo to accommodate 3 additional disciples to train at the same time
+增设修炼位·壹=<size\=14>Adding Cultivation \n Spot - I</size>
+修道位置增加至9个 =Practice locations increased to 9 
+增设修炼位·贰=Adding Cultivation \n Spot - II
+修道位置增加至12个 =Practice locations increased to 12 
+增设修炼位·叁=Adding Cultivation \n Spot - III
+修道位置增加至15个 =Practice locations increased to 15 
+聚集灵炁·壹=<size\=14>Gathering of Qi - I</size>
+道场灵力总值上限增加+6000 =Dojo spirit power total cap increased by +6000 
+使道场灵炁更加充沛，灵气上限+6000=Enables the dojo to be more enriched with aura, +6000 aura limit
+聚集灵炁·贰=<size\=14>Gathering of Qi - II</size>
+道场灵力总值上限增加+7000 =Dojo spirit power total cap increased by +7000 
+使道场灵炁更加浓郁，灵气上限+7000=Make dojo aura more dense, aura limit +7000
+聚集灵炁·叁=<size\=14>Gathering of Qi - III</size>
+前置节点未解锁\n需要500点气运=Predecessor node not unlocked\nRequires 500 luck points
+使道场灵炁更加富集，灵气上限+7000=Enriches dojo aura with +7000 aura cap
+聚集灵炁·肆=<size\=14>Gathering of Qi - IV</size>
+前置节点未解锁\n门派等级不足，需要达到4级\n需要1000点气运=Predecessor node unlocked sect level is not enough, need to reach level 4 need 1000 luck points
+道场灵力总值上限增加+10000 =Dojo spirit power total cap increased by +10000 
+使道场灵炁更加充沛，灵气上限+1万=Enables the dojo to be more enriched with aura, +10,000 aura limit
+聚集灵炁·伍=<size\=14>Gathering of Qi - V</size>
+前置节点未解锁\n门派等级不足，需要达到5级\n需要2000点气运=Predecessor node unlocked sect level is not enough, need to reach level 5 need 2000 luck points
+使道场灵炁更加浓郁，灵气上限+1万=Make dojo aura more dense, +10,000 aura limit
+聚集灵炁·陆=<size\=14>Gathering of Qi - VI</size>
+前置节点未解锁\n门派等级不足，需要达到6级\n需要4000点气运=Predecessor node unlocked sect level is not enough, need to reach level 6 need 4000 points of luck points
+使道场灵炁更加富集，灵气上限+1万=Enriches dojo aura with +10,000 aura cap
+聚集灵炁·柒=<size\=14>Gathering of Qi - VII</size>
+前置节点未解锁\n门派等级不足，需要达到7级\n需要8000点气运=Predecessor node unlocked sect level is not enough, need to reach level 7 need 8000 points of luck points
+道场灵力总值上限增加+15000 =Increase in total dojo spirit power cap by +15000 
+使道场灵炁更加富集，灵气上限+1.5万=Enriches dojo aura with +15k aura cap
+聚集灵炁·捌=<size\=14>Gathering of Qi - VIII</size>
+前置节点未解锁\n门派等级不足，需要达到8级\n需要16000点气运=Pre-node unlocked sect level is not enough, need to reach level 8 need 16000 luck points
+转化灵炁·壹=<size\=14>Qi \n Transformation - I</size>
+使弟子在道场修炼时能借用更多的场外灵气，节点灵气转化率+10%=Enables disciples to borrow more off-site aura when cultivating in the dojo, +10% to node aura conversion rate
+需要500点气运=Need 500 points of luck.
+节点灵气转化率增加+10 % =Nodal aura conversion rate increased by +10 % 
+转化灵炁·贰=<size\=14>Qi \n Transformation - II</size>
+前置节点未解锁\n需要1000点气运=Predecessor node not unlocked\nRequires 1000 luck points
+转化灵炁·叁=<size\=14>Qi \n Transformation - III</size>
+前置节点未解锁\n需要2000点气运=Predecessor node not unlocked\nRequires 2000 luck points
+灵炁活化·壹=<size\=16>Qi Activation - I</size>
+灵炁活化·贰=<size\=16>Qi Activation - II</size>
+前置节点未解锁\n门派等级不足，需要达到5级\n=Predecessor node unlocked sect level, need to reach sect level 5\n
+灵炁活化·叁=<size\=16>Qi Activation - III</size>
+道场灵气新生率增加+1 % =Dojo aura rejuvenation rate increased by +1 % 
+使道场灵炁更加活跃，灵气新生率+1%=Makes the dojo aura more active, +1% new aura rate
 长老管理=Elder Management
 任命管理门派长老职位=Appoint Elders
 候选弟子(筑基期以上)(0)=Disciple Candidates (foundation or better) (0)
