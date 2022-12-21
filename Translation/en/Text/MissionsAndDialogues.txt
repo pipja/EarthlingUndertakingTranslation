@@ -14,24 +14,24 @@
 跳过新手教学= Skip Tutorial
 师、掌门师尊，不好啦……=<size\=20>Master</size>, <size\=20>Master</size>, Master, there is bad news...
 何事如此慌张？！=Why are you flustered?!
-山门外来了一个满嘴胡话的疯老头想要见掌门师尊，怎么赶都赶不走……=Outside the mountain gate, there's a Crazy Old Man who wants to see Master. We were going to turn them away...
-清风师兄上前驱赶，可此人身法诡异无比，每次都只能堪堪摸到对方的衣角……还，还狠狠地摔了一跤。=<size\=18>Senior Brother Qingfeng stepped forward to turn him away, but this person was very strange. Senior Brother could only touch the corners of the other party's clothes every time... and was defeated severely.</size>
-竟有此事？且让出去会会他。=How could this happen? Let's go out and meet him.
+山门外来了一个满嘴胡话的疯老头想要见掌门师尊，怎么赶都赶不走……=Outside the main gate, there's a Crazy Old Man who wants to see you Master. Nothing we did would get him to leave...
+清风师兄上前驱赶，可此人身法诡异无比，每次都只能堪堪摸到对方的衣角……还，还狠狠地摔了一跤。=<size\=18>Senior Brother Qingfeng stepped forward to turn him away, but this old man made some strange hand gestures. Senior Brother would only touch the corners of his clothes before he tumbled down to the floor ... everytime.</size>
+竟有此事？且让出去会会他。=How could this happened? Let's go out and meet him.
 疯老头=Crazy Old Man
 嘿、嘿嘿嘿……嘿嘿。=He, he, he, he ... he, he.
-<color\=#B21717>（大笑）</color>哈哈哈，你是五？还是六？！=<size\=20><color\=#B21717>(Laughing loudly)</color></size><size\=30>Hahaha</size>, are you five?\nOr six?
+<color\=#B21717>（大笑）</color>哈哈哈，你是五？还是六？！=<size\=20><color\=#B21717>(Laughing loudly)</color></size><size\=30>Hahaha</size>, are you the fifth?\nOr the sixth?
 这位前辈是不是在山中迷路？我可命门下弟子送前辈下山。=Did this senior get lost in the mountains? I can order my disciples to guide senior down the mountain.
-「天星叩门；星沉月动；无量量劫；无一生还」="<color\=#FFFFFF>The star in the sky knocks at the door; the star sinks and the moon moves; no one survives for an infinite number of years</color>"
+「天星叩门；星沉月动；无量量劫；无一生还」="<color\=#FFFFFF>The star in the sky knocks at the door; the star sinks and the moon moves; none can survive the coming calamity.</color>"
 ##!? text
-<color\=#B21717>（大哭）</color>天地寂灭，万物归虚……玉、玉佩！呜……呜呜。=<size\=20><color\=#B21717>(Crying loudly)</color></size>The heavens and the earth are silent, all things return ... Jade, Jade Pendant!\n<size\=18>Boohoo ... Boohoo</size>.
+<color\=#B21717>（大哭）</color>天地寂灭，万物归虚……玉、玉佩！呜……呜呜。=<size\=20><color\=#B21717>(Crying loudly)</color></size>The heavens and earth fall silent, all things return to the void... Jade, Jade Pendant!\n<size\=18>Boohoo ... Boohoo</size>.
 老者伸出微微颤抖的手，指向你腰际的玉佩——=The old man extends a slightly trembling hand and points to the Jade pendant at your waist -
 前辈认得这玉佩？！=Senior recognizes this Jade pendant?
-<color\=#B21717>（大笑）</color>离开……寻找……你我都不过是棋子罢了！哈哈哈哈……=<size\=20><color\=#B21717>(Laughing loudly)</color></size>Leave ... Seek ... You and I are just a chess pieces!\n<size\=30>Hahahaha...</size>
-（疯老头在嬉笑之间化作一缕青烟消失不见，一张泛黄的纸飘入你的手中……）=(The Crazy Old Man disappears into a wisp of smoke between laughs, a yellowed paper floats into your hands ...)
-<color\=#B21717>（惊讶）</color>好高深的遁法……咦？这纸上所绘的图案似乎在哪里见过。=<size\=20><color\=#B21717>(Amazed)</color></size>What a profund movement technique ... eh?\nThe pattern drawn on this paper, I seem to have been seen before.
-此人虽行事疯癫、言辞不清，但他似乎认得师傅的玉佩？且他所说的「天星叩门」也令人在意……=<size\=20>Although this person acts crazy, slurred speech, he seems to recognize Master's Jade pendant? And what he said "<color\=#FFFFFF>The heavenly star knocking at the door</color>" is also interesting ...</size>
-那是在云梦大地上从未见过的星夜奇象，而且它就发生在昨天夜里，这真是吉凶难测啊……=That is in the <color\=#9F2B68>cloud dream</color> region never seen the star night strange phenomenon, and it happened just last night, this is really lucky and unpredictable ah ...
-唔，看来有必要下山去寻找一下线索，先去南边的柴桑村看看吧。=Well, it seems necessary to go down the mountain to look for clues; First, to the south the village of <color\=#088F8F>Chaisang</color> to see it.
+<color\=#B21717>（大笑）</color>离开……寻找……你我都不过是棋子罢了！哈哈哈哈……=<size\=20><color\=#B21717>(Laughing loudly)</color></size>Leave ... Seek ... You and I are just chess pieces!\n<size\=30>Hahahaha...</size>
+（疯老头在嬉笑之间化作一缕青烟消失不见，一张泛黄的纸飘入你的手中……）=(The Crazy Old Man disappears into a wisp of smoke between laughs, a yellow paper floats into your hands ...)
+<color\=#B21717>（惊讶）</color>好高深的遁法……咦？这纸上所绘的图案似乎在哪里见过。=<size\=20><color\=#B21717>(Amazed)</color></size>What a profound movement technique ... eh?\nThe pattern drawn on this paper, I seem to have seen it before.
+此人虽行事疯癫、言辞不清，但他似乎认得师傅的玉佩？且他所说的「天星叩门」也令人在意……=<size\=20>Although the mad acted crazy, and his words were unclear, he seemed to recognize Master's Jade pendant? And what he said "<color\=#FFFFFF>The heavenly star knocking at the door</color>" is also interesting ...</size>
+那是在云梦大地上从未见过的星夜奇象，而且它就发生在昨天夜里，这真是吉凶难测啊……=That phenomenon occured in the <color\=#9F2B68>cloud dream</color> region, and it happened just last night, is this a good or bad sign? ah ...
+唔，看来有必要下山去寻找一下线索，先去南边的柴桑村看看吧。=Well, it seems necessary to go down the mountain to look for clues; First i'll head, to the south, the village of <color\=#088F8F>Chaisang</color> should be worth looking over.
 
 ####Intro Quest - Mission
 天星叩门\r\n前往「柴桑村」\r\n\r\n=The Star of Heaven Knocks\n<size\=20> ⋅ Go to "<color\=#023020>Chai Sang Village</color>"</size>\r\n\r\n
