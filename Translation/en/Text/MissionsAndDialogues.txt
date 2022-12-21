@@ -6,9 +6,9 @@
 呼……呼呼……呼……=<size\=16>Inhale ... Exhale ... Inhale ... Exhale ... </size> ZZZ
 <color\=#B21717>（惊醒）</color>师傅！！=<color\=#B21717>(Wakes up)</color> <size\=30>Master!!</size>
 什……什么？！我这是，刚才我不是正在入定中吗？我睡着了？=What ... what?! I was, wasn't I just in the middle of meditation? Did I fall asleep?
-（你从睡梦中悠悠醒转过来，右手下意识抚上了案上的古玉，这是你师傅的遗物，上面布满古朴的花纹和淡淡的“红印”。）=<size\=20>(Waking up from your sleep, your right hand subconsciously touched the Ancient Jade on the nightstand. Your Master's relic with ancient patterns and a faint "<color\=#B21717>Red Seal</color>")</size>
-原来只是梦吗……哎，师傅，您老人家究竟去哪了……我这些年可是有好好遵从您的嘱托，隐世修炼，不沾凡尘因果……=<size\=20>So it was only a dream? ... Hey, Master, Old man, where'd you go ... I have followed your instructions well over the years, secluded cultivation, no involvement with mortal karma...</size>
-但这么多年修为始终原地踏步……为何会如此，难道我……理解错了您所说的「出世之道」……=<size\=20>But for so many years the cultivation has always remained stagnant ... Why is this so, did I ... misunderstand what you said about "<color\=#FFFFFF>The Way Out</color>" ...</size>
+（你从睡梦中悠悠醒转过来，右手下意识抚上了案上的古玉，这是你师傅的遗物，上面布满古朴的花纹和淡淡的“红印”。）=<size\=20>(Waking up from your sleep, your right hand subconsciously touched the Ancient Jade on the nightstand. The only thing your Master left behind, adorned with simple designs and a faint "<color\=#B21717>Red Seal</color>")</size>
+原来只是梦吗……哎，师傅，您老人家究竟去哪了……我这些年可是有好好遵从您的嘱托，隐世修炼，不沾凡尘因果……=<size\=20>So it was only a dream? ... Hey, Master, Old man, where'd you go ... I have followed your instructions to the best of my abilities over the years, cultivating in seclusion, having no involvement with mortal affairs...</size>
+但这么多年修为始终原地踏步……为何会如此，难道我……理解错了您所说的「出世之道」……=<size\=20>But why is it after so many years my cultivation still hasn't made any headway ... I just don't understand, did I ... fail to grasp what you meant about "<color\=#FFFFFF>Withdrawing from the World</color>" ...</size>
 <color\=#B21717>（摇头）</color>罢了，多想无益。=<size\=20><color\=#B21717>(Shakes head)</color></size>It's useless to think more about it.
 进入新手教学= Go through Tutorial
 跳过新手教学= Skip Tutorial
