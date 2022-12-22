@@ -15,7 +15,7 @@
 师、掌门师尊，不好啦……=<size\=20>Master</size>, <size\=20>Master</size>, Master, there is bad news...
 何事如此慌张？！=Why are you flustered?!
 山门外来了一个满嘴胡话的疯老头想要见掌门师尊，怎么赶都赶不走……=Outside the main gate, there's a Crazy Old Man who wants to see you Master. Nothing we did would get him to leave...
-清风师兄上前驱赶，可此人身法诡异无比，每次都只能堪堪摸到对方的衣角……还，还狠狠地摔了一跤。=<size\=18>Senior Brother Qingfeng stepped forward to turn him away, but this old man made some strange hand gestures. Senior Brother would only touch the corners of his clothes before he tumbled down to the floor ... everytime.</size>
+清风师兄上前驱赶，可此人身法诡异无比，每次都只能堪堪摸到对方的衣角……还，还狠狠地摔了一跤。=<size\=18>Senior Brother Qingfeng stepped forward to turn him away, but the old man made some strange hand gestures and Senior Brother could touch the hem of his sleeves before he tumbled down to the ground ... everytime.</size>
 竟有此事？且让出去会会他。=How could this happened? Let's go out and meet him.
 疯老头=Crazy Old Man
 嘿、嘿嘿嘿……嘿嘿。=He, he, he, he ... he, he.
@@ -26,12 +26,12 @@
 <color\=#B21717>（大哭）</color>天地寂灭，万物归虚……玉、玉佩！呜……呜呜。=<size\=20><color\=#B21717>(Crying loudly)</color></size>The heavens and earth fall silent, all things return to the void... Jade, Jade Pendant!\n<size\=18>Boohoo ... Boohoo</size>.
 老者伸出微微颤抖的手，指向你腰际的玉佩——=The old man extends a slightly trembling hand and points to the Jade pendant at your waist -
 前辈认得这玉佩？！=Senior recognizes this Jade pendant?
-<color\=#B21717>（大笑）</color>离开……寻找……你我都不过是棋子罢了！哈哈哈哈……=<size\=20><color\=#B21717>(Laughing loudly)</color></size>Leave ... Seek ... You and I are just chess pieces!\n<size\=30>Hahahaha...</size>
+<color\=#B21717>（大笑）</color>离开……寻找……你我都不过是棋子罢了！哈哈哈哈……=<size\=20><color\=#B21717>(Laughing loudly)</color></size>Leave ... Seek ... You and I are but  chess pieces!\n<size\=30>Hahahaha...</size>
 （疯老头在嬉笑之间化作一缕青烟消失不见，一张泛黄的纸飘入你的手中……）=(The Crazy Old Man disappears into a wisp of smoke between laughs, a yellow paper floats into your hands ...)
 <color\=#B21717>（惊讶）</color>好高深的遁法……咦？这纸上所绘的图案似乎在哪里见过。=<size\=20><color\=#B21717>(Amazed)</color></size>What a profound movement technique ... eh?\nThe pattern drawn on this paper, I seem to have seen it before.
-此人虽行事疯癫、言辞不清，但他似乎认得师傅的玉佩？且他所说的「天星叩门」也令人在意……=<size\=20>Although the mad acted crazy, and his words were unclear, he seemed to recognize Master's Jade pendant? And what he said "<color\=#FFFFFF>The heavenly star knocking at the door</color>" is also interesting ...</size>
-那是在云梦大地上从未见过的星夜奇象，而且它就发生在昨天夜里，这真是吉凶难测啊……=That phenomenon occured in the <color\=#9F2B68>cloud dream</color> region, and it happened just last night, is this a good or bad sign? ah ...
-唔，看来有必要下山去寻找一下线索，先去南边的柴桑村看看吧。=Well, it seems necessary to go down the mountain to look for clues; First i'll head, to the south, the village of <color\=#088F8F>Chaisang</color> should be worth looking over.
+此人虽行事疯癫、言辞不清，但他似乎认得师傅的玉佩？且他所说的「天星叩门」也令人在意……=<size\=20>Although the man acted crazy, and his words were unclear, he seemed to recognize Master's Jade pendant? And what he said "<color\=#FFFFFF>The heavenly star knocking at the door</color>" is also interesting ...</size>
+那是在云梦大地上从未见过的星夜奇象，而且它就发生在昨天夜里，这真是吉凶难测啊……=That supposedly never before seen phenomenon occured in the <color\=#9F2B68>Yunmeng</color> region, and it happened just last night, is this a good or bad sign? ah ...
+唔，看来有必要下山去寻找一下线索，先去南边的柴桑村看看吧。=Well, it seems necessary to go down the mountain to look for clues; First i'll head, to the south, the village of <color\=#088F8F>Chaisang</color> should be worth inspecting.
 
 ####Intro Quest - Mission
 天星叩门\r\n前往「柴桑村」\r\n\r\n=The Star of Heaven Knocks\n<size\=20> ⋅ Go to "<color\=#023020>Chai Sang Village</color>"</size>\r\n\r\n
@@ -40,26 +40,26 @@
 
 
 ####The Star of Heaven Knocks - Dialogue
-无赖修士=Rogue Monk
-嘿嘿，小娘子，看你面生，刚出师门历练吧？你跟着哥哥，哥哥保证你这次大获而归！=Hey, little lady, look at you, you've just left your master's training, right? Follow this brother and brother will ensure that you will reap great rewards!
+无赖修士=Rogue Cultivator
+嘿嘿，小娘子，看你面生，刚出师门历练吧？你跟着哥哥，哥哥保证你这次大获而归！=Hey, pretty lady, let me get a good look at you, you've just finished your training, right? Follow this brother and i'll ensure that you'll reap some great rewards!
 神秘女子=<size\=18>Mysterious Woman</size>
-<color\=#B21717>（皱眉）</color>如果你还想要你的手，我奉劝你把手拿回去。=<size\=20><color\=#B21717>(Frowns)</color></size>If you wish to keep your hand, I advise you to remove your hand.
-哟？还是一匹野马？哥哥我就喜欢你这样的！=Oh? Like a wild horse? I like you just like that!
-住手，你们在做什么！=Stop, what are you doing!
-哈？你又是什么人？！敢管我的闲事！知道我谁吗？=Huh? Who are you again? How dare you meddle in my business! Do you know who I am?
+<color\=#B21717>（皱眉）</color>如果你还想要你的手，我奉劝你把手拿回去。=<size\=20><color\=#B21717>(Frowns)</color></size>If you wish to keep your hand, I advise you to remove it.
+哟？还是一匹野马？哥哥我就喜欢你这样的！=Oh? You're like a wild mare aren't you? Well thats just my type!
+住手，你们在做什么！=Enough, what are you doing!
+哈？你又是什么人？！敢管我的闲事！知道我谁吗？=Huh? Who the blazes are you? You've got balls to meddle in my affairs! Do you have any idea know who I am?
 柳一心=Yixin Liu
-我就是“飞天神剑”柳一心！识相的赶紧滚！=I am the "Flying Sword" Liu Yixin! Get lost if you know what's good for you!
-我偏要趟一回这浑水！（论道）=I have to go through this mess! (Discourse)
+我就是“飞天神剑”柳一心！识相的赶紧滚！=I am THE "Flying Sword" Liu Yixin! Get lost if you know what's good for you!
+我偏要趟一回这浑水！（论道）=I have to sort through this mess! (Discourse)
 我确实不该多管闲事。（离开）=I really shouldn't meddle. (Leave)
 ###Discourse Route
-你这次踢到铁板了！=You've kicked the bucket this time!
+你这次踢到铁板了！=You've stepped into a heap of trouble!
 ##A battle
-你年纪轻轻便如此飞扬跋扈，你家师长就应该好好地管教管教你！你家师长何在？！=You are so domineering at such a young age, your teacher should have taught you a lesson! Where is your teacher?
+你年纪轻轻便如此飞扬跋扈，你家师长就应该好好地管教管教你！你家师长何在？！=At such a young age and you're already pushing others around, your teacher should teach you a lesson! Where is your teacher?
 <color\=#B21717>（双眼赤红）</color>你……你，你给我记住了！=<size\=20><color\=#B21717>(Eyes Red)</color></size>You ... you, I will remember you!
 瑶姬=Ji Yao
-我乃瑶姬，刚才谢过道友出手解围，我们有缘再见吧。=I am Yao Ji, just thank you for your help solving this problem, fate will let us meet again.
-女子微微行礼然后化作一道虹光飞向了天边。=The woman saluted slightly then turned into a rainbow light and flew to the sky.
-这个女子倒是面生得很，这个装束在云梦并不常见呢……不过现在还是处理正事要紧。=This woman seems familiar, this attire is not common around Yun Meng ... but it's better to take care of previous business currently.
+我乃瑶姬，刚才谢过道友出手解围，我们有缘再见吧。=I am Yao Ji, i must thank you for helping me out of that predicament, if the fates our kind let us meet again.
+女子微微行礼然后化作一道虹光飞向了天边。=The woman gives you a slight bow then turned into a rainbow colored light and flew into the sky.
+这个女子倒是面生得很，这个装束在云梦并不常见呢……不过现在还是处理正事要紧。=The woman seems familiar, but her attire is not common around Yunmeng ... still it's better to take care of previous business first.
 ##Relation goes Up with Ji Yao
 此处便是柴桑村……我们不妨先找个人打听打听，咦……=This is the village of Chai Sang ... we might as well find someone to ask around first, eh ...
 前面那位似乎也是一名修士，就先问问他吧。=The one in front seems to be a cultivator too, so let's ask him first.
