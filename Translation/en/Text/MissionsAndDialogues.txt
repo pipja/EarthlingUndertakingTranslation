@@ -73,32 +73,32 @@
 这位道友有礼了，我想跟你打听一下有关「天星叩门」的消息……=My respects fellow daoist, I wish to inquire any information regarding "The Star of Heaven Knocks" ...
 「天星叩门」不就是那……什么……哎！道友你想知道「天星叩门」？这可不就巧了！=What? "The Star of Heaven Knocks" ... Isn't that the ... oops! You wish to know about the "Heavenly Star Knocking at the Door"? What a coincidence!
 嘿嘿，实不相瞒，我确实知道一些消息，只不过嘛，这消息我来之不易……=Hehe, I'm not going to lie, I do know some information, but well, this information was not easy to come by ...
-我曾听闻此地东北方的九嶷山谷有一只长牙孽畜叫“金睛兽”，此獠一身都是宝，尤其是它的精血可入药炼丹，乃修炼至宝……=<size\=18>I have heard that there is a long-toothed beast called "Golden-Eyed Beast" in Jiuyi Mountain Valley to the northeast of this place, this beast is a treasure, especially its blood can be used in medicine to make Dans, which is most important for cultivation ...</size>
-如果你能为我寻来金睛兽精血，我就告诉你如何？=If you can acquire the Golden-Eyed Beast blood for me, I will show you how to?
-（金睛兽？！那可是妖兽鉴里记载的妖兽，实力之强横……）=(Golden-Eyed Beast? That is a demonic beast recorded in the demonic beast book, it shows tyrranical strength ...)
+我曾听闻此地东北方的九嶷山谷有一只长牙孽畜叫“金睛兽”，此獠一身都是宝，尤其是它的精血可入药炼丹，乃修炼至宝……=<size\=18>I have heard that there is a long-tusked creature called "Golden-Eyed Beast" in "Jiuyi Valley" located to the northeast of this place, this beast is priceless, especially its blood which can be used to make medicine, which are important for those cultivating ...</size>
+如果你能为我寻来金睛兽精血，我就告诉你如何？=If you can acquire the Golden-Eyed Beast blood for me, I will tell you what i know, how about it?
+（金睛兽？！那可是妖兽鉴里记载的妖兽，实力之强横……）=(Golden-Eyed Beast? That is a monster recorded in the demonic beast book, known for its ferocious might ...)
 到时候还请道友遵守诺言。（接受任务）=When the time comes, please keep your promise. (Accept the mission)
 我可不想白白葬送性命！（离开）=I don't want to die in vain! (Leave)
 ###Accept Mission Route
-呵呵，很自信嘛。不过别怪我没有提醒你，此番起码需要五个修士联手才能将那孽畜拿下。=Oh, very confident. But don't blame me for not reminding you, this time at least five cultivators need to join forces to take down that sinful beast.
-假如以你现在的实力就贸然前去找寻，怕是只会变成那金睛兽的盘中餐。=Looking for it at your current strength rashly, I'm afraid you will only become the Golden-Eyed Beast's next meal.
-（他说得不错，此事得从长计议，我不妨先招收弟子、提升实力，做好万全准备再前往。）=(He is right, this matter has to be considered in the long run, I might as well recruit disciples, improve my strength and make all preperations before going.)
-（正好最近有求道者来我派寻求仙缘，先回门派看一看求道者名单上有没有好苗子。）=<size\=20>(It just so happens that recently there are seekers coming to our sect seeking immortal destiny, so first go back to the sect to see if there are any good seedlings on the list of seekers.)</size>
+呵呵，很自信嘛。不过别怪我没有提醒你，此番起码需要五个修士联手才能将那孽畜拿下。=Oh, confident aren't we. But when things get bad don't say I didn't warn you, you need at least five cultivators to join forces to take down that sinful beast.
+假如以你现在的实力就贸然前去找寻，怕是只会变成那金睛兽的盘中餐。=Looking at your current strength if you decided to act rashly, I'm afraid you'll only become the Golden-Eyed Beast's next meal.
+（他说得不错，此事得从长计议，我不妨先招收弟子、提升实力，做好万全准备再前往。）=(He's right, this matter has to be considered carefully, I might as well recruit disciples, improve my strength and take all necessary precautions before setting out.)
+（正好最近有求道者来我派寻求仙缘，先回门派看一看求道者名单上有没有好苗子。）=<size\=20>(It just so happens that recently there are supplicants coming to our sect seeking their destiny, lets first head back to the sect to see if there are any good saplings on the list of petitioners.)</size>
 ###Leave Route
-好吧，等你想做了再来找我吧，不过没有金睛兽精血我是不会说那个消息的。=Well, come back to me when you want to do it, but I won't give any information without the Golden-Eyed Beast Blood.
+好吧，等你想做了再来找我吧，不过没有金睛兽精血我是不会说那个消息的。=Fine, come back to me when you've thought it over, but I won't give you any information without the Golden-Eyed Beast Blood.
 ###Upon Returning to Sect Mountain after achieving Discourse Route
-高，高人！您，您收下我吧！收我为徒！呜……=Venerable, Venerable one! You, you take me in! Take me as a disciple! Woo ...
+高，高人！您，您收下我吧！收我为徒！呜……=Sir, Sir! please, please take me in! Take me as your disciple! sniff ...
 ##......? text
-我知道您此时一定理不清头绪，请您听我说……=I know you must be confused at this moment, please listen to me ...
-我自幼失孤，被叔叔带入修炼之门，但叔叔也英年早逝，从此我便流浪云梦，仗着会些法术就召集狐朋狗友胡作非为……=<size\=18>I have been orphaned since childhood, was brought into the door of cultivation by my Uncle, but my Uncle also died young, since then I wondered <color\=#9F2B68>cloud dream</color> region, relying on basic Techniques and surrounding myself with mischevious friends  ...</size>
-自上次被您惩戒教训后，我想起了叔叔对我的教诲，惭愧不已！我想明白了，我缺少的正是像您这样正直的严师！=Since the last time I was disciplined by you, I remembered what my uncle had taught me and was ashamed! I figured out that what I lacked was a stern and upright teacher like you!
+我知道您此时一定理不清头绪，请您听我说……=I know you must be confused at this moment, please let me explain ...
+我自幼失孤，被叔叔带入修炼之门，但叔叔也英年早逝，从此我便流浪云梦，仗着会些法术就召集狐朋狗友胡作非为……=<size\=18>I have been orphaned since childhood, and was brought into a sect by my Uncle, but he also died young, since then I wandered <color\=#9F2B68>Yun Meng</color> region, relying on my Techniques and fell in with mischevious friends to run amok  ...</size>
+自上次被您惩戒教训后，我想起了叔叔对我的教诲，惭愧不已！我想明白了，我缺少的正是像您这样正直的严师！=Since I was disciplined by you, I remembered what my uncle had taught me and was ashamed! I figured out that what I lacked was a stern and upright teacher like you!
 我愿收你为徒（收为徒弟）=I will take you in as a disciple (Take as Disciple)
 你与我无缘（驱赶离开）=You have no business with me (Drive Away)
 ####Take as Disciple Route
-好，知错能改，善莫大焉，以后你就是我门中人了。=Well, if you know your mistakes can be corrected, there is nothing better, you will be one of us from now on.
+好，知错能改，善莫大焉，以后你就是我门中人了。=Very well, knowing your mistakes and wishing to correct them, is praiseworthy, from now on you will be one of us.
 眼前年轻的男子欣喜若狂，跪下磕了三个响头。=The young man in front was ecstatic and knelt down and kowtowed three times.
 ####Drive Away Route
 ##...... text
-男子脸上流露出落寞的神情，失魂落魄地离开了这里，只留下一个萧瑟的背影——=A despondent look passed over the man's face, and he left the place lost in thought, leaving only a sullen back -
+男子脸上流露出落寞的神情，失魂落魄地离开了这里，只留下一个萧瑟的背影——=A despondent look passed over the man's face, and he left the place lost in thought, leaving with a sullen back -
 
 
 ####Golden-Eyed Beast Blood - Mission
