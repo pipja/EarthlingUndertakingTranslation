@@ -65,14 +65,14 @@
 前面那位似乎也是一名修士，就先问问他吧。=The one in front seems to be a cultivator too, so let's ask him first.
 ###Leave Route
 ##...... text
-（现如今已到了柴桑村，不宜节外生枝，还是处理正事要紧。咦……）=(Now that we have arrived at Chai Sang Village, it is advisable not to cause a trouble outside, and more important to deal with business. Huh ...)
-（前面那位好像是一名修士，不妨先向他打听打听。）=(The one in front seems to be a cultivator too, might as well ask him first.)
+（现如今已到了柴桑村，不宜节外生枝，还是处理正事要紧。咦……）=(Now that we have arrived at Chai Sang Village, it's advisable to not cause trouble here, we have more pressing matters to deal with first. huh ...)
+（前面那位好像是一名修士，不妨先向他打听打听。）=(The one in front seems to be a cultivator too, might as well question him first.)
 ####Both Routes
 黄木=Mu Huang
 「天星叩门」的线索（任务）=The clues on "The Star of Heaven Knocks" (Mission)
-这位道友有礼了，我想跟你打听一下有关「天星叩门」的消息……=This daoist friend is polite, I wish to inquire some information on "The Star of Heaven Knocks" ...
-「天星叩门」不就是那……什么……哎！道友你想知道「天星叩门」？这可不就巧了！=Isn't that the "The Star of Heaven Knocks" ... what? ... oops! You wish to know about the "Heavenly Star Knocking at the Door"? What a coincidence!
-嘿嘿，实不相瞒，我确实知道一些消息，只不过嘛，这消息我来之不易……=Hey, I'm not going to lie, I do know some information, but well, this information was not easy to come by ...
+这位道友有礼了，我想跟你打听一下有关「天星叩门」的消息……=My respects fellow daoist, I wish to inquire any information regarding "The Star of Heaven Knocks" ...
+「天星叩门」不就是那……什么……哎！道友你想知道「天星叩门」？这可不就巧了！=What? "The Star of Heaven Knocks" ... Isn't that the ... oops! You wish to know about the "Heavenly Star Knocking at the Door"? What a coincidence!
+嘿嘿，实不相瞒，我确实知道一些消息，只不过嘛，这消息我来之不易……=Hehe, I'm not going to lie, I do know some information, but well, this information was not easy to come by ...
 我曾听闻此地东北方的九嶷山谷有一只长牙孽畜叫“金睛兽”，此獠一身都是宝，尤其是它的精血可入药炼丹，乃修炼至宝……=<size\=18>I have heard that there is a long-toothed beast called "Golden-Eyed Beast" in Jiuyi Mountain Valley to the northeast of this place, this beast is a treasure, especially its blood can be used in medicine to make Dans, which is most important for cultivation ...</size>
 如果你能为我寻来金睛兽精血，我就告诉你如何？=If you can acquire the Golden-Eyed Beast blood for me, I will show you how to?
 （金睛兽？！那可是妖兽鉴里记载的妖兽，实力之强横……）=(Golden-Eyed Beast? That is a demonic beast recorded in the demonic beast book, it shows tyrranical strength ...)
