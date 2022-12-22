@@ -54,7 +54,7 @@
 ###Discourse Route
 你这次踢到铁板了！=You've stepped into a heap of trouble!
 ##A battle
-你年纪轻轻便如此飞扬跋扈，你家师长就应该好好地管教管教你！你家师长何在？！=At such a young age and you're already pushing others around, your teacher should teach you a lesson! Where is your teacher?
+你年纪轻轻便如此飞扬跋扈，你家师长就应该好好地管教管教你！你家师长何在？！=At such a young age and you're already pushing others around, your teacher needs to teach you better! Where is your teacher?
 <color\=#B21717>（双眼赤红）</color>你……你，你给我记住了！=<size\=20><color\=#B21717>(Eyes Red)</color></size>You ... you, I will remember you!
 瑶姬=Ji Yao
 我乃瑶姬，刚才谢过道友出手解围，我们有缘再见吧。=I am Yao Ji, i must thank you for helping me out of that predicament, if the fates our kind let us meet again.
@@ -65,7 +65,7 @@
 前面那位似乎也是一名修士，就先问问他吧。=The one in front seems to be a cultivator too, so let's ask him first.
 ###Leave Route
 ##...... text
-（现如今已到了柴桑村，不宜节外生枝，还是处理正事要紧。咦……）=(Now that we have arrived at Chai Sang Village, it is advisable not to cause a trouble outside, oand more important to deal with business. Huh ...)
+（现如今已到了柴桑村，不宜节外生枝，还是处理正事要紧。咦……）=(Now that we have arrived at Chai Sang Village, it is advisable not to cause a trouble outside, and more important to deal with business. Huh ...)
 （前面那位好像是一名修士，不妨先向他打听打听。）=(The one in front seems to be a cultivator too, might as well ask him first.)
 ####Both Routes
 黄木=Mu Huang
