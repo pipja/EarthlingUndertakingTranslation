@@ -8,14 +8,14 @@
 什……什么？！我这是，刚才我不是正在入定中吗？我睡着了？=What ... what?! I was, wasn't I just in the middle of meditation? Did I fall asleep?
 （你从睡梦中悠悠醒转过来，右手下意识抚上了案上的古玉，这是你师傅的遗物，上面布满古朴的花纹和淡淡的“红印”。）=<size\=20>(Waking up from your sleep, your right hand subconsciously touched the Ancient Jade on the nightstand. The only thing your Master left behind, adorned with simple designs and a faint "<color\=#B21717>Red Seal</color>")</size>
 原来只是梦吗……哎，师傅，您老人家究竟去哪了……我这些年可是有好好遵从您的嘱托，隐世修炼，不沾凡尘因果……=<size\=20>So it was only a dream? ... Hey, Master, Old man, where'd you go ... I have followed your instructions to the best of my abilities over the years, cultivating in seclusion, having no involvement with mortal affairs...</size>
-但这么多年修为始终原地踏步……为何会如此，难道我……理解错了您所说的「出世之道」……=<size\=20>But why is it after so many years my cultivation still hasn't made any headway ... I just don't understand, did I ... fail to grasp what you meant about "<color\=#FFFFFF>Withdrawing from the World</color>" ...</size>
+但这么多年修为始终原地踏步……为何会如此，难道我……理解错了您所说的「出世之道」……=<size\=20>But why is it even after so many years my cultivation still hasn't made any headway ... I just don't understand, did I ... fail to grasp what you meant about "<color\=#FFFFFF>Withdrawing from the World</color>" ...</size>
 <color\=#B21717>（摇头）</color>罢了，多想无益。=<size\=20><color\=#B21717>(Shakes head)</color></size>It's useless to think more about it.
 进入新手教学= Go through Tutorial
 跳过新手教学= Skip Tutorial
 师、掌门师尊，不好啦……=<size\=20>Master</size>, <size\=20>Master</size>, Master, there is bad news...
 何事如此慌张？！=Why are you flustered?!
 山门外来了一个满嘴胡话的疯老头想要见掌门师尊，怎么赶都赶不走……=Outside the main gate, there's a Crazy Old Man who wants to see you Master. Nothing we did would get him to leave...
-清风师兄上前驱赶，可此人身法诡异无比，每次都只能堪堪摸到对方的衣角……还，还狠狠地摔了一跤。=<size\=18>Senior Brother Qingfeng stepped forward to turn him away, but the old man made some strange hand gestures and Senior Brother could touch the hem of his sleeves before he tumbled down to the ground ... everytime.</size>
+清风师兄上前驱赶，可此人身法诡异无比，每次都只能堪堪摸到对方的衣角……还，还狠狠地摔了一跤。=<size\=18>Senior Brother Qingfeng stepped forward to turn him away, but the old man made some strange hand gestures and Senior Brother couldn't even touch the hem of his sleeves before he tumbled down to the ground ....</size>
 竟有此事？且让出去会会他。=How could this happened? Let's go out and meet him.
 疯老头=Crazy Old Man
 嘿、嘿嘿嘿……嘿嘿。=He, he, he, he ... he, he.
@@ -115,9 +115,9 @@
 
 ####Golden-Eyed Beast Blood - Dialogue
 嗯？一股妖气在此处盘旋……想必金睛兽就在此处了。=Hmm? Demonic Qi is lingering in the air here ... the Golden-Eyed Beast must be near.
-里面或许有前人布置的残留机关，亦或是有妖兽出没，诸般事宜应小心为上。=There may be residual organs laid out by previous challengers, or there may be demonic beasts, so you should be careful at all times.
+里面或许有前人布置的残留机关，亦或是有妖兽出没，诸般事宜应小心为上。=There may still be body parts left behind by the previous challengers with various demonic beast roaming about, so we should be extra careful at all times.
 #Explore Valley
-奇怪，怎的等了许久都不见金睛兽踪影？=Strange, how can one search for a long time, but haven't spotted the Golden-Eyed Beast?
+奇怪，怎的等了许久都不见金睛兽踪影？=Strange, we've waited for such a long time, but still haven't spotted the Golden-Eyed Beast?
 嗯？那是——？=Hmm? Is that--?
 伤疤男子=Scarred Man
 原来你也跟我一样吗……没事，别怕，一会就好。=So you are like me? ... It's okay, don't be afraid, it will be fine in a while.
