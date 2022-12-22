@@ -102,11 +102,11 @@
 
 
 ####Golden-Eyed Beast Blood - Mission
-金睛兽精血\r\n前往「九嶷山谷」\r\n\r\n=Golden-Eyed Beast Blood\n<size\=20> ⋅ Go to "<color\=#023020>Jiuyu Mountain Valley</color>"</size>\r\n\r\n
+金睛兽精血\r\n前往「九嶷山谷」\r\n\r\n=Golden-Eyed Beast Blood\n<size\=20> ⋅ Go to "<color\=#023020>Jiuyu Valley</color>"</size>\r\n\r\n
 金睛兽精血\r\n将金睛兽精血交付给黄木\r\n\r\n=Golden-Eyed Beast Blood\n<size\=20> ⋅ Deliver the Golden Eye Beast Blood to 'Huang Mu'</size>\r\n\r\n
 诛杀九嶷山谷的金睛兽，用它的精血跟黄木换取消息=Kill the Golden Eyed Beast in Jiuyi Valley and use its blood to exchange for information with 'Huang Mu'
-前往「九嶷山谷」=Go to "Jiuyi Mountain Valley"
-前往「九嶷山谷」（已完成）=Go to "Jiuyi Mountain Valley" (Completed)
+前往「九嶷山谷」=Go to "Jiuyi Valley"
+前往「九嶷山谷」（已完成）=Go to "Jiuyi Valley" (Completed)
 寻找「金睛兽精血」=<size\=16>Search for "Golden-Eyed Beast Blood"</size>
 寻找「金睛兽精血」（已完成）=<size\=16>Search for "Golden-Eyed Beast Blood" (Completed)</size>
 将金睛兽精血交付给黄木=<size\=16>Deliver the Golden-Eyed Beast's Blood to 'Huang Mu'</size>
