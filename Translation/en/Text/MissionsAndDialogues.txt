@@ -171,7 +171,7 @@
 哎！糊涂，我怎么就没想起来呢？济苍观掌门道玄子德高望重、道行精深，门内藏书数不胜数，说不定他真的知道些什么。=Dammit! how could i have been so foolish, why didn't I think of it first? The master of JiCang Monastery is highly respected and well versed, besides his school has countless books, maybe he really might know something.
 ###Leave Route
 福生无量天尊！我真是昏了头，这种吊儿郎当的修士有一个算一个，我竟会上当！=Heavenly Father why do you curse me so! I'm such an idiot, With all the scammers in this would, how could I have not known!
-我何不去一趟济苍观呢？济苍观掌门道玄子一直是云梦修士的执牛耳者，他德高望重、道行精深，或许那里会有线索。=Why don't I go to Jicang Guan? He is highly respected and has profound daoist skills, so maybe there will be clues there.
+我何不去一趟济苍观呢？济苍观掌门道玄子一直是云梦修士的执牛耳者，他德高望重、道行精深，或许那里会有线索。=Why don't I go to Jicang Monastery? The master there is highly respected and well versed in the arts, maybe there will be clues I can find there.
 
 
 
@@ -194,21 +194,21 @@
 
 
 ####Shadowless Mountain - Dialogue
-最近村中总是传来村民失踪的消息，虽然派人调查过此事，但都无功而返，老朽是一头雾水啊！还请上仙帮帮忙。=<size\=20>Recently there has been news that villagers missing, although we've sent people to investigate the matter, but all to no avail, this old man is confused ah! Please help us immortals.</size>
+最近村中总是传来村民失踪的消息，虽然派人调查过此事，但都无功而返，老朽是一头雾水啊！还请上仙帮帮忙。=<size\=20>Recently there has been news that villagers have gone missing, although we've sent people to investigate the matter, but all to no avail, this old fool is at his wits end ah! Please help us my lord.</size>
 失踪？他们都是一起失踪的吗？=Missing? Did they all go missing together?
-哎，也不是！一开始是两个浣洗妇失踪，我们都以为她们是被在无空山作乱的强盗给掳了去。=No, not really! At first, two washerwomen disappeared, and we all thought they were taken captive by bandits who were running amok in the Khongless Mountain.
-谁知这件事情发展得越来越诡异，后面三五天就会有一个人失踪！而且都是没有出嫁的黄花大闺女。=Who knows this is becoming more and more bizarre, over three to five days there will be a person missing! And they were all unmarried women.
+哎，也不是！一开始是两个浣洗妇失踪，我们都以为她们是被在无空山作乱的强盗给掳了去。=No, not really! At first, two washerwomen disappeared, and we all thought they were taken captive by bandits who were running amok in the Shadowless Mountain.
+谁知这件事情发展得越来越诡异，后面三五天就会有一个人失踪！而且都是没有出嫁的黄花大闺女。=Who knew this matter became more and more bizarre, over three to five days there will be another person missing! And they were all unmarried women.
 什么？！这些人都是女子？=What?! These people were are all women?
-女、女子？噢对，上仙，这里面难道有什么缘故吗？=Female, female? Oh yes, Great Immortal, could there be a reason for this?
-（有些邪功在修炼时需要各种「鼎炉」，谷老所言便与此种情况相似，此事明显有修士参与……）=(Some demonic arts in the cultivation use various "Human-Furnace", Gu Lao said it is similar to such a situation, the matter is clearly a monk involved ...)
+女、女子？噢对，上仙，这里面难道有什么缘故吗？=Female, female? Oh yes, My lord, could there be a reason for this?
+（有些邪功在修炼时需要各种「鼎炉」，谷老所言便与此种情况相似，此事明显有修士参与……）=(Some demonic arts in the cultivation use various "Human-Furnace", The Elder's description seem similar to just such a situation, clearly a cultivator is involved in this matter...)
 此事我会调查清楚。（接受任务）=I will look into this matter. (Accept the mission)
 
 ###Accept Mission Route
-甚好，甚好啊！那就有劳上仙了。=Very good, very good! Then, I'll be grateful to the Lord.
+甚好，甚好啊！那就有劳上仙了。=Very good, very good! Then, I'll be grateful to you my Lord.
 
 ###Leave Route
-我只是随口一问。（离开）=I'm was just having idle chat. (Leave)
-上仙……=Great Immortal ...
+我只是随口一问。（离开）=I was just having a idle conversation. (Leave)
+上仙……=My Lord ...
 
 
 
