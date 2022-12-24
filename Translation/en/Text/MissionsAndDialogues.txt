@@ -152,25 +152,25 @@
 哎！说你呢！给我站住！=Hey! I'm talking to you! Stop right there!
 ##Relation and View goes Down Heavenly Weapon Sect 
 ###Speaking With 'Huang Mu'
-你竟然真的去了……不，我是说那我可得好好跟你唠……咳，讲讲。=I can't believe you actually went ... No, I mean then I have to nag you ... ahem, to talk about it.
-古籍曾有言：凤皇在庭，朱草丛生，日月合璧……那是有祥瑞发生！=Ancient texts have said: Feng Huang in the court, Zhu grass, the sun and moon together ...... that there is a good fortune occurred!
-这见过的人定是福缘深厚者呀！道友，你近日必定会走大运！哈哈哈！我这里有一张方子，只要你……=Those who have seen it must be those who have deep fortune! Fellow Daoist, you will definitely have great luck in the near future! Hahahaha! I have a Recipe here, if you ...
-<color\=#B21717>（皱眉）</color>什么大运、方子，一套又一套！你该不会是信口胡诌吧？=<size\=20><color\=#B21717>(Frowns)</color></size>What a great fortune and formula, one thing after another! You're not making this up, are you?
-嗤嘻嘻…事到如今我告诉你也无妨！什么「天星叩门」！我骗的就是你这样的傻瓜！=Heh heh heh...it's okay for me to tell you now! What "Star of Heaven is knocking at the door"! It's fools like you that I cheat!
-不过还是多亏了你送给我的妖兽精血，只要我练成固气丹，那突破炼气期有望啦！我还得多谢你哩！=But thanks to the blood of the demon beast you gave me, as long as I practice the Qi fixing Dans, that breakthrough Qi refining stage is expected! I also have to thank you!
-我非教训教训你不可！（进入战斗）=I'm going to teach you a lesson!\n(Enter Fight)
+你竟然真的去了……不，我是说那我可得好好跟你唠……咳，讲讲。=I can't believe you actually went ... cough, I meant I actually wanted to talk to you ... ahem, lets talk.
+古籍曾有言：凤皇在庭，朱草丛生，日月合璧……那是有祥瑞发生！=Ancient texts have said: The Phoenix perches in court, grass sprouts across the land, soon the sun and moon dance together across the sky...... that there is a good fortune!
+这见过的人定是福缘深厚者呀！道友，你近日必定会走大运！哈哈哈！我这里有一张方子，只要你……=Those who have seen said star will know good fortune! My friend, you will definitely have great luck in the near future, i'm jealous! Hahahaha! Now I have a Recipe here and alot to do, so if theres nothing else...
+<color\=#B21717>（皱眉）</color>什么大运、方子，一套又一套！你该不会是信口胡诌吧？=<size\=20><color\=#B21717>(Frowns)</color></size>What does grass sprouting have to do with the sun and moon how does that have anything to do with luck? It's one thing after another with you! You're not making this up as you go along, are you?
+嗤嘻嘻…事到如今我告诉你也无妨！什么「天星叩门」！我骗的就是你这样的傻瓜！=Heh heh heh... I guess theres no harm to telling you now that ive got what I wanted. What "Star of Heaven is knocking at the door"! Fools like you are just asking to be cheated!
+不过还是多亏了你送给我的妖兽精血，只要我练成固气丹，那突破炼气期有望啦！我还得多谢你哩！=Still you deserve thanks for the blood you gave me, as long as I can concoct a Qi cultivation pill, breaking through Qi refining stage will happen sooner or later! So thanks!
+我非教训教训你不可！（进入战斗）=Looks like I'm going to have to teach you a lesson!\n(Enter Combat)
 骂骂咧咧地走开（寻找另外线索）=Curse and Walk away (Look for another Clue)
 ###Fight Route
 ##A Battle
-哎哟、哎哟，大仙饶了小的吧，小的猪油蒙了心！千不该万不该，小的这也是第一次啊！=Aigoo, aigoo, the great master spared the small it, the small lard blinded heart! I should not, this is also the first time ah!
-招摇撞骗到我头上了！你最好能说出点有用的信息，否则……！=Trick or treat to my head! You better be able to say something useful, otherwise ......!
-哎哟！轻、轻点……我知道！我知道！济苍观掌门道玄子，他、他一定知道！=Ouch! Gently, gently ...... I know! I know! Jicang Guan master Dao Xuanzi, he, he must know!
-滚！不要再让我见到你招摇撞骗！=Get out! Don't ever let me see you soliciting again!
-念你是初犯，你走吧。=Mind you are a first-time offender, you go.
+哎哟、哎哟，大仙饶了小的吧，小的猪油蒙了心！千不该万不该，小的这也是第一次啊！=Ow, OWWW, great master spare this insignificant fool, I was blinded by my greed! I shouldn't have I really really shouldn't have, this was the first time, never again, I swear never again ah!
+招摇撞骗到我头上了！你最好能说出点有用的信息，否则……！=Trying to pull one over me! You better have something useful to say, otherwise ......!
+哎哟！轻、轻点……我知道！我知道！济苍观掌门道玄子，他、他一定知道！=Ouch! Gentle, be gentle ...... Wait I know! I know! the master of Jicang monastery, he'll, he'll know for sure!
+滚！不要再让我见到你招摇撞骗！=Get lost! Don't ever let me see you pulling this again!
+念你是初犯，你走吧。=Since you are a first-time offender, you can go.
 ##Get Out & First Time Offender Route
-哎！糊涂，我怎么就没想起来呢？济苍观掌门道玄子德高望重、道行精深，门内藏书数不胜数，说不定他真的知道些什么。=Hey! Confused, why did I not think of it? Ji Cang Guan master Dao Xuanzi is highly respected, profound Taoism, the door has countless books, maybe he really knows something.
+哎！糊涂，我怎么就没想起来呢？济苍观掌门道玄子德高望重、道行精深，门内藏书数不胜数，说不定他真的知道些什么。=Dammit! how could i have been so foolish, why didn't I think of it first? The master of JiCang Monastery is highly respected and well versed, besides his school has countless books, maybe he really might know something.
 ###Leave Route
-福生无量天尊！我真是昏了头，这种吊儿郎当的修士有一个算一个，我竟会上当！=Fusheng Infinite Heavenly Father! I'm so dumbfounded, there's one of these dumbfounded monks, and I fell for it!
+福生无量天尊！我真是昏了头，这种吊儿郎当的修士有一个算一个，我竟会上当！=Heavenly Father why do you curse me so! I'm such an idiot, With all the scammers in this would, how could I have not known!
 我何不去一趟济苍观呢？济苍观掌门道玄子一直是云梦修士的执牛耳者，他德高望重、道行精深，或许那里会有线索。=Why don't I go to Jicang Guan? He is highly respected and has profound daoist skills, so maybe there will be clues there.
 
 
