@@ -184,12 +184,12 @@
 
 ####Shadowless Mountain - Mission
 
-无空山阴影（任务）=Shadow on Empty Void Mountain (Mission)
-无空山阴影\r\n前往无空山寻找掳掠凡人的凶手\r\n\r\n=Shadow on Empty Void Mountain\n<size\=20> ⋅ Go to "<color\=#023020>Empty Void Mountain</color>" to find the captors of women</size>\r\n\r\n
-无空山阴影=Shadow on Empty Void Mountain
-探索「无空山」，找寻掳掠凡人的凶手=Explore the "Empty Void Mountain" to find the captors of the women
-前往无空山寻找掳掠凡人的凶手=Go to Empty Void Mountain to find the captors of the women
-将情况告知阳谷村的「谷老」=Inform 'Gu Lao' of Yanggu Village of the situation
+无空山阴影（任务）=Shadowless Mountain (Mission)
+无空山阴影\r\n前往无空山寻找掳掠凡人的凶手\r\n\r\n=Shadowless Mountain\n<size\=20> ⋅ Go to "<color\=#023020>Mount</color>" to find the captors of women</size>\r\n\r\n
+无空山阴影=Shadowless Mountain
+探索「无空山」，找寻掳掠凡人的凶手=Explore the "Mount" to find the captors of the women
+前往无空山寻找掳掠凡人的凶手=Go to Mount to find the captors of the women
+将情况告知阳谷村的「谷老」=Inform the 'Gu Lao' of Yanggu Village of the situation
 
 
 
