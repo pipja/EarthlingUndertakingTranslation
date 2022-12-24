@@ -115,41 +115,41 @@
 
 ####Golden-Eyed Beast Blood - Dialogue
 嗯？一股妖气在此处盘旋……想必金睛兽就在此处了。=Hmm? Demonic Qi is lingering in the air here ... the Golden-Eyed Beast must be near.
-里面或许有前人布置的残留机关，亦或是有妖兽出没，诸般事宜应小心为上。=There may still be body parts left behind by the previous challengers with various demonic beast roaming about, so we should be extra careful at all times.
+里面或许有前人布置的残留机关，亦或是有妖兽出没，诸般事宜应小心为上。=There are still  body parts left behind by the previous challengers and various demonic beast roaming about, so we should be extra careful at all times.
 #Explore Valley
-奇怪，怎的等了许久都不见金睛兽踪影？=Strange, we've waited for such a long time, but still haven't spotted the Golden-Eyed Beast?
+奇怪，怎的等了许久都不见金睛兽踪影？=Strange, we've waited for such a long time, but we why haven't we seen any signs of the Golden-Eyed Beast?
 嗯？那是——？=Hmm? Is that--?
 伤疤男子=Scarred Man
-原来你也跟我一样吗……没事，别怕，一会就好。=So you are like me? ... It's okay, don't be afraid, it will be fine in a while.
+原来你也跟我一样吗……没事，别怕，一会就好。=You're like me aren't you? ... It's okay, don't be afraid, everything will be fine soon.
 一赤膊上身、背上伤疤纵横交错的男子，正缓缓将灵力渡入受伤小兽体内——=A bare-chested man with scars crisscrossing his body is slowly transferring spiritual energy into the injured beast -
-<color\=#B21717>（叹气）</color>落入陷阱的小兽吗…嗯，并没有看见它的同伴……=<size\=20><color\=#B21717>(Sighs)</color></size>The little beast that fell into the trap?...well, didn't notice its companion ...
-（这男子道行高深，但看似凶狠，实则内心柔软善良）=(This man has a high level of Taoism, but looks fierce, but is actually soft and kind inside)
-（我此番偷窥行径容易引起误会，我还是尽快……）=(My peeping behavior will easily cause misunderstanding, I better annouce myself as soon as possible ...)
+<color\=#B21717>（叹气）</color>落入陷阱的小兽吗…嗯，并没有看见它的同伴……=<size\=20><color\=#B21717>(Sighs)</color></size>The little beast that fell into the trap was alone...there are no signs of its companions ...
+（这男子道行高深，但看似凶狠，实则内心柔软善良）=(This man seems quite skilled, he looks fierce, but is actually soft and kind inside)
+（我此番偷窥行径容易引起误会，我还是尽快……）=(Snooping around like this may cause misunderstandings, Should I...)
 上前表达善意=Come forward to express goodwill
 继续隐藏=Continue to hide
 ###Goodwill & Hide Route
 谁？！谁在那里！=Who? Who's there!
-只见一头金红毛色、头生巨目的妖兽突然蹿出，男子没有丝毫犹豫，转身掠入林中——=Only to see a gold and red fur, the head of a giant demonic beast suddenly leapt out, the man did not hesitate, turned and swept into the forest -
-道友听我解释……=Daoist listen to my explanation ...
+只见一头金红毛色、头生巨目的妖兽突然蹿出，男子没有丝毫犹豫，转身掠入林中——=Within seconds the head of a giant demonic beast covered in a gold and red fur suddenly leapt out, the man did not hesitate, turned and retreated into the forest -
+道友听我解释……=My friend please listen to my explanation ...
 <color\=#B21717>（怒吼）</color>嗷——！！！=<size\=20><color\=#B21717>(Roars)</color></size>OW--!!!
 ##A battle
-呼，这孽畜当真凶狠。=Phew, this sinful animal is really vicious.
-刚才那人已不见踪影了，本想解释一番，看来是缘分未到，此行目的也已经达到，先回去找黄木道友吧。=<size\=20>Just now that person has disappeared, I wanted to explain a little, it seems that it was not fate, the purpose of this trip has also completed, first go back to find Daoist Mu Huang.</size>
+呼，这孽畜当真凶狠。=Phew, this monster was really vicious.
+刚才那人已不见踪影了，本想解释一番，看来是缘分未到，此行目的也已经达到，先回去找黄木道友吧。=<size\=20>By now that person has long since fled, I wanted to explain, but it seems that was not our fate, the purpose of this trip has been completed, lets first head back to find Daoist Mu Huang.</size>
 ###Upon Returning Chanji Village with Blood
 天器宗弟子=<size\=10>Heavenly Weapon Sect Disciples</size>
-前面的，给小爷站住！=In front, stop right there!
-我问你，你有没有见过一名赤裸上身，满是伤疤的修士！=Let me ask you, have you ever seen a topless, scarred monk!
-此人是我窃走了我天器宗宝物！你可不要替他隐瞒，否则……=This person has stolen Heavenly Weapon Sect treasures! You can't hide it for him, otherwise ...
-（他说的不就是刚才救助小兽的那位吗？不过此人好生无礼，到底要不要告诉他呢……）=(Isn't he talking about the one who just rescued the little beast? But this person is so rude, should we tell him or not ...)
-好像见过……=Seems to have met them ...
+前面的，给小爷站住！=Down in front, stop right there your master here has some words for you!
+我问你，你有没有见过一名赤裸上身，满是伤疤的修士！=Let me ask you, have you ever seen a topless, scarred cultivator!
+此人是我窃走了我天器宗宝物！你可不要替他隐瞒，否则……=This person has stolen Heavenly Weapon Sect treasures! Don't cover ofr him, otherwise ...
+（他说的不就是刚才救助小兽的那位吗？不过此人好生无礼，到底要不要告诉他呢……）=(Isn't he talking about the one who just rescued the little beast? But this person has no respect or manners, should we tell him or not ...)
+好像见过……=I might have met him ...
 无视=Ignore
 ###Expose Route
-好、好、好，你快如实交待，此人现在何处？=Good, good, good, you quickly tell the truth, where is this person now?
-似乎在九嶷山一带见过……=Seems to have them around the Jiuyi Mountain Valley area ...
+好、好、好，你快如实交待，此人现在何处？=Good, good, you quickly tell the truth, where is this person now?
+似乎在九嶷山一带见过……=Seems to have them around the Jiuyi Valley area ...
 很好！天器宗会记住你的善意的。=Very well! The Heavenly Weapon Sect will remember your goodwill.
 ##Relation and View goes Up Heavenly Weapon Sect 
 ###Ignore Route
-哎！说你呢！给我站住！=Hey! I'm talking about you! Stop right there!
+哎！说你呢！给我站住！=Hey! I'm talking to you! Stop right there!
 ##Relation and View goes Down Heavenly Weapon Sect 
 ###Speaking With 'Huang Mu'
 你竟然真的去了……不，我是说那我可得好好跟你唠……咳，讲讲。=I can't believe you actually went ... No, I mean then I have to nag you ... ahem, to talk about it.
