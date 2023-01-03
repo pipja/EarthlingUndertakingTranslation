@@ -212,6 +212,28 @@
 
 
 
+##Proofread but unsorted and resized
+
+一团巨大的阴影横亘在道路上，挡住了去路——=A large shadow stretching across the road, from something blocking the road. 
+呼……呼呼……呼Zzzz=Coo ... Coo ... Coo Zzzz
+呜哇！！=Waah!!!
+咕唔……=Caw...
+是小个子？小个子好，大鸟不好。=Is it a small guy? Small people are good, big birds are bad.
+（山神？山神隐于山中帮助世俗调节四时风雨，颇受尊敬，但它平日里都是在招摇山一带活动……）=(Mountain God? Typically unseen but well respected in the secular world for adjusting the four seasons, and the coming of wind and rain. Normally it should be around Mt. Zhaoyao...) 
+招摇山的守护者，还请让开道路。=Zhaoyao Mountain Guardian, please move out the way.
+有大鸟……回不去……好人说……这里等。=There's a huge bird ... unable to leave ... the man said ... to wait here.
+火……火。=Fire ...... fire.
+火！火！火！=Fire! Fire! Fire!
+（但看来无法用寻常方式去沟通…该如何是好？）=(Commnicating normally seems impossible, what should I do?)
+杀了它！（进入战斗）=Kill it! (Enter the battle)
+询问大鸟是什么=Ask the large bird what it is
+很厉害，在山上。=Very powerful, in the middle of something.
+招、招摇山？=Bragging, Ostentatious about the mountain?
+看来有什么妖祟占据了招摇山，也许解决了它，山神自然就会回去。=There must be a demonic spirit occupying the Zhaoyao Mountain, maybe after solving it, the mountain god will naturally go back.
+询问没有家是什么意思=Ask what it means to be without a home
+山上，火，好大、好多。=The fire is large and widespread on the mountain.
+
+
 ##Transferred but not proofread. 
 
 昨夜我们去探查了一处隐秘的洞府……回来之后门中弟子就变成了这般模样，孙神医你看眼下如何是好？=Last night we went to explore a hidden cave ...... came back after the disciples in the door became like this, Sun divine doctor you see how to do now?
@@ -247,24 +269,6 @@
 也好，疑惑既答，我也不留小友了。这是我的一点心意，望请小友不要推辞。=Good, doubts are answered, and I will not keep you. This is a small token of my appreciation, I hope you will not resist.
 小友可找到解决方法了？=Have you found a solution?
 山神堵路=Mountain Gods Blocking the Road
-一团巨大的阴影横亘在道路上，挡住了去路——=A huge shadow stretched across the road, blocking the way -
-呼……呼呼……呼Zzzz=Hoo ...... Hoo ...... Hoo Zzzz
-呜哇！！=Woohoo!!!
-咕唔……=Goo Well ......
-是小个子？小个子好，大鸟不好。=Is it a small guy? Small people are good, big birds are bad.
-（山神？山神隐于山中帮助世俗调节四时风雨，颇受尊敬，但它平日里都是在招摇山一带活动……）=(Mountain God? The mountain god is hidden in the mountains to help the world to regulate the four seasons of wind and rain, quite respected, but it is usually in the area of Zhaoyao Mountain activities ......)
-招摇山的守护者，还请让开道路。=Guardians of the waving mountain, please also get out of the way.
-有大鸟……回不去……好人说……这里等。=There are big birds ...... can't get back to ...... good people say ...... here and so on.
-火……火。=Fire ...... fire.
-火！火！火！=Fire! Fire! Fire!
-（但看来无法用寻常方式去沟通…该如何是好？）=(But it seems impossible to communicate in the usual way...what should I do?)
-杀了它！（进入战斗）=Kill it! (Enter the battle)
-询问大鸟是什么=Ask Big Bird what it is
-很厉害，在山上。=Very impressive, on the mountain.
-招、招摇山？=Recruiting, Recruiting Mountain?
-看来有什么妖祟占据了招摇山，也许解决了它，山神自然就会回去。=It seems that there is some kind of demonic spirit occupying the Zhaoyu Mountain, maybe after solving it, the mountain god will naturally go back.
-询问没有家是什么意思=Ask what it means to have no home
-山上，火，好大、好多。=On the mountain, the fire, so big and so much.
 无法交流，我且暂时告退吧（离开）=I can't communicate, so I'll leave for now (leave)
 道路……通畅了。=The road ...... is open.
 招摇山火光=Firelight in the waving mountains
